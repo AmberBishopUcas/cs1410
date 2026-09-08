@@ -1,5 +1,6 @@
 import random
 
+
 #loads a matrix from a file
 def load_matrix(mart_name):
     matrix = []
@@ -9,6 +10,12 @@ def load_matrix(mart_name):
             matrix.append(row.split(","))
     return matrix
 
+def create_matrix(rows, cols):
+    matrix = []
+    for i in range(rows):
+        row = [0] * cols
+        matrix.append(row)
+    return matrix
 
 #randomises the entire matrix
 def randomise_matrix(matrix):
@@ -25,10 +32,3 @@ def save_matrix(matrix, filename):
     with open(filename, "w") as file:
         for row in matrix:
             file.write("[{}]\n".format(", ".join(str(x) for x in row)))
-
-
-matrix = load_matrix("input_handling_matr.txt")
-
-randomise_matrix(matrix)
-
-save_matrix(matrix, "output_matrix.txt")
