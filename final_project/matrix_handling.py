@@ -1,10 +1,17 @@
+import os
 import random
+
+
+def get_file_path(filename):
+    if os.path.isabs(filename):
+        return filename
+    return os.path.join(os.path.dirname(__file__), filename)
 
 
 #loads a matrix from a file
 def load_matrix(mart_name):
     matrix = []
-    with open(mart_name, "r") as file:
+    with open(get_file_path(mart_name), "r") as file:
         for line in file:
             row=(line.strip()).replace("[", "").replace("]", "").replace(", ", ",")
             matrix.append(row.split(","))
@@ -29,6 +36,6 @@ def randomise_matrix(matrix):
 
 #saves the matrix to a file
 def save_matrix(matrix, filename):
-    with open(filename, "w") as file:
+    with open(get_file_path(filename), "w") as file:
         for row in matrix:
             file.write("[{}]\n".format(", ".join(str(x) for x in row)))

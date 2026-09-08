@@ -1,18 +1,22 @@
 import csv
-wordlst = []
-with open("wordlist.csv", "r") as file:
-    reader = csv.reader(file)
-    next(reader)
-    for row in reader:
-        wordlst.append(row[1])
+import os
+
+filename = os.path.join(os.path.dirname(__file__), "wordlist.csv")
 
 
 def sentence_to_token(sentence):
+    wordlst = []
+    with open(filename, "r") as file:
+        reader = csv.reader(file)
+        next(reader)
+        for row in reader:
+            wordlst.append(row[1])
+
     def wtn(word):
         try:
             return wordlst.index(word)
         except ValueError:
-            return wordlst[0]
+            return 0
     sentence = sentence.lower()
     words = sentence.split()
     punctuation = ".,!?;: "
@@ -27,6 +31,13 @@ def sentence_to_token(sentence):
 
 
 def token_to_sentence(tokens):
+    wordlst = []
+    with open(filename, "r") as file:
+        reader = csv.reader(file)
+        next(reader)
+        for row in reader:
+            wordlst.append(row[1])
+
     sentence = ""
 
     punctuation = ".,!?;:"
@@ -42,6 +53,3 @@ def token_to_sentence(tokens):
             sentence += word
 
     return sentence
-
-print(sentence_to_token("Hello!, how are you?"))
-print(token_to_sentence(sentence_to_token("Hello!, how are you?")))
