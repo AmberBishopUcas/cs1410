@@ -5,3 +5,5 @@
 # from other files, and internal python modules 
 # like os and random are fine, but no external 
 # libraries like numpy or pandas.
+from matrix_handling import create_matrix, randomise_matrix, save_matrix, load_matrix, hadamard_product, matrix_multiplication
+

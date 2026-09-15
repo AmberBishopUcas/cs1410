@@ -3,29 +3,31 @@ import os
 
 filename = os.path.join(os.path.dirname(__file__), "wordlist.csv")
 
-
-def sentence_to_token(sentence):
+def sentence_to_chunk(sentence):
     wordlst = []
     with open(filename, "r") as file:
         reader = csv.reader(file)
         next(reader)
         for row in reader:
             wordlst.append(row[1])
+    sentence = list(sentence)
+    
+        
+    
 
-    def wtn(word):
-        try:
-            return wordlst.index(word)
-        except ValueError:
-            return 0
-    sentence = sentence.lower()
-    words = sentence.split()
-    punctuation = ".,!?;: "
+def chunk_to_token(chunk):
+    wordlst = []
+    with open(filename, "r") as file:
+        reader = csv.reader(file)
+        next(reader)
+        for row in reader:
+            wordlst.append(row[1])
+        
 
-    for mark in punctuation:
-        sentence = sentence.replace(mark, " " + mark + " ")
 
-    words = sentence.split()
-    return [wtn(word) for word in words]
+
+def sentence_to_token(sentence):
+    pass
 
 
 
@@ -53,3 +55,8 @@ def token_to_sentence(tokens):
             sentence += word
 
     return sentence
+
+
+
+print(sentence_to_chunk("hello world!"))
+
