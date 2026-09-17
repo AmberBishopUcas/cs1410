@@ -3,60 +3,18 @@ import os
 
 filename = os.path.join(os.path.dirname(__file__), "wordlist.csv")
 
-def sentence_to_chunk(sentence):
+def csv_to_list(filename):
     wordlst = []
     with open(filename, "r") as file:
         reader = csv.reader(file)
         next(reader)
         for row in reader:
             wordlst.append(row[1])
-    sentence = list(sentence)
-    
-        
-    
+    return wordlst
 
-def chunk_to_token(chunk):
-    wordlst = []
-    with open(filename, "r") as file:
-        reader = csv.reader(file)
-        next(reader)
-        for row in reader:
-            wordlst.append(row[1])
-        
-
-
-
-def sentence_to_token(sentence):
-    pass
-
-
-
-
-def token_to_sentence(tokens):
-    wordlst = []
-    with open(filename, "r") as file:
-        reader = csv.reader(file)
-        next(reader)
-        for row in reader:
-            wordlst.append(row[1])
-
-    sentence = ""
-
-    punctuation = ".,!?;:"
-
-    for num in tokens:
-        word = wordlst[num]
-
-        if word in punctuation:
-            sentence += word
-        else:
-            if sentence != "":
-                sentence += " "
-            sentence += word
-
-    return sentence
-
-
-
-print(sentence_to_chunk("hello world!"))
-
+def save_wordlist_to_csv(wordlist, filename):
+    with open(filename, mode="w", newline="", encoding="utf-8") as file:
+        writer = csv.writer(file)
+        writer.writerow(["id", "word"])
+        for i, item in enumerate(wordlist, start=1):
+            writer.writerow([i, item])
