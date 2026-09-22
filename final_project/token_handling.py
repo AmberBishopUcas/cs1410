@@ -28,22 +28,21 @@ def chunk_to_tokens(chunk):
         if token.isspace():
             token = "<SPACE>"
         if token in wordlist:
-            tokens.append(wordlist.index(token))
+            tokens.append(wordlist.index(token) + 1)
     return tokens
 
 def tokens_to_matrix(tokens):
     matrix = load_matrix(wordlist_matrix)
     matrix_tokens = []
     for token in tokens:
-        token = matrix[token]
-        matrix_tokens.append(token)
+        matrix_tokens.append(matrix[token - 1])
     return matrix_tokens
 
 def token_to_chunk(tokens):
     wordlist = csv_to_list(wrdlst_filename)
     chunks = []
     for token in tokens:
-        token = wordlist[token]
+        token = wordlist[token - 1]
         if token == "<SPACE>":
                     token = " "
         chunks.append(token)
