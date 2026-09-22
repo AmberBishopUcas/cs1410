@@ -7,8 +7,6 @@
 # repeated until a desired vocabulary size is 
 # reached. The resulting vocabulary can be used 
 # for tokenization in natural language processing tasks.
-import csv
-from fileinput import filename
 import os
 from csv_handling import csv_to_list, save_wordlist_to_csv
 

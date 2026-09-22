@@ -1,3 +1,4 @@
+<start>
 First Citizen:
 Before we proceed any further, hear me speak.
 
@@ -5951,6 +5952,9 @@ Hath widow'd and unchilded many a one,
 Which to this hour bewail the injury,
 Yet he shall have a noble memory. Assist.
 
+<end>
+
+<start>
 GLOUCESTER:
 Now is the winter of our discontent
 Made glorious summer by this sun of York;
@@ -11696,6 +11700,9 @@ That would with treason wound this fair land's peace!
 Now civil wounds are stopp'd, peace lives again:
 That she may long live here, God say amen!
 
+<end>
+
+<start>
 KING RICHARD II:
 Old John of Gaunt, time-honour'd Lancaster,
 Hast thou, according to thy oath and band,
@@ -15598,6 +15605,9 @@ March sadly after; grace my mournings here;
 In weeping after this untimely bier.
 
 
+<end>
+
+<start>
 SAMPSON:
 Gregory, o' my word, we'll not carry coals.
 
@@ -20331,6 +20341,9 @@ Some shall be pardon'd, and some punished:
 For never was a story of more woe
 Than this of Juliet and her Romeo.
 
+<end>
+
+<start>
 WARWICK:
 I wonder how the king escaped our hands.
 
@@ -24846,6 +24859,9 @@ Such as befits the pleasure of the court?
 Sound drums and trumpets! farewell sour annoy!
 For here, I hope, begins our lasting joy.
 
+<end>
+
+<start>
 ARCHIDAMUS:
 If you shall chance, Camillo, to visit Bohemia, on
 the like occasion whereon my services are now on
@@ -29642,6 +29658,9 @@ Each one demand an answer to his part
 Perform'd in this wide gap of time since first
 We were dissever'd: hastily lead away.
 
+<end>
+
+<start>
 DUKE VINCENTIO:
 Escalus.
 
@@ -34191,6 +34210,9 @@ What's mine is yours and what is yours is mine.
 So, bring us to our palace; where we'll show
 What's yet behind, that's meet you all should know.
 
+<end>
+
+<start>
 SLY:
 I'll pheeze you, in faith.
 
@@ -38563,6 +38585,9 @@ Now, go thy ways; thou hast tamed a curst shrew.
 LUCENTIO:
 'Tis a wonder, by your leave, she will be tamed so.
 
+<end>
+
+<start>
 Master:
 Boatswain!
 
@@ -39998,3 +40023,4 @@ ANTONIO:
 Noble Sebastian,
 Thou let'st thy fortune sleep--die, rather; wink'st
 Whiles thou art waking.
+<end>
