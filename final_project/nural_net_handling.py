@@ -108,7 +108,7 @@ def calculate_network(network, weights, inputs):
         print("warning inputs exceed amount of input nurons...\ncutting off excess inputs")
     for i in range(len(network[0])):
         # place the input values into the first layer of neurons
-        network[0][i][0] = input[i]
+        network[0][i][0] = inputs[i]
     for layer_number in range(1, len(network)):
         # move forward one layer at a time using the weight matrix from the previous layer
         calculate_layer(layer_number, network, weights[layer_number - 1])

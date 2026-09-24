@@ -44,7 +44,7 @@ def randomise_matrix(matrix):
     """Randomize every value in a matrix using a small positive range."""
     def randomise_cell(cell, x, y):
         # fill this one cell with a tiny random value so weights don't start too large
-        cell[x][y] = random.uniform(0, 0.2)
+        cell[x][y] = random.uniform(-0.1, 0.1)
         return cell[x][y]
 
     for i in range(len(matrix)):
@@ -103,14 +103,3 @@ def matrix_print(matrix):
     """Display a matrix in a simple row-by-row format for debugging."""
     for i in range(len(matrix)):
         print(matrix[i])
-
-
-def get_g(network, layer):
-    """Return a derivative-style activation mask for a layer, used by training logic."""
-    g = create_matrix(1, len(network[layer]))
-    for i in range(len(network)):
-        if network[i][0] != 0:
-            # mark this neuron as active when it has a nonzero current value
-            g[i] = 1
-    return g
-

@@ -6,3 +6,13 @@
 # (W^T_next × Error_next) ⊙ g'(z)
 # This is a core concept for training large language models and other neural nets.
 from matrix_handling import matrix_transpose as transpose, create_matrix
+
+def get_g(network):
+    g = {
+    }
+    for i in range(len(network)):
+        g[i] = create_matrix(len(network[i], 1))
+        for j in range(len(network[i])):
+            if network[i][j][0] != 0:
+                g[i][j] = 1
+    return g
