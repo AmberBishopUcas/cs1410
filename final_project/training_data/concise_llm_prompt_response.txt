@@ -1,0 +1,12434 @@
+<PROMPT>
+Sort ascending: -15, -5, 41, 54, 1.
+<PROMPT>
+<RESPONSE>
+-15, -5, 1, 41, 54.
+<RESPONSE>
+
+<PROMPT>
+What is 25% of 672?
+<PROMPT>
+<RESPONSE>
+168.
+<RESPONSE>
+
+<PROMPT>
+How many letters are in "fig"?
+<PROMPT>
+<RESPONSE>
+3.
+<RESPONSE>
+
+<PROMPT>
+Reverse the word fig.
+<PROMPT>
+<RESPONSE>
+gif.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of -124?
+<PROMPT>
+<RESPONSE>
+124.
+<RESPONSE>
+
+<PROMPT>
+Calculate -16 + 46.
+<PROMPT>
+<RESPONSE>
+30.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the presentation is on Friday.
+<PROMPT>
+<RESPONSE>
+Reminder: The presentation is on Friday.
+<RESPONSE>
+
+<PROMPT>
+Calculate 48 - -115.
+<PROMPT>
+<RESPONSE>
+163.
+<RESPONSE>
+
+<PROMPT>
+Calculate -170 ÷ 17.
+<PROMPT>
+<RESPONSE>
+-10.
+<RESPONSE>
+
+<PROMPT>
+What is the area of a square with side length 55 cm?
+<PROMPT>
+<RESPONSE>
+3025 cm².
+<RESPONSE>
+
+<PROMPT>
+What is -36 + 69?
+<PROMPT>
+<RESPONSE>
+33.
+<RESPONSE>
+
+<PROMPT>
+What is 10 + -47?
+<PROMPT>
+<RESPONSE>
+-37.
+<RESPONSE>
+
+<PROMPT>
+Write a polite, one-sentence request for the document.
+<PROMPT>
+<RESPONSE>
+Could you please send me the document?
+<RESPONSE>
+
+<PROMPT>
+What is the capital of Australia?
+<PROMPT>
+<RESPONSE>
+Canberra.
+<RESPONSE>
+
+<PROMPT>
+How do I get the length of a Python list called items?
+<PROMPT>
+<RESPONSE>
+`len(items)`
+<RESPONSE>
+
+<PROMPT>
+What is 24 × -5?
+<PROMPT>
+<RESPONSE>
+-120.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: -19, -5, -11, 39, 44.
+<PROMPT>
+<RESPONSE>
+44, 39, -5, -11, -19.
+<RESPONSE>
+
+<PROMPT>
+What is 88 divided by 8?
+<PROMPT>
+<RESPONSE>
+11.
+<RESPONSE>
+
+<PROMPT>
+What is the area of a square with side length 33 cm?
+<PROMPT>
+<RESPONSE>
+1089 cm².
+<RESPONSE>
+
+<PROMPT>
+What is 450 divided by 18?
+<PROMPT>
+<RESPONSE>
+25.
+<RESPONSE>
+
+<PROMPT>
+Is 890 even or odd?
+<PROMPT>
+<RESPONSE>
+Even.
+<RESPONSE>
+
+<PROMPT>
+How do I handle a missing dictionary key in Python?
+<PROMPT>
+<RESPONSE>
+Use `data.get(key)` for a default of `None`, or `data.get(key, default)`.
+<RESPONSE>
+
+<PROMPT>
+What is 25% of 533?
+<PROMPT>
+<RESPONSE>
+133.25.
+<RESPONSE>
+
+<PROMPT>
+Write a short follow-up asking for an update on the estimate.
+<PROMPT>
+<RESPONSE>
+Could you share an update on the estimate?
+<RESPONSE>
+
+<PROMPT>
+What is -75 divided by 5?
+<PROMPT>
+<RESPONSE>
+-15.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: cedar river stone bright.
+<PROMPT>
+<RESPONSE>
+4.
+<RESPONSE>
+
+<PROMPT>
+What is 10% of 301?
+<PROMPT>
+<RESPONSE>
+30.1.
+<RESPONSE>
+
+<PROMPT>
+Calculate -460 ÷ 23.
+<PROMPT>
+<RESPONSE>
+-20.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: melon, date, plum, banana.
+<PROMPT>
+<RESPONSE>
+banana, date, melon, plum.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the budget review is on Thursday.
+<PROMPT>
+<RESPONSE>
+Reminder: The budget review is on Thursday.
+<RESPONSE>
+
+<PROMPT>
+11 - 132 = ?
+<PROMPT>
+<RESPONSE>
+-121.
+<RESPONSE>
+
+<PROMPT>
+Convert 177 weeks to days.
+<PROMPT>
+<RESPONSE>
+1,239 days.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the design meeting is on Monday.
+<PROMPT>
+<RESPONSE>
+Reminder: The design meeting is on Monday.
+<RESPONSE>
+
+<PROMPT>
+What is 75% of 541?
+<PROMPT>
+<RESPONSE>
+405.75.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: peach, date, apple, mango.
+<PROMPT>
+<RESPONSE>
+apple, date, mango, peach.
+<RESPONSE>
+
+<PROMPT>
+What does 301 mean in HTTP?
+<PROMPT>
+<RESPONSE>
+The resource has moved permanently to another URL.
+<RESPONSE>
+
+<PROMPT>
+Calculate 140 - -31.
+<PROMPT>
+<RESPONSE>
+171.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the product demo is on Thursday.
+<PROMPT>
+<RESPONSE>
+Reminder: The product demo is on Thursday.
+<RESPONSE>
+
+<PROMPT>
+Write a short message confirming a 10 a.m. appointment.
+<PROMPT>
+<RESPONSE>
+Confirming our appointment at 10 a.m. See you then.
+<RESPONSE>
+
+<PROMPT>
+How do I remove a coffee stain from a washable shirt?
+<PROMPT>
+<RESPONSE>
+Blot it, rinse with cool water, apply detergent, then wash according to the care label.
+<RESPONSE>
+
+<PROMPT>
+72 - 153 = ?
+<PROMPT>
+<RESPONSE>
+-81.
+<RESPONSE>
+
+<PROMPT>
+Calculate 460 ÷ 23.
+<PROMPT>
+<RESPONSE>
+20.
+<RESPONSE>
+
+<PROMPT>
+Write a short confirmation that I will submit the form.
+<PROMPT>
+<RESPONSE>
+I’ll submit the form.
+<RESPONSE>
+
+<PROMPT>
+Write a short follow-up asking for an update on the design.
+<PROMPT>
+<RESPONSE>
+Could you share an update on the design?
+<RESPONSE>
+
+<PROMPT>
+Reply with only the number 7.
+<PROMPT>
+<RESPONSE>
+7
+<RESPONSE>
+
+<PROMPT>
+What is a tissue in biology?
+<PROMPT>
+<RESPONSE>
+A group of similar cells working together.
+<RESPONSE>
+
+<PROMPT>
+Calculate 203 - 181.
+<PROMPT>
+<RESPONSE>
+22.
+<RESPONSE>
+
+<PROMPT>
+What is 66 - 98?
+<PROMPT>
+<RESPONSE>
+-32.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: pear, apple, banana.
+<PROMPT>
+<RESPONSE>
+apple, banana, pear.
+<RESPONSE>
+
+<PROMPT>
+Shorten: I am writing to let you know that I will be unable to attend the meeting tomorrow.
+<PROMPT>
+<RESPONSE>
+I can't attend tomorrow's meeting.
+<RESPONSE>
+
+<PROMPT>
+What is -15 × 15?
+<PROMPT>
+<RESPONSE>
+-225.
+<RESPONSE>
+
+<PROMPT>
+What is 117 divided by 9?
+<PROMPT>
+<RESPONSE>
+13.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of -142?
+<PROMPT>
+<RESPONSE>
+142.
+<RESPONSE>
+
+<PROMPT>
+-64 - 81 = ?
+<PROMPT>
+<RESPONSE>
+-145.
+<RESPONSE>
+
+<PROMPT>
+What does 'e.g.' mean?
+<PROMPT>
+<RESPONSE>
+For example.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: river forest silver.
+<PROMPT>
+<RESPONSE>
+3.
+<RESPONSE>
+
+<PROMPT>
+Calculate -4 + -18.
+<PROMPT>
+<RESPONSE>
+-22.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -15 = 5.
+<PROMPT>
+<RESPONSE>
+x = 20.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of 12?
+<PROMPT>
+<RESPONSE>
+12.
+<RESPONSE>
+
+<PROMPT>
+Calculate 8 × -15.
+<PROMPT>
+<RESPONSE>
+-120.
+<RESPONSE>
+
+<PROMPT>
+Reverse the word cherry.
+<PROMPT>
+<RESPONSE>
+yrrehc.
+<RESPONSE>
+
+<PROMPT>
+What is the area of a square with side length 51 cm?
+<PROMPT>
+<RESPONSE>
+2601 cm².
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: kiwi, lime, mango, peach.
+<PROMPT>
+<RESPONSE>
+kiwi, lime, mango, peach.
+<RESPONSE>
+
+<PROMPT>
+What is the unit of time in SI?
+<PROMPT>
+<RESPONSE>
+The second.
+<RESPONSE>
+
+<PROMPT>
+What does TCP stand for?
+<PROMPT>
+<RESPONSE>
+Transmission Control Protocol.
+<RESPONSE>
+
+<PROMPT>
+Calculate -86 + -104.
+<PROMPT>
+<RESPONSE>
+-190.
+<RESPONSE>
+
+<PROMPT>
+Is 258 even or odd?
+<PROMPT>
+<RESPONSE>
+Even.
+<RESPONSE>
+
+<PROMPT>
+What does HTTP stand for?
+<PROMPT>
+<RESPONSE>
+Hypertext Transfer Protocol.
+<RESPONSE>
+
+<PROMPT>
+What does TLS stand for?
+<PROMPT>
+<RESPONSE>
+Transport Layer Security.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: 31, 3, 0, -12, 43.
+<PROMPT>
+<RESPONSE>
+43, 31, 3, 0, -12.
+<RESPONSE>
+
+<PROMPT>
+-53 - 238 = ?
+<PROMPT>
+<RESPONSE>
+-291.
+<RESPONSE>
+
+<PROMPT>
+How many degrees are in a right angle?
+<PROMPT>
+<RESPONSE>
+90°.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the interview is on Monday.
+<PROMPT>
+<RESPONSE>
+Reminder: The interview is on Monday.
+<RESPONSE>
+
+<PROMPT>
+What is CSV?
+<PROMPT>
+<RESPONSE>
+A plain-text format for tabular data, with records on lines and fields commonly separated by commas.
+<RESPONSE>
+
+<PROMPT>
+What is the area of a square with side length 38 cm?
+<PROMPT>
+<RESPONSE>
+1444 cm².
+<RESPONSE>
+
+<PROMPT>
+What is the perimeter of a square with side length 25 cm?
+<PROMPT>
+<RESPONSE>
+100 cm.
+<RESPONSE>
+
+<PROMPT>
+Correct the grammar: She don't like coffee.
+<PROMPT>
+<RESPONSE>
+She doesn't like coffee.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: bright window river stone paper forest.
+<PROMPT>
+<RESPONSE>
+6.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the interview on Tuesday.
+<PROMPT>
+<RESPONSE>
+The interview — Tuesday
+<RESPONSE>
+
+<PROMPT>
+What is the perimeter of a square with side length 29 cm?
+<PROMPT>
+<RESPONSE>
+116 cm.
+<RESPONSE>
+
+<PROMPT>
+What is 2 to the power of 5?
+<PROMPT>
+<RESPONSE>
+32.
+<RESPONSE>
+
+<PROMPT>
+What does IDE stand for?
+<PROMPT>
+<RESPONSE>
+Integrated development environment.
+<RESPONSE>
+
+<PROMPT>
+58 - -65 = ?
+<PROMPT>
+<RESPONSE>
+123.
+<RESPONSE>
+
+<PROMPT>
+What is the first letter of 'orange'?
+<PROMPT>
+<RESPONSE>
+o.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the client call is on Tuesday.
+<PROMPT>
+<RESPONSE>
+Reminder: The client call is on Tuesday.
+<RESPONSE>
+
+<PROMPT>
+What is -2 × -18?
+<PROMPT>
+<RESPONSE>
+36.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: 13, -16, 26, 59, 49.
+<PROMPT>
+<RESPONSE>
+59, 49, 26, 13, -16.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -16 = 52.
+<PROMPT>
+<RESPONSE>
+x = 68.
+<RESPONSE>
+
+<PROMPT>
+Convert 81 days to hours.
+<PROMPT>
+<RESPONSE>
+1,944 hours.
+<RESPONSE>
+
+<PROMPT>
+What is 50% of 54?
+<PROMPT>
+<RESPONSE>
+27.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: 44, -1, -2, -7, -15.
+<PROMPT>
+<RESPONSE>
+44, -1, -2, -7, -15.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: mango, apple, pear, kiwi.
+<PROMPT>
+<RESPONSE>
+apple, kiwi, mango, pear.
+<RESPONSE>
+
+<PROMPT>
+-5 - 188 = ?
+<PROMPT>
+<RESPONSE>
+-193.
+<RESPONSE>
+
+<PROMPT>
+Correct the grammar: I seen the movie yesterday.
+<PROMPT>
+<RESPONSE>
+I saw the movie yesterday.
+<RESPONSE>
+
+<PROMPT>
+Make the word date uppercase.
+<PROMPT>
+<RESPONSE>
+DATE.
+<RESPONSE>
+
+<PROMPT>
+What is plagiarism?
+<PROMPT>
+<RESPONSE>
+Presenting someone else's work or ideas as your own without proper attribution.
+<RESPONSE>
+
+<PROMPT>
+Write a short message asking for an update on a project.
+<PROMPT>
+<RESPONSE>
+Could you share a quick update on the project?
+<RESPONSE>
+
+<PROMPT>
+Calculate 6 × 13.
+<PROMPT>
+<RESPONSE>
+78.
+<RESPONSE>
+
+<PROMPT>
+Calculate -33 + 105.
+<PROMPT>
+<RESPONSE>
+72.
+<RESPONSE>
+
+<PROMPT>
+Convert 283 minutes to seconds.
+<PROMPT>
+<RESPONSE>
+16,980 seconds.
+<RESPONSE>
+
+<PROMPT>
+What is the area of a circle with radius 2 cm?
+<PROMPT>
+<RESPONSE>
+4π cm², about 12.57 cm².
+<RESPONSE>
+
+<PROMPT>
+Calculate -2 × 5.
+<PROMPT>
+<RESPONSE>
+-10.
+<RESPONSE>
+
+<PROMPT>
+What does IP stand for in networking?
+<PROMPT>
+<RESPONSE>
+Internet Protocol.
+<RESPONSE>
+
+<PROMPT>
+Write a short follow-up asking for an update on the spreadsheet.
+<PROMPT>
+<RESPONSE>
+Could you share an update on the spreadsheet?
+<RESPONSE>
+
+<PROMPT>
+Make the word grape uppercase.
+<PROMPT>
+<RESPONSE>
+GRAPE.
+<RESPONSE>
+
+<PROMPT>
+Is 367 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: -24, 2, 52, -10, -16.
+<PROMPT>
+<RESPONSE>
+52, 2, -10, -16, -24.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: red blue green.
+<PROMPT>
+<RESPONSE>
+3.
+<RESPONSE>
+
+<PROMPT>
+What is 1 × -14?
+<PROMPT>
+<RESPONSE>
+-14.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: 36, 57, 24, 31, 2.
+<PROMPT>
+<RESPONSE>
+2, 24, 31, 36, 57.
+<RESPONSE>
+
+<PROMPT>
+Calculate 239 + -29.
+<PROMPT>
+<RESPONSE>
+210.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of -32?
+<PROMPT>
+<RESPONSE>
+32.
+<RESPONSE>
+
+<PROMPT>
+What is 92 - -70?
+<PROMPT>
+<RESPONSE>
+162.
+<RESPONSE>
+
+<PROMPT>
+Calculate -6 × 19.
+<PROMPT>
+<RESPONSE>
+-114.
+<RESPONSE>
+
+<PROMPT>
+Convert 520 kilograms to grams.
+<PROMPT>
+<RESPONSE>
+520,000 grams.
+<RESPONSE>
+
+<PROMPT>
+No explanation: sort 4, 1, 3.
+<PROMPT>
+<RESPONSE>
+1, 3, 4.
+<RESPONSE>
+
+<PROMPT>
+Calculate -76 ÷ 19.
+<PROMPT>
+<RESPONSE>
+-4.
+<RESPONSE>
+
+<PROMPT>
+What is a solute?
+<PROMPT>
+<RESPONSE>
+The substance dissolved in a solution.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -9 = 59.
+<PROMPT>
+<RESPONSE>
+x = 68.
+<RESPONSE>
+
+<PROMPT>
+Is 657 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+What is 98 - 46?
+<PROMPT>
+<RESPONSE>
+52.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: stone cloud cedar paper bright amber.
+<PROMPT>
+<RESPONSE>
+6.
+<RESPONSE>
+
+<PROMPT>
+Is 446 even or odd?
+<PROMPT>
+<RESPONSE>
+Even.
+<RESPONSE>
+
+<PROMPT>
+What is 47 - 14?
+<PROMPT>
+<RESPONSE>
+33.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: -20, 11, -9, 51, 23.
+<PROMPT>
+<RESPONSE>
+51, 23, 11, -9, -20.
+<RESPONSE>
+
+<PROMPT>
+Is 430 even or odd?
+<PROMPT>
+<RESPONSE>
+Even.
+<RESPONSE>
+
+<PROMPT>
+If I ask for a summary but provide no text, what should you say?
+<PROMPT>
+<RESPONSE>
+Please share the text you'd like summarized.
+<RESPONSE>
+
+<PROMPT>
+What is -18 × 13?
+<PROMPT>
+<RESPONSE>
+-234.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: fig, kiwi, melon, grape.
+<PROMPT>
+<RESPONSE>
+fig, grape, kiwi, melon.
+<RESPONSE>
+
+<PROMPT>
+Write a short follow-up asking for an update on the plan.
+<PROMPT>
+<RESPONSE>
+Could you share an update on the plan?
+<RESPONSE>
+
+<PROMPT>
+What does PDF stand for?
+<PROMPT>
+<RESPONSE>
+Portable Document Format.
+<RESPONSE>
+
+<PROMPT>
+11 × 22 = ?
+<PROMPT>
+<RESPONSE>
+242.
+<RESPONSE>
+
+<PROMPT>
+Convert 1 day to hours.
+<PROMPT>
+<RESPONSE>
+24 hours.
+<RESPONSE>
+
+<PROMPT>
+Remove duplicates from: apple, banana, apple, pear.
+<PROMPT>
+<RESPONSE>
+apple, banana, pear.
+<RESPONSE>
+
+<PROMPT>
+Give two low-cost ways to organize a desk.
+<PROMPT>
+<RESPONSE>
+Use labeled folders and clear unnecessary items.
+<RESPONSE>
+
+<PROMPT>
+Write a short confirmation that I will update the profile.
+<PROMPT>
+<RESPONSE>
+I’ll update the profile.
+<RESPONSE>
+
+<PROMPT>
+Reverse the word grape.
+<PROMPT>
+<RESPONSE>
+eparg.
+<RESPONSE>
+
+<PROMPT>
+Simplify the fraction 6/9.
+<PROMPT>
+<RESPONSE>
+2/3.
+<RESPONSE>
+
+<PROMPT>
+Reverse the word apricot.
+<PROMPT>
+<RESPONSE>
+tocirpa.
+<RESPONSE>
+
+<PROMPT>
+-83 - -87 = ?
+<PROMPT>
+<RESPONSE>
+4.
+<RESPONSE>
+
+<PROMPT>
+-37 - -90 = ?
+<PROMPT>
+<RESPONSE>
+53.
+<RESPONSE>
+
+<PROMPT>
+Convert 307 hours to minutes.
+<PROMPT>
+<RESPONSE>
+18,420 minutes.
+<RESPONSE>
+
+<PROMPT>
+Make the word avocado uppercase.
+<PROMPT>
+<RESPONSE>
+AVOCADO.
+<RESPONSE>
+
+<PROMPT>
+What does RAM stand for?
+<PROMPT>
+<RESPONSE>
+Random-access memory.
+<RESPONSE>
+
+<PROMPT>
+What is recursion?
+<PROMPT>
+<RESPONSE>
+A technique where a function calls itself, usually until a base case is reached.
+<RESPONSE>
+
+<PROMPT>
+I clicked a suspicious link. What next?
+<PROMPT>
+<RESPONSE>
+Close the page, avoid entering information, and change any password you submitted through the official site.
+<RESPONSE>
+
+<PROMPT>
+What is 20 × -13?
+<PROMPT>
+<RESPONSE>
+-260.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -10 = -31.
+<PROMPT>
+<RESPONSE>
+x = -21.
+<RESPONSE>
+
+<PROMPT>
+What is a clause?
+<PROMPT>
+<RESPONSE>
+A group of words containing a subject and a verb.
+<RESPONSE>
+
+<PROMPT>
+Respond with a Markdown heading that says Notes.
+<PROMPT>
+<RESPONSE>
+# Notes
+<RESPONSE>
+
+<PROMPT>
+What is 75% of 883?
+<PROMPT>
+<RESPONSE>
+662.25.
+<RESPONSE>
+
+<PROMPT>
+Is 451 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+How many letters are in "date"?
+<PROMPT>
+<RESPONSE>
+4.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of 30?
+<PROMPT>
+<RESPONSE>
+30.
+<RESPONSE>
+
+<PROMPT>
+What is the capital of Canada?
+<PROMPT>
+<RESPONSE>
+Ottawa.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: mango, fig, plum, peach.
+<PROMPT>
+<RESPONSE>
+fig, mango, peach, plum.
+<RESPONSE>
+
+<PROMPT>
+Calculate 52 + -26.
+<PROMPT>
+<RESPONSE>
+26.
+<RESPONSE>
+
+<PROMPT>
+Calculate 114 - -47.
+<PROMPT>
+<RESPONSE>
+161.
+<RESPONSE>
+
+<PROMPT>
+What is the area of a square with side length 4 cm?
+<PROMPT>
+<RESPONSE>
+16 cm².
+<RESPONSE>
+
+<PROMPT>
+Calculate 7 × -11.
+<PROMPT>
+<RESPONSE>
+-77.
+<RESPONSE>
+
+<PROMPT>
+What does UTC mean for time zones?
+<PROMPT>
+<RESPONSE>
+The global time standard used as a reference for local time offsets.
+<RESPONSE>
+
+<PROMPT>
+What is 115 + 154?
+<PROMPT>
+<RESPONSE>
+269.
+<RESPONSE>
+
+<PROMPT>
+What is 54 + -78?
+<PROMPT>
+<RESPONSE>
+-24.
+<RESPONSE>
+
+<PROMPT>
+Calculate 176 + 95.
+<PROMPT>
+<RESPONSE>
+271.
+<RESPONSE>
+
+<PROMPT>
+Convert 650 kilograms to grams.
+<PROMPT>
+<RESPONSE>
+650,000 grams.
+<RESPONSE>
+
+<PROMPT>
+What is 5% of 672?
+<PROMPT>
+<RESPONSE>
+33.6.
+<RESPONSE>
+
+<PROMPT>
+What is 5% of 617?
+<PROMPT>
+<RESPONSE>
+30.85.
+<RESPONSE>
+
+<PROMPT>
+What is the boiling point of water in Celsius at standard pressure?
+<PROMPT>
+<RESPONSE>
+100°C.
+<RESPONSE>
+
+<PROMPT>
+What is the capital of France?
+<PROMPT>
+<RESPONSE>
+Paris.
+<RESPONSE>
+
+<PROMPT>
+Make the word melon uppercase.
+<PROMPT>
+<RESPONSE>
+MELON.
+<RESPONSE>
+
+<PROMPT>
+Solve 2x = 14.
+<PROMPT>
+<RESPONSE>
+x = 7.
+<RESPONSE>
+
+<PROMPT>
+What is 224 divided by 16?
+<PROMPT>
+<RESPONSE>
+14.
+<RESPONSE>
+
+<PROMPT>
+What is a palindrome?
+<PROMPT>
+<RESPONSE>
+A word, phrase, or sequence that reads the same forward and backward under a stated normalization.
+<RESPONSE>
+
+<PROMPT>
+Calculate -85 + -46.
+<PROMPT>
+<RESPONSE>
+-131.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: fig, kiwi, date, lime.
+<PROMPT>
+<RESPONSE>
+date, fig, kiwi, lime.
+<RESPONSE>
+
+<PROMPT>
+What is 207 + 136?
+<PROMPT>
+<RESPONSE>
+343.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the client call on Tuesday.
+<PROMPT>
+<RESPONSE>
+The client call — Tuesday
+<RESPONSE>
+
+<PROMPT>
+Is 1 a prime number?
+<PROMPT>
+<RESPONSE>
+No. A prime number has exactly two positive divisors.
+<RESPONSE>
+
+<PROMPT>
+What is 10% of 507?
+<PROMPT>
+<RESPONSE>
+50.7.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: lime, melon, date, plum.
+<PROMPT>
+<RESPONSE>
+date, lime, melon, plum.
+<RESPONSE>
+
+<PROMPT>
+What is 137 + 72?
+<PROMPT>
+<RESPONSE>
+209.
+<RESPONSE>
+
+<PROMPT>
+What is the difference between fewer and less?
+<PROMPT>
+<RESPONSE>
+Use `fewer` for countable items and `less` for amounts, with common exceptions.
+<RESPONSE>
+
+<PROMPT>
+Calculate 504 ÷ 18.
+<PROMPT>
+<RESPONSE>
+28.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: fig, peach, kiwi, mango.
+<PROMPT>
+<RESPONSE>
+fig, kiwi, mango, peach.
+<RESPONSE>
+
+<PROMPT>
+Calculate -323 ÷ 19.
+<PROMPT>
+<RESPONSE>
+-17.
+<RESPONSE>
+
+<PROMPT>
+What gas do plants absorb during photosynthesis?
+<PROMPT>
+<RESPONSE>
+Carbon dioxide.
+<RESPONSE>
+
+<PROMPT>
+What does 'i.e.' mean?
+<PROMPT>
+<RESPONSE>
+That is.
+<RESPONSE>
+
+<PROMPT>
+What is the area of a square with side length 59 cm?
+<PROMPT>
+<RESPONSE>
+3481 cm².
+<RESPONSE>
+
+<PROMPT>
+Calculate -1 - 184.
+<PROMPT>
+<RESPONSE>
+-185.
+<RESPONSE>
+
+<PROMPT>
+What is -15 × -4?
+<PROMPT>
+<RESPONSE>
+60.
+<RESPONSE>
+
+<PROMPT>
+What is 75% of 887?
+<PROMPT>
+<RESPONSE>
+665.25.
+<RESPONSE>
+
+<PROMPT>
+What is 13 × 17?
+<PROMPT>
+<RESPONSE>
+221.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 17 = 1.
+<PROMPT>
+<RESPONSE>
+x = -16.
+<RESPONSE>
+
+<PROMPT>
+How many letters are in "pear"?
+<PROMPT>
+<RESPONSE>
+4.
+<RESPONSE>
+
+<PROMPT>
+Calculate 109 - 91.
+<PROMPT>
+<RESPONSE>
+18.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of 48?
+<PROMPT>
+<RESPONSE>
+48.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the project update on Wednesday.
+<PROMPT>
+<RESPONSE>
+The project update — Wednesday
+<RESPONSE>
+
+<PROMPT>
+Is 579 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+Is 585 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the interview is on Tuesday.
+<PROMPT>
+<RESPONSE>
+Reminder: The interview is on Tuesday.
+<RESPONSE>
+
+<PROMPT>
+13 × 16 = ?
+<PROMPT>
+<RESPONSE>
+208.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: 17, 59, -22, 20, 50.
+<PROMPT>
+<RESPONSE>
+59, 50, 20, 17, -22.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: bright paper amber silver cedar.
+<PROMPT>
+<RESPONSE>
+5.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 2 = -25.
+<PROMPT>
+<RESPONSE>
+x = -27.
+<RESPONSE>
+
+<PROMPT>
+Write a two-item grocery list with milk and eggs.
+<PROMPT>
+<RESPONSE>
+- Milk
+- Eggs
+<RESPONSE>
+
+<PROMPT>
+What is a comma splice?
+<PROMPT>
+<RESPONSE>
+Two independent clauses joined only by a comma.
+<RESPONSE>
+
+<PROMPT>
+Translate 'thank you' into Spanish.
+<PROMPT>
+<RESPONSE>
+Gracias.
+<RESPONSE>
+
+<PROMPT>
+Reverse the word apple.
+<PROMPT>
+<RESPONSE>
+elppa.
+<RESPONSE>
+
+<PROMPT>
+Calculate -1 × -4.
+<PROMPT>
+<RESPONSE>
+4.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -6 = 52.
+<PROMPT>
+<RESPONSE>
+x = 58.
+<RESPONSE>
+
+<PROMPT>
+Calculate 455 ÷ 13.
+<PROMPT>
+<RESPONSE>
+35.
+<RESPONSE>
+
+<PROMPT>
+What is 10 × 20?
+<PROMPT>
+<RESPONSE>
+200.
+<RESPONSE>
+
+<PROMPT>
+Correct the grammar: Their going to be late.
+<PROMPT>
+<RESPONSE>
+They're going to be late.
+<RESPONSE>
+
+<PROMPT>
+Write a polite, one-sentence request for the design.
+<PROMPT>
+<RESPONSE>
+Could you please send me the design?
+<RESPONSE>
+
+<PROMPT>
+What is 189 divided by 9?
+<PROMPT>
+<RESPONSE>
+21.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: garden river cedar stone cloud bright silver.
+<PROMPT>
+<RESPONSE>
+7.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of -147?
+<PROMPT>
+<RESPONSE>
+147.
+<RESPONSE>
+
+<PROMPT>
+-38 + -67 = ?
+<PROMPT>
+<RESPONSE>
+-105.
+<RESPONSE>
+
+<PROMPT>
+Is 310 even or odd?
+<PROMPT>
+<RESPONSE>
+Even.
+<RESPONSE>
+
+<PROMPT>
+Convert 529 kilograms to grams.
+<PROMPT>
+<RESPONSE>
+529,000 grams.
+<RESPONSE>
+
+<PROMPT>
+Convert 485 hours to minutes.
+<PROMPT>
+<RESPONSE>
+29,100 minutes.
+<RESPONSE>
+
+<PROMPT>
+What is the area of a square with side length 28 cm?
+<PROMPT>
+<RESPONSE>
+784 cm².
+<RESPONSE>
+
+<PROMPT>
+How do I show differences in unstaged Git changes?
+<PROMPT>
+<RESPONSE>
+`git diff`
+<RESPONSE>
+
+<PROMPT>
+What is the perimeter of a square with side length 22 cm?
+<PROMPT>
+<RESPONSE>
+88 cm.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: stone cloud garden window quiet silver.
+<PROMPT>
+<RESPONSE>
+6.
+<RESPONSE>
+
+<PROMPT>
+How many vowels are in 'banana'?
+<PROMPT>
+<RESPONSE>
+3.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the project update is on Monday.
+<PROMPT>
+<RESPONSE>
+Reminder: The project update is on Monday.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the design meeting on Monday.
+<PROMPT>
+<RESPONSE>
+The design meeting — Monday
+<RESPONSE>
+
+<PROMPT>
+What is 161 - 141?
+<PROMPT>
+<RESPONSE>
+20.
+<RESPONSE>
+
+<PROMPT>
+What is 10% of 441?
+<PROMPT>
+<RESPONSE>
+44.1.
+<RESPONSE>
+
+<PROMPT>
+Make the word apricot uppercase.
+<PROMPT>
+<RESPONSE>
+APRICOT.
+<RESPONSE>
+
+<PROMPT>
+Reverse the word coconut.
+<PROMPT>
+<RESPONSE>
+tunococ.
+<RESPONSE>
+
+<PROMPT>
+-1 × -6 = ?
+<PROMPT>
+<RESPONSE>
+6.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: peach, lime, grape, fig.
+<PROMPT>
+<RESPONSE>
+fig, grape, lime, peach.
+<RESPONSE>
+
+<PROMPT>
+What is an adjective?
+<PROMPT>
+<RESPONSE>
+A word that describes or modifies a noun.
+<RESPONSE>
+
+<PROMPT>
+What is the perimeter of a square with side length 32 cm?
+<PROMPT>
+<RESPONSE>
+128 cm.
+<RESPONSE>
+
+<PROMPT>
+What is -45 + 108?
+<PROMPT>
+<RESPONSE>
+63.
+<RESPONSE>
+
+<PROMPT>
+What is 7 × -14?
+<PROMPT>
+<RESPONSE>
+-98.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 6 = 28.
+<PROMPT>
+<RESPONSE>
+x = 22.
+<RESPONSE>
+
+<PROMPT>
+What is the difference between mass and weight?
+<PROMPT>
+<RESPONSE>
+Mass measures an object's matter or inertia; weight is the force of gravity acting on it.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: 53, -17, 28, -14, 50.
+<PROMPT>
+<RESPONSE>
+-17, -14, 28, 50, 53.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of -131?
+<PROMPT>
+<RESPONSE>
+131.
+<RESPONSE>
+
+<PROMPT>
+-4 × 15 = ?
+<PROMPT>
+<RESPONSE>
+-60.
+<RESPONSE>
+
+<PROMPT>
+What comes after 16 in the sequence 2, 4, 8, 16?
+<PROMPT>
+<RESPONSE>
+32.
+<RESPONSE>
+
+<PROMPT>
+Answer with a single word: What color is a ripe banana?
+<PROMPT>
+<RESPONSE>
+Yellow.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: 31, 49, -14, -19, 55.
+<PROMPT>
+<RESPONSE>
+55, 49, 31, -14, -19.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the training session on Wednesday.
+<PROMPT>
+<RESPONSE>
+The training session — Wednesday
+<RESPONSE>
+
+<PROMPT>
+What is the perimeter of a square with side length 4 cm?
+<PROMPT>
+<RESPONSE>
+16 cm.
+<RESPONSE>
+
+<PROMPT>
+Translate 'good morning' into Italian.
+<PROMPT>
+<RESPONSE>
+Buongiorno.
+<RESPONSE>
+
+<PROMPT>
+Convert 721 kilograms to grams.
+<PROMPT>
+<RESPONSE>
+721,000 grams.
+<RESPONSE>
+
+<PROMPT>
+What is 175 + 57?
+<PROMPT>
+<RESPONSE>
+232.
+<RESPONSE>
+
+<PROMPT>
+Convert 1 minute to seconds.
+<PROMPT>
+<RESPONSE>
+60 seconds.
+<RESPONSE>
+
+<PROMPT>
+What is 13 × -6?
+<PROMPT>
+<RESPONSE>
+-78.
+<RESPONSE>
+
+<PROMPT>
+What is 116 + 153?
+<PROMPT>
+<RESPONSE>
+269.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the training session on Thursday.
+<PROMPT>
+<RESPONSE>
+The training session — Thursday
+<RESPONSE>
+
+<PROMPT>
+-8 × 5 = ?
+<PROMPT>
+<RESPONSE>
+-40.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: kiwi, apple, date, pear.
+<PROMPT>
+<RESPONSE>
+apple, date, kiwi, pear.
+<RESPONSE>
+
+<PROMPT>
+What does CRUD stand for?
+<PROMPT>
+<RESPONSE>
+Create, read, update, and delete.
+<RESPONSE>
+
+<PROMPT>
+What is -93 - 110?
+<PROMPT>
+<RESPONSE>
+-203.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -18 = -44.
+<PROMPT>
+<RESPONSE>
+x = -26.
+<RESPONSE>
+
+<PROMPT>
+What is 75% of 7?
+<PROMPT>
+<RESPONSE>
+5.25.
+<RESPONSE>
+
+<PROMPT>
+Make the word lime uppercase.
+<PROMPT>
+<RESPONSE>
+LIME.
+<RESPONSE>
+
+<PROMPT>
+Write a short confirmation that I will save the changes.
+<PROMPT>
+<RESPONSE>
+I’ll save the changes.
+<RESPONSE>
+
+<PROMPT>
+Solve x / 4 = 6.
+<PROMPT>
+<RESPONSE>
+x = 24.
+<RESPONSE>
+
+<PROMPT>
+What does CPU stand for?
+<PROMPT>
+<RESPONSE>
+Central processing unit.
+<RESPONSE>
+
+<PROMPT>
+Change to passive voice: Sam kicked the ball.
+<PROMPT>
+<RESPONSE>
+The ball was kicked by Sam.
+<RESPONSE>
+
+<PROMPT>
+-36 + 94 = ?
+<PROMPT>
+<RESPONSE>
+58.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: 27, -12, 12, -23, -9.
+<PROMPT>
+<RESPONSE>
+-23, -12, -9, 12, 27.
+<RESPONSE>
+
+<PROMPT>
+Calculate -64 + -42.
+<PROMPT>
+<RESPONSE>
+-106.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: amber bright quiet stone cedar cloud garden.
+<PROMPT>
+<RESPONSE>
+7.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 7 = -35.
+<PROMPT>
+<RESPONSE>
+x = -42.
+<RESPONSE>
+
+<PROMPT>
+Make the word orange uppercase.
+<PROMPT>
+<RESPONSE>
+ORANGE.
+<RESPONSE>
+
+<PROMPT>
+What is a compound?
+<PROMPT>
+<RESPONSE>
+A substance containing atoms of two or more different elements chemically bonded.
+<RESPONSE>
+
+<PROMPT>
+What is 81 divided by 9?
+<PROMPT>
+<RESPONSE>
+9.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of -114?
+<PROMPT>
+<RESPONSE>
+114.
+<RESPONSE>
+
+<PROMPT>
+How do I boil an egg?
+<PROMPT>
+<RESPONSE>
+Place it in simmering water until it reaches your preferred doneness, then cool it.
+<RESPONSE>
+
+<PROMPT>
+What is an oxymoron?
+<PROMPT>
+<RESPONSE>
+A phrase that combines seemingly contradictory terms.
+<RESPONSE>
+
+<PROMPT>
+Say only the corrected sentence: i went home.
+<PROMPT>
+<RESPONSE>
+I went home.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: cedar stone garden forest.
+<PROMPT>
+<RESPONSE>
+4.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: stone garden silver.
+<PROMPT>
+<RESPONSE>
+3.
+<RESPONSE>
+
+<PROMPT>
+Answer yes or no: Is 13 prime?
+<PROMPT>
+<RESPONSE>
+Yes.
+<RESPONSE>
+
+<PROMPT>
+What is the mean of 2, 4, and 6?
+<PROMPT>
+<RESPONSE>
+4.
+<RESPONSE>
+
+<PROMPT>
+Calculate 127 + 17.
+<PROMPT>
+<RESPONSE>
+144.
+<RESPONSE>
+
+<PROMPT>
+Convert 232 minutes to seconds.
+<PROMPT>
+<RESPONSE>
+13,920 seconds.
+<RESPONSE>
+
+<PROMPT>
+What is the perimeter of a square with side length 14 cm?
+<PROMPT>
+<RESPONSE>
+56 cm.
+<RESPONSE>
+
+<PROMPT>
+Change to passive voice: Maya wrote the report.
+<PROMPT>
+<RESPONSE>
+The report was written by Maya.
+<RESPONSE>
+
+<PROMPT>
+What is -12 × 2?
+<PROMPT>
+<RESPONSE>
+-24.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: 8, 12, 29, -7, 51.
+<PROMPT>
+<RESPONSE>
+51, 29, 12, 8, -7.
+<RESPONSE>
+
+<PROMPT>
+Calculate 47 + 78.
+<PROMPT>
+<RESPONSE>
+125.
+<RESPONSE>
+
+<PROMPT>
+3 + 146 = ?
+<PROMPT>
+<RESPONSE>
+149.
+<RESPONSE>
+
+<PROMPT>
+What is the weather in my city?
+<PROMPT>
+<RESPONSE>
+Which city should I check?
+<RESPONSE>
+
+<PROMPT>
+What does 201 mean in HTTP?
+<PROMPT>
+<RESPONSE>
+A resource was created successfully.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 16 = -27.
+<PROMPT>
+<RESPONSE>
+x = -43.
+<RESPONSE>
+
+<PROMPT>
+What is -69 + 224?
+<PROMPT>
+<RESPONSE>
+155.
+<RESPONSE>
+
+<PROMPT>
+Calculate -330 ÷ 22.
+<PROMPT>
+<RESPONSE>
+-15.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the budget review on Tuesday.
+<PROMPT>
+<RESPONSE>
+The budget review — Tuesday
+<RESPONSE>
+
+<PROMPT>
+What is 27 + 188?
+<PROMPT>
+<RESPONSE>
+215.
+<RESPONSE>
+
+<PROMPT>
+Translate 'thank you' into Italian.
+<PROMPT>
+<RESPONSE>
+Grazie.
+<RESPONSE>
+
+<PROMPT>
+What is power in physics?
+<PROMPT>
+<RESPONSE>
+The rate of energy transfer or work, measured in watts.
+<RESPONSE>
+
+<PROMPT>
+What is a control group?
+<PROMPT>
+<RESPONSE>
+A comparison group that does not receive the tested intervention.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 4 = -11.
+<PROMPT>
+<RESPONSE>
+x = -15.
+<RESPONSE>
+
+<PROMPT>
+Write a short message saying I received the document.
+<PROMPT>
+<RESPONSE>
+I received the document. Thank you.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of 108?
+<PROMPT>
+<RESPONSE>
+108.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: stone quiet cedar window river forest bright.
+<PROMPT>
+<RESPONSE>
+7.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: -12, -3, 35, 23, 32.
+<PROMPT>
+<RESPONSE>
+35, 32, 23, -3, -12.
+<RESPONSE>
+
+<PROMPT>
+What does `ls` do?
+<PROMPT>
+<RESPONSE>
+It lists directory entries.
+<RESPONSE>
+
+<PROMPT>
+Write a short follow-up asking for an update on the proposal.
+<PROMPT>
+<RESPONSE>
+Could you share an update on the proposal?
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the design meeting on Friday.
+<PROMPT>
+<RESPONSE>
+The design meeting — Friday
+<RESPONSE>
+
+<PROMPT>
+Sort descending: -29, 31, 8, 46, 27.
+<PROMPT>
+<RESPONSE>
+46, 31, 27, 8, -29.
+<RESPONSE>
+
+<PROMPT>
+What is -5 × 14?
+<PROMPT>
+<RESPONSE>
+-70.
+<RESPONSE>
+
+<PROMPT>
+What is 525 divided by 15?
+<PROMPT>
+<RESPONSE>
+35.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 16 = 14.
+<PROMPT>
+<RESPONSE>
+x = -2.
+<RESPONSE>
+
+<PROMPT>
+Calculate 101 + 170.
+<PROMPT>
+<RESPONSE>
+271.
+<RESPONSE>
+
+<PROMPT>
+How many letters are in "peach"?
+<PROMPT>
+<RESPONSE>
+5.
+<RESPONSE>
+
+<PROMPT>
+Convert 1 meter to centimeters.
+<PROMPT>
+<RESPONSE>
+100 centimeters.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: melon, peach, date, banana.
+<PROMPT>
+<RESPONSE>
+banana, date, melon, peach.
+<RESPONSE>
+
+<PROMPT>
+What is the area of a square with side length 9 cm?
+<PROMPT>
+<RESPONSE>
+81 cm².
+<RESPONSE>
+
+<PROMPT>
+What is the opposite of clockwise?
+<PROMPT>
+<RESPONSE>
+Counterclockwise.
+<RESPONSE>
+
+<PROMPT>
+What is -22 - 48?
+<PROMPT>
+<RESPONSE>
+-70.
+<RESPONSE>
+
+<PROMPT>
+What is the next whole number after 999?
+<PROMPT>
+<RESPONSE>
+1,000.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -19 = -21.
+<PROMPT>
+<RESPONSE>
+x = -2.
+<RESPONSE>
+
+<PROMPT>
+Is zero an even number?
+<PROMPT>
+<RESPONSE>
+Yes. Zero is divisible by 2.
+<RESPONSE>
+
+<PROMPT>
+What is the circumference of a circle with radius 2 cm?
+<PROMPT>
+<RESPONSE>
+4π cm, about 12.57 cm.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the project update is on Tuesday.
+<PROMPT>
+<RESPONSE>
+Reminder: The project update is on Tuesday.
+<RESPONSE>
+
+<PROMPT>
+How do I stage one file in Git?
+<PROMPT>
+<RESPONSE>
+`git add path/to/file`
+<RESPONSE>
+
+<PROMPT>
+What fraction is equivalent to 2/4?
+<PROMPT>
+<RESPONSE>
+1/2.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the budget review on Wednesday.
+<PROMPT>
+<RESPONSE>
+The budget review — Wednesday
+<RESPONSE>
+
+<PROMPT>
+What is an absolute value?
+<PROMPT>
+<RESPONSE>
+A number's distance from zero.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: garden quiet paper amber bright.
+<PROMPT>
+<RESPONSE>
+5.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the planning meeting is on Thursday.
+<PROMPT>
+<RESPONSE>
+Reminder: The planning meeting is on Thursday.
+<RESPONSE>
+
+<PROMPT>
+Rewrite professionally: thanks for fixing that so fast.
+<PROMPT>
+<RESPONSE>
+Thank you for resolving that quickly.
+<RESPONSE>
+
+<PROMPT>
+What's 2 + 2? Please explain every step in a long essay.
+<PROMPT>
+<RESPONSE>
+4.
+<RESPONSE>
+
+<PROMPT>
+Calculate -15 × 24.
+<PROMPT>
+<RESPONSE>
+-360.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -5 = -18.
+<PROMPT>
+<RESPONSE>
+x = -13.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: forest bright silver river paper.
+<PROMPT>
+<RESPONSE>
+5.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the planning meeting on Thursday.
+<PROMPT>
+<RESPONSE>
+The planning meeting — Thursday
+<RESPONSE>
+
+<PROMPT>
+What is 205 - 7?
+<PROMPT>
+<RESPONSE>
+198.
+<RESPONSE>
+
+<PROMPT>
+What is the unit of energy in SI?
+<PROMPT>
+<RESPONSE>
+The joule.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 4 = 12.
+<PROMPT>
+<RESPONSE>
+x = 8.
+<RESPONSE>
+
+<PROMPT>
+Write a short confirmation that I will open the document.
+<PROMPT>
+<RESPONSE>
+I’ll open the document.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: paper bright cedar forest cloud silver.
+<PROMPT>
+<RESPONSE>
+6.
+<RESPONSE>
+
+<PROMPT>
+What is 80 + 211?
+<PROMPT>
+<RESPONSE>
+291.
+<RESPONSE>
+
+<PROMPT>
+What is the difference between weather and climate?
+<PROMPT>
+<RESPONSE>
+Weather describes short-term conditions; climate describes long-term patterns.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: 11, -10, 55, 12, 18.
+<PROMPT>
+<RESPONSE>
+-10, 11, 12, 18, 55.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: silver cloud stone forest paper garden river.
+<PROMPT>
+<RESPONSE>
+7.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: cloud cedar quiet window.
+<PROMPT>
+<RESPONSE>
+4.
+<RESPONSE>
+
+<PROMPT>
+What is 12 times 12?
+<PROMPT>
+<RESPONSE>
+144.
+<RESPONSE>
+
+<PROMPT>
+Write a short confirmation that I will cancel the request.
+<PROMPT>
+<RESPONSE>
+I’ll cancel the request.
+<RESPONSE>
+
+<PROMPT>
+What is the capital of Spain?
+<PROMPT>
+<RESPONSE>
+Madrid.
+<RESPONSE>
+
+<PROMPT>
+Reply with only the word yes.
+<PROMPT>
+<RESPONSE>
+yes
+<RESPONSE>
+
+<PROMPT>
+Sort descending: 16, 18, -16, 8, -9.
+<PROMPT>
+<RESPONSE>
+18, 16, 8, -9, -16.
+<RESPONSE>
+
+<PROMPT>
+One sentence only: explain inertia.
+<PROMPT>
+<RESPONSE>
+Inertia is an object's tendency to resist changes in motion.
+<RESPONSE>
+
+<PROMPT>
+What does UX stand for?
+<PROMPT>
+<RESPONSE>
+User experience.
+<RESPONSE>
+
+<PROMPT>
+What is a synonym for quick?
+<PROMPT>
+<RESPONSE>
+Fast.
+<RESPONSE>
+
+<PROMPT>
+What is 56 + -99?
+<PROMPT>
+<RESPONSE>
+-43.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of 140?
+<PROMPT>
+<RESPONSE>
+140.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: bright paper amber.
+<PROMPT>
+<RESPONSE>
+3.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: river garden forest.
+<PROMPT>
+<RESPONSE>
+3.
+<RESPONSE>
+
+<PROMPT>
+Calculate 77 - 148.
+<PROMPT>
+<RESPONSE>
+-71.
+<RESPONSE>
+
+<PROMPT>
+Calculate 141 + 33.
+<PROMPT>
+<RESPONSE>
+174.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: peach, grape, mango, fig.
+<PROMPT>
+<RESPONSE>
+fig, grape, mango, peach.
+<RESPONSE>
+
+<PROMPT>
+Is 212 even or odd?
+<PROMPT>
+<RESPONSE>
+Even.
+<RESPONSE>
+
+<PROMPT>
+Reverse the word banana.
+<PROMPT>
+<RESPONSE>
+ananab.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 21 = -9.
+<PROMPT>
+<RESPONSE>
+x = -30.
+<RESPONSE>
+
+<PROMPT>
+Write a polite, one-sentence request for the draft.
+<PROMPT>
+<RESPONSE>
+Could you please send me the draft?
+<RESPONSE>
+
+<PROMPT>
+What is the perimeter of a square with side length 56 cm?
+<PROMPT>
+<RESPONSE>
+224 cm.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of -136?
+<PROMPT>
+<RESPONSE>
+136.
+<RESPONSE>
+
+<PROMPT>
+What is a verb?
+<PROMPT>
+<RESPONSE>
+A word that expresses an action, event, or state.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: 50, 26, 5, 43, 17.
+<PROMPT>
+<RESPONSE>
+50, 43, 26, 17, 5.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: grape, lime, date, mango.
+<PROMPT>
+<RESPONSE>
+date, grape, lime, mango.
+<RESPONSE>
+
+<PROMPT>
+Translate 'hello' into French.
+<PROMPT>
+<RESPONSE>
+Bonjour.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of 72?
+<PROMPT>
+<RESPONSE>
+72.
+<RESPONSE>
+
+<PROMPT>
+What is the slope between (0, 0) and (2, 4)?
+<PROMPT>
+<RESPONSE>
+2.
+<RESPONSE>
+
+<PROMPT>
+What is the area of a square with side length 53 cm?
+<PROMPT>
+<RESPONSE>
+2809 cm².
+<RESPONSE>
+
+<PROMPT>
+What is the area of a square with side length 21 cm?
+<PROMPT>
+<RESPONSE>
+441 cm².
+<RESPONSE>
+
+<PROMPT>
+Calculate 152 + 204.
+<PROMPT>
+<RESPONSE>
+356.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -14 = -46.
+<PROMPT>
+<RESPONSE>
+x = -32.
+<RESPONSE>
+
+<PROMPT>
+What does concise mean?
+<PROMPT>
+<RESPONSE>
+Clear and brief.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: 10, 12, -7, 28, -18.
+<PROMPT>
+<RESPONSE>
+28, 12, 10, -7, -18.
+<RESPONSE>
+
+<PROMPT>
+Calculate 108 ÷ 12.
+<PROMPT>
+<RESPONSE>
+9.
+<RESPONSE>
+
+<PROMPT>
+What is the largest planet in our solar system?
+<PROMPT>
+<RESPONSE>
+Jupiter.
+<RESPONSE>
+
+<PROMPT>
+Convert 747 kilograms to grams.
+<PROMPT>
+<RESPONSE>
+747,000 grams.
+<RESPONSE>
+
+<PROMPT>
+-106 + -28 = ?
+<PROMPT>
+<RESPONSE>
+-134.
+<RESPONSE>
+
+<PROMPT>
+-10 × -15 = ?
+<PROMPT>
+<RESPONSE>
+150.
+<RESPONSE>
+
+<PROMPT>
+Tell me just the result of 6 times 7.
+<PROMPT>
+<RESPONSE>
+42.
+<RESPONSE>
+
+<PROMPT>
+Write a polite, one-sentence request for the proposal.
+<PROMPT>
+<RESPONSE>
+Could you please send me the proposal?
+<RESPONSE>
+
+<PROMPT>
+What is 60 divided by 15?
+<PROMPT>
+<RESPONSE>
+4.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: -26, -27, 25, 18, 36.
+<PROMPT>
+<RESPONSE>
+-27, -26, 18, 25, 36.
+<RESPONSE>
+
+<PROMPT>
+Translate 'good morning' into German.
+<PROMPT>
+<RESPONSE>
+Guten Morgen.
+<RESPONSE>
+
+<PROMPT>
+What is the area of a square with side length 13 cm?
+<PROMPT>
+<RESPONSE>
+169 cm².
+<RESPONSE>
+
+<PROMPT>
+What is 207 - 187?
+<PROMPT>
+<RESPONSE>
+20.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of -103?
+<PROMPT>
+<RESPONSE>
+103.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 9 = 69.
+<PROMPT>
+<RESPONSE>
+x = 60.
+<RESPONSE>
+
+<PROMPT>
+What is a receipt?
+<PROMPT>
+<RESPONSE>
+A record confirming a payment or transaction.
+<RESPONSE>
+
+<PROMPT>
+Round 7.86 to one decimal place.
+<PROMPT>
+<RESPONSE>
+7.9.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of -24?
+<PROMPT>
+<RESPONSE>
+24.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of 58?
+<PROMPT>
+<RESPONSE>
+58.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: fig, mango, apple, peach.
+<PROMPT>
+<RESPONSE>
+apple, fig, mango, peach.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -3 = 32.
+<PROMPT>
+<RESPONSE>
+x = 35.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the interview is on Friday.
+<PROMPT>
+<RESPONSE>
+Reminder: The interview is on Friday.
+<RESPONSE>
+
+<PROMPT>
+Calculate 330 ÷ 10.
+<PROMPT>
+<RESPONSE>
+33.
+<RESPONSE>
+
+<PROMPT>
+1 × -10 = ?
+<PROMPT>
+<RESPONSE>
+-10.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the client call on Monday.
+<PROMPT>
+<RESPONSE>
+The client call — Monday
+<RESPONSE>
+
+<PROMPT>
+-4 + 216 = ?
+<PROMPT>
+<RESPONSE>
+212.
+<RESPONSE>
+
+<PROMPT>
+What is a sample size?
+<PROMPT>
+<RESPONSE>
+The number of observations or participants in a sample.
+<RESPONSE>
+
+<PROMPT>
+Is 543 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+What does git commit do?
+<PROMPT>
+<RESPONSE>
+It records a snapshot of staged changes in the repository's history.
+<RESPONSE>
+
+<PROMPT>
+Translate 'thank you' into French.
+<PROMPT>
+<RESPONSE>
+Merci.
+<RESPONSE>
+
+<PROMPT>
+Is 634 even or odd?
+<PROMPT>
+<RESPONSE>
+Even.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of 116?
+<PROMPT>
+<RESPONSE>
+116.
+<RESPONSE>
+
+<PROMPT>
+Can you promise this will work?
+<PROMPT>
+<RESPONSE>
+No. I can help test it and explain likely failure points.
+<RESPONSE>
+
+<PROMPT>
+Summarize the photo I mentioned, but did not provide.
+<PROMPT>
+<RESPONSE>
+Please share the photo so I can summarize it.
+<RESPONSE>
+
+<PROMPT>
+24 × -13 = ?
+<PROMPT>
+<RESPONSE>
+-312.
+<RESPONSE>
+
+<PROMPT>
+What does DNA stand for?
+<PROMPT>
+<RESPONSE>
+Deoxyribonucleic acid.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the presentation on Friday.
+<PROMPT>
+<RESPONSE>
+The presentation — Friday
+<RESPONSE>
+
+<PROMPT>
+Summarize the invoice I mentioned, but did not provide.
+<PROMPT>
+<RESPONSE>
+Please share the invoice so I can summarize it.
+<RESPONSE>
+
+<PROMPT>
+What does 403 mean in HTTP?
+<PROMPT>
+<RESPONSE>
+The server understood the request but refuses access.
+<RESPONSE>
+
+<PROMPT>
+Calculate 62 + 19.
+<PROMPT>
+<RESPONSE>
+81.
+<RESPONSE>
+
+<PROMPT>
+3 × 15 = ?
+<PROMPT>
+<RESPONSE>
+45.
+<RESPONSE>
+
+<PROMPT>
+What is 50% of 307?
+<PROMPT>
+<RESPONSE>
+153.5.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: -30, 29, 2, 6, 52.
+<PROMPT>
+<RESPONSE>
+52, 29, 6, 2, -30.
+<RESPONSE>
+
+<PROMPT>
+What is 468 divided by 12?
+<PROMPT>
+<RESPONSE>
+39.
+<RESPONSE>
+
+<PROMPT>
+What is 116 - 189?
+<PROMPT>
+<RESPONSE>
+-73.
+<RESPONSE>
+
+<PROMPT>
+Calculate 130 + 158.
+<PROMPT>
+<RESPONSE>
+288.
+<RESPONSE>
+
+<PROMPT>
+Summarize the recording I mentioned, but did not provide.
+<PROMPT>
+<RESPONSE>
+Please share the recording so I can summarize it.
+<RESPONSE>
+
+<PROMPT>
+How many days are in a leap year?
+<PROMPT>
+<RESPONSE>
+366.
+<RESPONSE>
+
+<PROMPT>
+Calculate 255 ÷ 15.
+<PROMPT>
+<RESPONSE>
+17.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: 48, 12, 36, 41, 30.
+<PROMPT>
+<RESPONSE>
+12, 30, 36, 41, 48.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: mango, fig, melon, date.
+<PROMPT>
+<RESPONSE>
+date, fig, mango, melon.
+<RESPONSE>
+
+<PROMPT>
+How do I sort a Python list without changing the original?
+<PROMPT>
+<RESPONSE>
+`sorted(items)`
+<RESPONSE>
+
+<PROMPT>
+What is a neutral pH at 25°C?
+<PROMPT>
+<RESPONSE>
+About 7.
+<RESPONSE>
+
+<PROMPT>
+How do I keep cut apples from browning quickly?
+<PROMPT>
+<RESPONSE>
+Coat them lightly with lemon juice and refrigerate them.
+<RESPONSE>
+
+<PROMPT>
+How do I create a link in HTML?
+<PROMPT>
+<RESPONSE>
+`<a href="https://example.com">Link text</a>`
+<RESPONSE>
+
+<PROMPT>
+97 - 57 = ?
+<PROMPT>
+<RESPONSE>
+40.
+<RESPONSE>
+
+<PROMPT>
+What is the distance between (0, 0) and (3, 4)?
+<PROMPT>
+<RESPONSE>
+5.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: stone river window.
+<PROMPT>
+<RESPONSE>
+3.
+<RESPONSE>
+
+<PROMPT>
+Convert 592 kilograms to grams.
+<PROMPT>
+<RESPONSE>
+592,000 grams.
+<RESPONSE>
+
+<PROMPT>
+What is 5% of 731?
+<PROMPT>
+<RESPONSE>
+36.55.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of -141?
+<PROMPT>
+<RESPONSE>
+141.
+<RESPONSE>
+
+<PROMPT>
+Convert 289 hours to minutes.
+<PROMPT>
+<RESPONSE>
+17,340 minutes.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -5 = -36.
+<PROMPT>
+<RESPONSE>
+x = -31.
+<RESPONSE>
+
+<PROMPT>
+Is 373 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+What is 50% of 228?
+<PROMPT>
+<RESPONSE>
+114.
+<RESPONSE>
+
+<PROMPT>
+What is -115 + -53?
+<PROMPT>
+<RESPONSE>
+-168.
+<RESPONSE>
+
+<PROMPT>
+-48 - 24 = ?
+<PROMPT>
+<RESPONSE>
+-72.
+<RESPONSE>
+
+<PROMPT>
+What is a budget?
+<PROMPT>
+<RESPONSE>
+A plan for income and expenses over a period.
+<RESPONSE>
+
+<PROMPT>
+What is 238 - 48?
+<PROMPT>
+<RESPONSE>
+190.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the training session on Tuesday.
+<PROMPT>
+<RESPONSE>
+The training session — Tuesday
+<RESPONSE>
+
+<PROMPT>
+How do I make rice less sticky?
+<PROMPT>
+<RESPONSE>
+Rinse the rice before cooking and use the water ratio recommended for its variety.
+<RESPONSE>
+
+<PROMPT>
+How many letters are in "apple"?
+<PROMPT>
+<RESPONSE>
+5.
+<RESPONSE>
+
+<PROMPT>
+Make the word apple uppercase.
+<PROMPT>
+<RESPONSE>
+APPLE.
+<RESPONSE>
+
+<PROMPT>
+What is 25% of 205?
+<PROMPT>
+<RESPONSE>
+51.25.
+<RESPONSE>
+
+<PROMPT>
+94 - 201 = ?
+<PROMPT>
+<RESPONSE>
+-107.
+<RESPONSE>
+
+<PROMPT>
+-15 - -43 = ?
+<PROMPT>
+<RESPONSE>
+28.
+<RESPONSE>
+
+<PROMPT>
+What is the unit of frequency?
+<PROMPT>
+<RESPONSE>
+The hertz.
+<RESPONSE>
+
+<PROMPT>
+No preamble: define velocity.
+<PROMPT>
+<RESPONSE>
+Velocity is speed with a direction.
+<RESPONSE>
+
+<PROMPT>
+What is 1 factorial?
+<PROMPT>
+<RESPONSE>
+1.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: peach, pear, melon, date.
+<PROMPT>
+<RESPONSE>
+date, melon, peach, pear.
+<RESPONSE>
+
+<PROMPT>
+What is the past tense of go?
+<PROMPT>
+<RESPONSE>
+Went.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: 43, -15, -21, 3, 30.
+<PROMPT>
+<RESPONSE>
+-21, -15, 3, 30, 43.
+<RESPONSE>
+
+<PROMPT>
+What is a percentage point?
+<PROMPT>
+<RESPONSE>
+The arithmetic difference between two percentages.
+<RESPONSE>
+
+<PROMPT>
+-14 × 19 = ?
+<PROMPT>
+<RESPONSE>
+-266.
+<RESPONSE>
+
+<PROMPT>
+Explain photosynthesis in one sentence.
+<PROMPT>
+<RESPONSE>
+Plants use sunlight to turn water and carbon dioxide into sugar, releasing oxygen.
+<RESPONSE>
+
+<PROMPT>
+Convert 760 kilograms to grams.
+<PROMPT>
+<RESPONSE>
+760,000 grams.
+<RESPONSE>
+
+<PROMPT>
+Calculate -299 ÷ 23.
+<PROMPT>
+<RESPONSE>
+-13.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the budget review is on Friday.
+<PROMPT>
+<RESPONSE>
+Reminder: The budget review is on Friday.
+<RESPONSE>
+
+<PROMPT>
+What does SSD stand for?
+<PROMPT>
+<RESPONSE>
+Solid-state drive.
+<RESPONSE>
+
+<PROMPT>
+Calculate 182 + -76.
+<PROMPT>
+<RESPONSE>
+106.
+<RESPONSE>
+
+<PROMPT>
+Can you tell me my account balance?
+<PROMPT>
+<RESPONSE>
+I don't have access to your account. Check your banking app or share the relevant statement.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: 40, 15, 33, 30, -19.
+<PROMPT>
+<RESPONSE>
+-19, 15, 30, 33, 40.
+<RESPONSE>
+
+<PROMPT>
+-85 + 212 = ?
+<PROMPT>
+<RESPONSE>
+127.
+<RESPONSE>
+
+<PROMPT>
+Write a polite, one-sentence request for the receipt.
+<PROMPT>
+<RESPONSE>
+Could you please send me the receipt?
+<RESPONSE>
+
+<PROMPT>
+What is a cell in biology?
+<PROMPT>
+<RESPONSE>
+The basic structural and functional unit of living organisms.
+<RESPONSE>
+
+<PROMPT>
+Shorten: It is important to note that the deadline is Friday.
+<PROMPT>
+<RESPONSE>
+The deadline is Friday.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 13 = 16.
+<PROMPT>
+<RESPONSE>
+x = 3.
+<RESPONSE>
+
+<PROMPT>
+Calculate -24 - 36.
+<PROMPT>
+<RESPONSE>
+-60.
+<RESPONSE>
+
+<PROMPT>
+What is 20% of 45?
+<PROMPT>
+<RESPONSE>
+9.
+<RESPONSE>
+
+<PROMPT>
+Shorten: Due to the fact that it was raining, we decided to postpone the picnic.
+<PROMPT>
+<RESPONSE>
+We postponed the picnic because it was raining.
+<RESPONSE>
+
+<PROMPT>
+What is a solvent?
+<PROMPT>
+<RESPONSE>
+The substance that dissolves the solute.
+<RESPONSE>
+
+<PROMPT>
+Reverse the word kiwi.
+<PROMPT>
+<RESPONSE>
+iwik.
+<RESPONSE>
+
+<PROMPT>
+Explain evaporation simply.
+<PROMPT>
+<RESPONSE>
+Evaporation is when liquid changes into gas at its surface.
+<RESPONSE>
+
+<PROMPT>
+Write a polite, one-sentence request for the file.
+<PROMPT>
+<RESPONSE>
+Could you please send me the file?
+<RESPONSE>
+
+<PROMPT>
+Is 541 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+-109 + -5 = ?
+<PROMPT>
+<RESPONSE>
+-114.
+<RESPONSE>
+
+<PROMPT>
+Make the word coconut uppercase.
+<PROMPT>
+<RESPONSE>
+COCONUT.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the design meeting on Wednesday.
+<PROMPT>
+<RESPONSE>
+The design meeting — Wednesday
+<RESPONSE>
+
+<PROMPT>
+How do I make a strong password?
+<PROMPT>
+<RESPONSE>
+Use a unique, long password or passphrase for each account, ideally with a password manager.
+<RESPONSE>
+
+<PROMPT>
+Convert 208 weeks to days.
+<PROMPT>
+<RESPONSE>
+1,456 days.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the product demo on Thursday.
+<PROMPT>
+<RESPONSE>
+The product demo — Thursday
+<RESPONSE>
+
+<PROMPT>
+What is the difference between a compiler and an interpreter?
+<PROMPT>
+<RESPONSE>
+A compiler translates code before execution; an interpreter executes code through a runtime, often step by step.
+<RESPONSE>
+
+<PROMPT>
+Respond with JSON containing a key named status and value ok.
+<PROMPT>
+<RESPONSE>
+{"status":"ok"}
+<RESPONSE>
+
+<PROMPT>
+Calculate 92 ÷ 4.
+<PROMPT>
+<RESPONSE>
+23.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: 21, 38, -2, 48, 4.
+<PROMPT>
+<RESPONSE>
+-2, 4, 21, 38, 48.
+<RESPONSE>
+
+<PROMPT>
+What is -260 divided by 20?
+<PROMPT>
+<RESPONSE>
+-13.
+<RESPONSE>
+
+<PROMPT>
+Define empathy in one sentence.
+<PROMPT>
+<RESPONSE>
+Empathy is the ability to understand another person's feelings or perspective.
+<RESPONSE>
+
+<PROMPT>
+What is the source of that number?
+<PROMPT>
+<RESPONSE>
+I don't have a source for it; treat it as unverified.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: peach, lime, fig, date.
+<PROMPT>
+<RESPONSE>
+date, fig, lime, peach.
+<RESPONSE>
+
+<PROMPT>
+How many letters are in "orange"?
+<PROMPT>
+<RESPONSE>
+6.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: fig, pear, banana, mango.
+<PROMPT>
+<RESPONSE>
+banana, fig, mango, pear.
+<RESPONSE>
+
+<PROMPT>
+What is 20% of 70?
+<PROMPT>
+<RESPONSE>
+14.
+<RESPONSE>
+
+<PROMPT>
+Write a short message saying I received the spreadsheet.
+<PROMPT>
+<RESPONSE>
+I received the spreadsheet. Thank you.
+<RESPONSE>
+
+<PROMPT>
+What is a run-on sentence?
+<PROMPT>
+<RESPONSE>
+Two or more independent clauses joined incorrectly.
+<RESPONSE>
+
+<PROMPT>
+7 + 182 = ?
+<PROMPT>
+<RESPONSE>
+189.
+<RESPONSE>
+
+<PROMPT>
+What is a renewable resource?
+<PROMPT>
+<RESPONSE>
+A resource replenished naturally on a human timescale when managed sustainably.
+<RESPONSE>
+
+<PROMPT>
+What is the last letter of 'orange'?
+<PROMPT>
+<RESPONSE>
+e.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: 25, -14, -7, -21, 54.
+<PROMPT>
+<RESPONSE>
+54, 25, -7, -14, -21.
+<RESPONSE>
+
+<PROMPT>
+-104 - 52 = ?
+<PROMPT>
+<RESPONSE>
+-156.
+<RESPONSE>
+
+<PROMPT>
+What is biodiversity?
+<PROMPT>
+<RESPONSE>
+The variety of living organisms in an area or across Earth.
+<RESPONSE>
+
+<PROMPT>
+23 × -13 = ?
+<PROMPT>
+<RESPONSE>
+-299.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of -71?
+<PROMPT>
+<RESPONSE>
+71.
+<RESPONSE>
+
+<PROMPT>
+Calculate -97 - -36.
+<PROMPT>
+<RESPONSE>
+-61.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: cloud stone bright cedar.
+<PROMPT>
+<RESPONSE>
+4.
+<RESPONSE>
+
+<PROMPT>
+Summarize this: The meeting was moved from 2 p.m. to 3 p.m. because the presenter is delayed.
+<PROMPT>
+<RESPONSE>
+The meeting starts at 3 p.m. due to a presenter delay.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of -98?
+<PROMPT>
+<RESPONSE>
+98.
+<RESPONSE>
+
+<PROMPT>
+What is 50% of 506?
+<PROMPT>
+<RESPONSE>
+253.
+<RESPONSE>
+
+<PROMPT>
+How do I write a clear bug report?
+<PROMPT>
+<RESPONSE>
+Include steps to reproduce, expected and actual results, environment, and error details.
+<RESPONSE>
+
+<PROMPT>
+Calculate 124 - 121.
+<PROMPT>
+<RESPONSE>
+3.
+<RESPONSE>
+
+<PROMPT>
+What should I do if I smell gas indoors?
+<PROMPT>
+<RESPONSE>
+Leave the building, avoid switches or flames, and call the gas utility or emergency services from outside.
+<RESPONSE>
+
+<PROMPT>
+What is the greatest common divisor of 18 and 24?
+<PROMPT>
+<RESPONSE>
+6.
+<RESPONSE>
+
+<PROMPT>
+How many millimeters are in a centimeter?
+<PROMPT>
+<RESPONSE>
+10.
+<RESPONSE>
+
+<PROMPT>
+Write a polite, one-sentence request for the estimate.
+<PROMPT>
+<RESPONSE>
+Could you please send me the estimate?
+<RESPONSE>
+
+<PROMPT>
+Is 479 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+Write a concise error message for an invalid email address.
+<PROMPT>
+<RESPONSE>
+Enter a valid email address.
+<RESPONSE>
+
+<PROMPT>
+-20 - 79 = ?
+<PROMPT>
+<RESPONSE>
+-99.
+<RESPONSE>
+
+<PROMPT>
+Calculate 55 + 205.
+<PROMPT>
+<RESPONSE>
+260.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: zebra, cat, dog.
+<PROMPT>
+<RESPONSE>
+cat, dog, zebra.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the training session on Monday.
+<PROMPT>
+<RESPONSE>
+The training session — Monday
+<RESPONSE>
+
+<PROMPT>
+Count the words in: cedar silver cloud river.
+<PROMPT>
+<RESPONSE>
+4.
+<RESPONSE>
+
+<PROMPT>
+What is 114 - 62?
+<PROMPT>
+<RESPONSE>
+52.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -22 = 4.
+<PROMPT>
+<RESPONSE>
+x = 26.
+<RESPONSE>
+
+<PROMPT>
+What is -50 + 47?
+<PROMPT>
+<RESPONSE>
+-3.
+<RESPONSE>
+
+<PROMPT>
+161 + 96 = ?
+<PROMPT>
+<RESPONSE>
+257.
+<RESPONSE>
+
+<PROMPT>
+-12 × -16 = ?
+<PROMPT>
+<RESPONSE>
+192.
+<RESPONSE>
+
+<PROMPT>
+What is 5% of 400?
+<PROMPT>
+<RESPONSE>
+20.
+<RESPONSE>
+
+<PROMPT>
+Is 50 even or odd?
+<PROMPT>
+<RESPONSE>
+Even.
+<RESPONSE>
+
+<PROMPT>
+What is -12 × -11?
+<PROMPT>
+<RESPONSE>
+132.
+<RESPONSE>
+
+<PROMPT>
+Calculate 19 × -11.
+<PROMPT>
+<RESPONSE>
+-209.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -8 = -30.
+<PROMPT>
+<RESPONSE>
+x = -22.
+<RESPONSE>
+
+<PROMPT>
+6 × 18 = ?
+<PROMPT>
+<RESPONSE>
+108.
+<RESPONSE>
+
+<PROMPT>
+What is a rectangle?
+<PROMPT>
+<RESPONSE>
+A quadrilateral with four right angles.
+<RESPONSE>
+
+<PROMPT>
+What does 25% mean as a fraction?
+<PROMPT>
+<RESPONSE>
+1/4.
+<RESPONSE>
+
+<PROMPT>
+Rewrite professionally: I can't make it, sorry.
+<PROMPT>
+<RESPONSE>
+I'm sorry, but I won't be able to attend.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the project update is on Friday.
+<PROMPT>
+<RESPONSE>
+Reminder: The project update is on Friday.
+<RESPONSE>
+
+<PROMPT>
+Which planet is closest to the Sun?
+<PROMPT>
+<RESPONSE>
+Mercury.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -2 = -3.
+<PROMPT>
+<RESPONSE>
+x = -1.
+<RESPONSE>
+
+<PROMPT>
+Calculate 5 × 16.
+<PROMPT>
+<RESPONSE>
+80.
+<RESPONSE>
+
+<PROMPT>
+Calculate -106 + -64.
+<PROMPT>
+<RESPONSE>
+-170.
+<RESPONSE>
+
+<PROMPT>
+What is 50% of 742?
+<PROMPT>
+<RESPONSE>
+371.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 1 = 28.
+<PROMPT>
+<RESPONSE>
+x = 27.
+<RESPONSE>
+
+<PROMPT>
+Calculate 612 ÷ 18.
+<PROMPT>
+<RESPONSE>
+34.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the team check-in on Wednesday.
+<PROMPT>
+<RESPONSE>
+The team check-in — Wednesday
+<RESPONSE>
+
+<PROMPT>
+Solve x + 3 = -28.
+<PROMPT>
+<RESPONSE>
+x = -31.
+<RESPONSE>
+
+<PROMPT>
+What is -66 divided by 22?
+<PROMPT>
+<RESPONSE>
+-3.
+<RESPONSE>
+
+<PROMPT>
+Write a short message saying I received the feedback.
+<PROMPT>
+<RESPONSE>
+I received the feedback. Thank you.
+<RESPONSE>
+
+<PROMPT>
+List the primary colors of light.
+<PROMPT>
+<RESPONSE>
+Red, green, and blue.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: pear, peach, mango, banana.
+<PROMPT>
+<RESPONSE>
+banana, mango, peach, pear.
+<RESPONSE>
+
+<PROMPT>
+-86 + 160 = ?
+<PROMPT>
+<RESPONSE>
+74.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: mango, grape, pear, plum.
+<PROMPT>
+<RESPONSE>
+grape, mango, pear, plum.
+<RESPONSE>
+
+<PROMPT>
+-59 - 125 = ?
+<PROMPT>
+<RESPONSE>
+-184.
+<RESPONSE>
+
+<PROMPT>
+What is the order of operations?
+<PROMPT>
+<RESPONSE>
+Parentheses, exponents, multiplication and division, then addition and subtraction; handle equal-priority operations left to right.
+<RESPONSE>
+
+<PROMPT>
+What is condensation?
+<PROMPT>
+<RESPONSE>
+Gas changing into liquid.
+<RESPONSE>
+
+<PROMPT>
+What is force?
+<PROMPT>
+<RESPONSE>
+An interaction that can change an object's motion, measured in newtons.
+<RESPONSE>
+
+<PROMPT>
+What is the perimeter of a square with side length 37 cm?
+<PROMPT>
+<RESPONSE>
+148 cm.
+<RESPONSE>
+
+<PROMPT>
+-36 + 74 = ?
+<PROMPT>
+<RESPONSE>
+38.
+<RESPONSE>
+
+<PROMPT>
+What is 157 + 230?
+<PROMPT>
+<RESPONSE>
+387.
+<RESPONSE>
+
+<PROMPT>
+Write a short follow-up asking for an update on the document.
+<PROMPT>
+<RESPONSE>
+Could you share an update on the document?
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: peach, lime, melon, plum.
+<PROMPT>
+<RESPONSE>
+lime, melon, peach, plum.
+<RESPONSE>
+
+<PROMPT>
+Write a polite, one-sentence request for the invoice.
+<PROMPT>
+<RESPONSE>
+Could you please send me the invoice?
+<RESPONSE>
+
+<PROMPT>
+What is 5 - 110?
+<PROMPT>
+<RESPONSE>
+-105.
+<RESPONSE>
+
+<PROMPT>
+What does idempotent mean?
+<PROMPT>
+<RESPONSE>
+Repeating an operation has the same effect as doing it once.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: garden amber bright quiet window stone paper.
+<PROMPT>
+<RESPONSE>
+7.
+<RESPONSE>
+
+<PROMPT>
+What is the difference between affect and effect?
+<PROMPT>
+<RESPONSE>
+Affect is usually a verb meaning influence; effect is usually a noun meaning result.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: 27, -19, -7, -24, 28.
+<PROMPT>
+<RESPONSE>
+28, 27, -7, -19, -24.
+<RESPONSE>
+
+<PROMPT>
+Reverse the word papaya.
+<PROMPT>
+<RESPONSE>
+ayapap.
+<RESPONSE>
+
+<PROMPT>
+How do I create a Python list with 1, 2, and 3?
+<PROMPT>
+<RESPONSE>
+`numbers = [1, 2, 3]`
+<RESPONSE>
+
+<PROMPT>
+Convert 190 meters to centimeters.
+<PROMPT>
+<RESPONSE>
+19,000 centimeters.
+<RESPONSE>
+
+<PROMPT>
+How do I make text bold in CSS?
+<PROMPT>
+<RESPONSE>
+`font-weight: bold;`
+<RESPONSE>
+
+<PROMPT>
+What is 167 - 124?
+<PROMPT>
+<RESPONSE>
+43.
+<RESPONSE>
+
+<PROMPT>
+-15 × -9 = ?
+<PROMPT>
+<RESPONSE>
+135.
+<RESPONSE>
+
+<PROMPT>
+Make the word plum uppercase.
+<PROMPT>
+<RESPONSE>
+PLUM.
+<RESPONSE>
+
+<PROMPT>
+What is 1 × 14?
+<PROMPT>
+<RESPONSE>
+14.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the project update on Thursday.
+<PROMPT>
+<RESPONSE>
+The project update — Thursday
+<RESPONSE>
+
+<PROMPT>
+-11 × 8 = ?
+<PROMPT>
+<RESPONSE>
+-88.
+<RESPONSE>
+
+<PROMPT>
+What is 10% of 394?
+<PROMPT>
+<RESPONSE>
+39.4.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 20 = -20.
+<PROMPT>
+<RESPONSE>
+x = -40.
+<RESPONSE>
+
+<PROMPT>
+What is 30 + 64?
+<PROMPT>
+<RESPONSE>
+94.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: -30, -21, 53, -18, 57.
+<PROMPT>
+<RESPONSE>
+-30, -21, -18, 53, 57.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: 28, 18, -27, -18, 58.
+<PROMPT>
+<RESPONSE>
+-27, -18, 18, 28, 58.
+<RESPONSE>
+
+<PROMPT>
+What is 154 divided by 22?
+<PROMPT>
+<RESPONSE>
+7.
+<RESPONSE>
+
+<PROMPT>
+Calculate -47 + 6.
+<PROMPT>
+<RESPONSE>
+-41.
+<RESPONSE>
+
+<PROMPT>
+Is 554 even or odd?
+<PROMPT>
+<RESPONSE>
+Even.
+<RESPONSE>
+
+<PROMPT>
+What is the average of 10, 20, and 30?
+<PROMPT>
+<RESPONSE>
+20.
+<RESPONSE>
+
+<PROMPT>
+What does 50% mean as a fraction?
+<PROMPT>
+<RESPONSE>
+1/2.
+<RESPONSE>
+
+<PROMPT>
+What is JSON?
+<PROMPT>
+<RESPONSE>
+A text format for structured data using objects, arrays, strings, numbers, booleans, and null.
+<RESPONSE>
+
+<PROMPT>
+What is the perimeter of a square with side length 36 cm?
+<PROMPT>
+<RESPONSE>
+144 cm.
+<RESPONSE>
+
+<PROMPT>
+Is 59 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+Return a JSON array containing 1, 2, and 3.
+<PROMPT>
+<RESPONSE>
+[1,2,3]
+<RESPONSE>
+
+<PROMPT>
+Write a short apology for missing a call.
+<PROMPT>
+<RESPONSE>
+I'm sorry I missed your call. Please let me know a good time to reconnect.
+<RESPONSE>
+
+<PROMPT>
+Is it safe to share a one-time login code?
+<PROMPT>
+<RESPONSE>
+No. Keep one-time login codes private.
+<RESPONSE>
+
+<PROMPT>
+What is 20% of 466?
+<PROMPT>
+<RESPONSE>
+93.2.
+<RESPONSE>
+
+<PROMPT>
+What is -56 - -68?
+<PROMPT>
+<RESPONSE>
+12.
+<RESPONSE>
+
+<PROMPT>
+Calculate 38 + 135.
+<PROMPT>
+<RESPONSE>
+173.
+<RESPONSE>
+
+<PROMPT>
+Write a short confirmation that I will publish the post.
+<PROMPT>
+<RESPONSE>
+I’ll publish the post.
+<RESPONSE>
+
+<PROMPT>
+Make the word lemon uppercase.
+<PROMPT>
+<RESPONSE>
+LEMON.
+<RESPONSE>
+
+<PROMPT>
+What is the unit of force?
+<PROMPT>
+<RESPONSE>
+The newton.
+<RESPONSE>
+
+<PROMPT>
+What is the capital of Brazil?
+<PROMPT>
+<RESPONSE>
+Brasília.
+<RESPONSE>
+
+<PROMPT>
+Calculate 11 × 12.
+<PROMPT>
+<RESPONSE>
+132.
+<RESPONSE>
+
+<PROMPT>
+Calculate 116 - 205.
+<PROMPT>
+<RESPONSE>
+-89.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: apple, plum, melon, pear.
+<PROMPT>
+<RESPONSE>
+apple, melon, pear, plum.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the design meeting on Thursday.
+<PROMPT>
+<RESPONSE>
+The design meeting — Thursday
+<RESPONSE>
+
+<PROMPT>
+What is 10% of 364?
+<PROMPT>
+<RESPONSE>
+36.4.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: 40, 29, 17, -22, 39.
+<PROMPT>
+<RESPONSE>
+-22, 17, 29, 39, 40.
+<RESPONSE>
+
+<PROMPT>
+What is the perimeter of a square with side length 15 cm?
+<PROMPT>
+<RESPONSE>
+60 cm.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -9 = -41.
+<PROMPT>
+<RESPONSE>
+x = -32.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of 69?
+<PROMPT>
+<RESPONSE>
+69.
+<RESPONSE>
+
+<PROMPT>
+What does GPS stand for?
+<PROMPT>
+<RESPONSE>
+Global Positioning System.
+<RESPONSE>
+
+<PROMPT>
+What is 110 divided by 11?
+<PROMPT>
+<RESPONSE>
+10.
+<RESPONSE>
+
+<PROMPT>
+Convert 463 kilograms to grams.
+<PROMPT>
+<RESPONSE>
+463,000 grams.
+<RESPONSE>
+
+<PROMPT>
+What is 183 - -91?
+<PROMPT>
+<RESPONSE>
+274.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: mango, pear, lime, banana.
+<PROMPT>
+<RESPONSE>
+banana, lime, mango, pear.
+<RESPONSE>
+
+<PROMPT>
+Write a short confirmation that I will start the download.
+<PROMPT>
+<RESPONSE>
+I’ll start the download.
+<RESPONSE>
+
+<PROMPT>
+What is the area of a square with side length 37 cm?
+<PROMPT>
+<RESPONSE>
+1369 cm².
+<RESPONSE>
+
+<PROMPT>
+What is the least common multiple of 4 and 6?
+<PROMPT>
+<RESPONSE>
+12.
+<RESPONSE>
+
+<PROMPT>
+What is 5% of 535?
+<PROMPT>
+<RESPONSE>
+26.75.
+<RESPONSE>
+
+<PROMPT>
+What is the difference between RAM and storage?
+<PROMPT>
+<RESPONSE>
+RAM holds data in active use; storage keeps data persistently.
+<RESPONSE>
+
+<PROMPT>
+Reverse the word pear.
+<PROMPT>
+<RESPONSE>
+raep.
+<RESPONSE>
+
+<PROMPT>
+How can I recover a forgotten password?
+<PROMPT>
+<RESPONSE>
+Use the service's official password-reset flow and enable multifactor authentication afterward.
+<RESPONSE>
+
+<PROMPT>
+Can you summarize a file on my computer?
+<PROMPT>
+<RESPONSE>
+Please attach the file or paste its contents.
+<RESPONSE>
+
+<PROMPT>
+-9 × 5 = ?
+<PROMPT>
+<RESPONSE>
+-45.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the interview on Monday.
+<PROMPT>
+<RESPONSE>
+The interview — Monday
+<RESPONSE>
+
+<PROMPT>
+What is 193 + -44?
+<PROMPT>
+<RESPONSE>
+149.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 15 = -25.
+<PROMPT>
+<RESPONSE>
+x = -40.
+<RESPONSE>
+
+<PROMPT>
+What is the perimeter of a square with side length 7 cm?
+<PROMPT>
+<RESPONSE>
+28 cm.
+<RESPONSE>
+
+<PROMPT>
+What is the area of a square with side length 42 cm?
+<PROMPT>
+<RESPONSE>
+1764 cm².
+<RESPONSE>
+
+<PROMPT>
+What is the chemical symbol for gold?
+<PROMPT>
+<RESPONSE>
+Au.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of -22?
+<PROMPT>
+<RESPONSE>
+22.
+<RESPONSE>
+
+<PROMPT>
+Is 441 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+Convert 470 kilograms to grams.
+<PROMPT>
+<RESPONSE>
+470,000 grams.
+<RESPONSE>
+
+<PROMPT>
+Convert 1 kilogram to grams.
+<PROMPT>
+<RESPONSE>
+1,000 grams.
+<RESPONSE>
+
+<PROMPT>
+Is 248 even or odd?
+<PROMPT>
+<RESPONSE>
+Even.
+<RESPONSE>
+
+<PROMPT>
+-16 × -7 = ?
+<PROMPT>
+<RESPONSE>
+112.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: -12, -25, 5, 21, -23.
+<PROMPT>
+<RESPONSE>
+21, 5, -12, -23, -25.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of 18?
+<PROMPT>
+<RESPONSE>
+18.
+<RESPONSE>
+
+<PROMPT>
+What is 13 × 5?
+<PROMPT>
+<RESPONSE>
+65.
+<RESPONSE>
+
+<PROMPT>
+What is 0.75 as a percentage?
+<PROMPT>
+<RESPONSE>
+75%.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: cloud silver paper bright amber garden.
+<PROMPT>
+<RESPONSE>
+6.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: plum, date, pear, kiwi.
+<PROMPT>
+<RESPONSE>
+date, kiwi, pear, plum.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: paper garden cedar cloud silver.
+<PROMPT>
+<RESPONSE>
+5.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the team check-in on Monday.
+<PROMPT>
+<RESPONSE>
+The team check-in — Monday
+<RESPONSE>
+
+<PROMPT>
+Calculate 740 ÷ 20.
+<PROMPT>
+<RESPONSE>
+37.
+<RESPONSE>
+
+<PROMPT>
+Convert 220 hours to minutes.
+<PROMPT>
+<RESPONSE>
+13,200 minutes.
+<RESPONSE>
+
+<PROMPT>
+Rewrite professionally: your report is confusing.
+<PROMPT>
+<RESPONSE>
+Could you clarify the report's main findings?
+<RESPONSE>
+
+<PROMPT>
+Write a short confirmation that I will close the tab.
+<PROMPT>
+<RESPONSE>
+I’ll close the tab.
+<RESPONSE>
+
+<PROMPT>
+Calculate -93 - 1.
+<PROMPT>
+<RESPONSE>
+-94.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 16 = -32.
+<PROMPT>
+<RESPONSE>
+x = -48.
+<RESPONSE>
+
+<PROMPT>
+What is 160 divided by 20?
+<PROMPT>
+<RESPONSE>
+8.
+<RESPONSE>
+
+<PROMPT>
+Calculate 360 ÷ 10.
+<PROMPT>
+<RESPONSE>
+36.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the project update is on Wednesday.
+<PROMPT>
+<RESPONSE>
+Reminder: The project update is on Wednesday.
+<RESPONSE>
+
+<PROMPT>
+What is 25% of 742?
+<PROMPT>
+<RESPONSE>
+185.5.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: river cedar quiet window garden stone.
+<PROMPT>
+<RESPONSE>
+6.
+<RESPONSE>
+
+<PROMPT>
+What is 0 factorial?
+<PROMPT>
+<RESPONSE>
+1.
+<RESPONSE>
+
+<PROMPT>
+Summarize this: Sales rose in January but fell in February, leaving the two-month total unchanged.
+<PROMPT>
+<RESPONSE>
+Sales fluctuated, but the two-month total was unchanged.
+<RESPONSE>
+
+<PROMPT>
+-6 + 182 = ?
+<PROMPT>
+<RESPONSE>
+176.
+<RESPONSE>
+
+<PROMPT>
+-108 - 55 = ?
+<PROMPT>
+<RESPONSE>
+-163.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the training session is on Wednesday.
+<PROMPT>
+<RESPONSE>
+Reminder: The training session is on Wednesday.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: -9, -19, 47, 14, 23.
+<PROMPT>
+<RESPONSE>
+-19, -9, 14, 23, 47.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: cedar bright river cloud garden.
+<PROMPT>
+<RESPONSE>
+5.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: paper stone silver quiet.
+<PROMPT>
+<RESPONSE>
+4.
+<RESPONSE>
+
+<PROMPT>
+Round 3.14159 to two decimal places.
+<PROMPT>
+<RESPONSE>
+3.14.
+<RESPONSE>
+
+<PROMPT>
+What is the area of a square with side length 41 cm?
+<PROMPT>
+<RESPONSE>
+1681 cm².
+<RESPONSE>
+
+<PROMPT>
+-92 - -46 = ?
+<PROMPT>
+<RESPONSE>
+-46.
+<RESPONSE>
+
+<PROMPT>
+How do I find a lost phone?
+<PROMPT>
+<RESPONSE>
+Use its built-in device-finding service from another device, then secure the account if necessary.
+<RESPONSE>
+
+<PROMPT>
+What is -306 divided by 18?
+<PROMPT>
+<RESPONSE>
+-17.
+<RESPONSE>
+
+<PROMPT>
+What is the deadline?
+<PROMPT>
+<RESPONSE>
+Which project or task do you mean?
+<RESPONSE>
+
+<PROMPT>
+Calculate 65 - 126.
+<PROMPT>
+<RESPONSE>
+-61.
+<RESPONSE>
+
+<PROMPT>
+How many sides does a hexagon have?
+<PROMPT>
+<RESPONSE>
+Six.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: amber cedar paper bright.
+<PROMPT>
+<RESPONSE>
+4.
+<RESPONSE>
+
+<PROMPT>
+Is 717 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+What is 15 × 21?
+<PROMPT>
+<RESPONSE>
+315.
+<RESPONSE>
+
+<PROMPT>
+Calculate 44 - 74.
+<PROMPT>
+<RESPONSE>
+-30.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the product demo is on Monday.
+<PROMPT>
+<RESPONSE>
+Reminder: The product demo is on Monday.
+<RESPONSE>
+
+<PROMPT>
+Why is my program broken?
+<PROMPT>
+<RESPONSE>
+Please share the code, the error message, and what you expected it to do.
+<RESPONSE>
+
+<PROMPT>
+What is the perimeter of a square with side length 54 cm?
+<PROMPT>
+<RESPONSE>
+216 cm.
+<RESPONSE>
+
+<PROMPT>
+Calculate 106 + -47.
+<PROMPT>
+<RESPONSE>
+59.
+<RESPONSE>
+
+<PROMPT>
+Calculate 75 ÷ 5.
+<PROMPT>
+<RESPONSE>
+15.
+<RESPONSE>
+
+<PROMPT>
+What is 64 - -40?
+<PROMPT>
+<RESPONSE>
+104.
+<RESPONSE>
+
+<PROMPT>
+What is a thesis statement?
+<PROMPT>
+<RESPONSE>
+A sentence that states the main claim of an essay.
+<RESPONSE>
+
+<PROMPT>
+Calculate 100 - 212.
+<PROMPT>
+<RESPONSE>
+-112.
+<RESPONSE>
+
+<PROMPT>
+Calculate 100 + 47.
+<PROMPT>
+<RESPONSE>
+147.
+<RESPONSE>
+
+<PROMPT>
+How do I label a form input in HTML?
+<PROMPT>
+<RESPONSE>
+Associate a `<label for="email">` with an input whose `id` is `email`.
+<RESPONSE>
+
+<PROMPT>
+What is 25% of 22?
+<PROMPT>
+<RESPONSE>
+5.5.
+<RESPONSE>
+
+<PROMPT>
+Is 713 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+What is an adverb?
+<PROMPT>
+<RESPONSE>
+A word that typically modifies a verb, adjective, or another adverb.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the presentation is on Monday.
+<PROMPT>
+<RESPONSE>
+Reminder: The presentation is on Monday.
+<RESPONSE>
+
+<PROMPT>
+Calculate 494 ÷ 19.
+<PROMPT>
+<RESPONSE>
+26.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: 37, -18, 56, 22, 16.
+<PROMPT>
+<RESPONSE>
+56, 37, 22, 16, -18.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 8 = 74.
+<PROMPT>
+<RESPONSE>
+x = 66.
+<RESPONSE>
+
+<PROMPT>
+What is 108 - 3?
+<PROMPT>
+<RESPONSE>
+105.
+<RESPONSE>
+
+<PROMPT>
+How many letters are in "papaya"?
+<PROMPT>
+<RESPONSE>
+6.
+<RESPONSE>
+
+<PROMPT>
+What is 104 - 119?
+<PROMPT>
+<RESPONSE>
+-15.
+<RESPONSE>
+
+<PROMPT>
+Book a table for dinner tonight.
+<PROMPT>
+<RESPONSE>
+What restaurant, party size, and time?
+<RESPONSE>
+
+<PROMPT>
+Calculate 342 ÷ 9.
+<PROMPT>
+<RESPONSE>
+38.
+<RESPONSE>
+
+<PROMPT>
+129 - -110 = ?
+<PROMPT>
+<RESPONSE>
+239.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: lime, date, fig, plum.
+<PROMPT>
+<RESPONSE>
+date, fig, lime, plum.
+<RESPONSE>
+
+<PROMPT>
+What is 114 - 150?
+<PROMPT>
+<RESPONSE>
+-36.
+<RESPONSE>
+
+<PROMPT>
+180 - 143 = ?
+<PROMPT>
+<RESPONSE>
+37.
+<RESPONSE>
+
+<PROMPT>
+Convert 243 hours to minutes.
+<PROMPT>
+<RESPONSE>
+14,580 minutes.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: forest bright paper quiet.
+<PROMPT>
+<RESPONSE>
+4.
+<RESPONSE>
+
+<PROMPT>
+Summarize the draft I mentioned, but did not provide.
+<PROMPT>
+<RESPONSE>
+Please share the draft so I can summarize it.
+<RESPONSE>
+
+<PROMPT>
+What is 25% of 51?
+<PROMPT>
+<RESPONSE>
+12.75.
+<RESPONSE>
+
+<PROMPT>
+Reverse the word date.
+<PROMPT>
+<RESPONSE>
+etad.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: melon, date, apple, plum.
+<PROMPT>
+<RESPONSE>
+apple, date, melon, plum.
+<RESPONSE>
+
+<PROMPT>
+What is -3 × 6?
+<PROMPT>
+<RESPONSE>
+-18.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: 27, -25, 20, -20, 8.
+<PROMPT>
+<RESPONSE>
+-25, -20, 8, 20, 27.
+<RESPONSE>
+
+<PROMPT>
+What is a regression test?
+<PROMPT>
+<RESPONSE>
+A test that checks a previously fixed behavior still works.
+<RESPONSE>
+
+<PROMPT>
+What does URL stand for?
+<PROMPT>
+<RESPONSE>
+Uniform Resource Locator.
+<RESPONSE>
+
+<PROMPT>
+What is 736 divided by 23?
+<PROMPT>
+<RESPONSE>
+32.
+<RESPONSE>
+
+<PROMPT>
+Explain the difference between == and === in JavaScript.
+<PROMPT>
+<RESPONSE>
+`==` allows type coercion; `===` requires both value and type to match.
+<RESPONSE>
+
+<PROMPT>
+Convert 672 days to hours.
+<PROMPT>
+<RESPONSE>
+16,128 hours.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the client call is on Wednesday.
+<PROMPT>
+<RESPONSE>
+Reminder: The client call is on Wednesday.
+<RESPONSE>
+
+<PROMPT>
+What is 50% of 508?
+<PROMPT>
+<RESPONSE>
+254.
+<RESPONSE>
+
+<PROMPT>
+What is the difference between a list and a tuple in Python?
+<PROMPT>
+<RESPONSE>
+Lists are mutable; tuples are immutable.
+<RESPONSE>
+
+<PROMPT>
+What is 25% of 278?
+<PROMPT>
+<RESPONSE>
+69.5.
+<RESPONSE>
+
+<PROMPT>
+Translate this into Spanish: [text omitted].
+<PROMPT>
+<RESPONSE>
+Please provide the text to translate.
+<RESPONSE>
+
+<PROMPT>
+Correct the grammar: He run every morning.
+<PROMPT>
+<RESPONSE>
+He runs every morning.
+<RESPONSE>
+
+<PROMPT>
+Is 648 even or odd?
+<PROMPT>
+<RESPONSE>
+Even.
+<RESPONSE>
+
+<PROMPT>
+Calculate 160 ÷ 8.
+<PROMPT>
+<RESPONSE>
+20.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of 143?
+<PROMPT>
+<RESPONSE>
+143.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the team check-in is on Monday.
+<PROMPT>
+<RESPONSE>
+Reminder: The team check-in is on Monday.
+<RESPONSE>
+
+<PROMPT>
+What is 46 + 64?
+<PROMPT>
+<RESPONSE>
+110.
+<RESPONSE>
+
+<PROMPT>
+23 × -4 = ?
+<PROMPT>
+<RESPONSE>
+-92.
+<RESPONSE>
+
+<PROMPT>
+Calculate -17 × 9.
+<PROMPT>
+<RESPONSE>
+-153.
+<RESPONSE>
+
+<PROMPT>
+What is -13 × 16?
+<PROMPT>
+<RESPONSE>
+-208.
+<RESPONSE>
+
+<PROMPT>
+What chart compares categories?
+<PROMPT>
+<RESPONSE>
+A bar chart is a common choice.
+<RESPONSE>
+
+<PROMPT>
+Write a short follow-up asking for an update on the application.
+<PROMPT>
+<RESPONSE>
+Could you share an update on the application?
+<RESPONSE>
+
+<PROMPT>
+What is a hypothesis?
+<PROMPT>
+<RESPONSE>
+A testable proposed explanation or prediction.
+<RESPONSE>
+
+<PROMPT>
+What is 141 - 137?
+<PROMPT>
+<RESPONSE>
+4.
+<RESPONSE>
+
+<PROMPT>
+Write a polite, one-sentence request for the feedback.
+<PROMPT>
+<RESPONSE>
+Could you please send me the feedback?
+<RESPONSE>
+
+<PROMPT>
+What is the latest stock price for a company you haven't named?
+<PROMPT>
+<RESPONSE>
+Which company or ticker symbol?
+<RESPONSE>
+
+<PROMPT>
+Write a short follow-up asking for an update on the form.
+<PROMPT>
+<RESPONSE>
+Could you share an update on the form?
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of 109?
+<PROMPT>
+<RESPONSE>
+109.
+<RESPONSE>
+
+<PROMPT>
+Why is division by zero undefined?
+<PROMPT>
+<RESPONSE>
+No number multiplied by zero produces a nonzero dividend, so ordinary division cannot assign a consistent result.
+<RESPONSE>
+
+<PROMPT>
+Write a short message saying I received the contract.
+<PROMPT>
+<RESPONSE>
+I received the contract. Thank you.
+<RESPONSE>
+
+<PROMPT>
+What is 310 divided by 10?
+<PROMPT>
+<RESPONSE>
+31.
+<RESPONSE>
+
+<PROMPT>
+What is 11 × 17?
+<PROMPT>
+<RESPONSE>
+187.
+<RESPONSE>
+
+<PROMPT>
+87 - 17 = ?
+<PROMPT>
+<RESPONSE>
+70.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: grape, plum, peach, melon.
+<PROMPT>
+<RESPONSE>
+grape, melon, peach, plum.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: 6, 5, 2, 10, 17.
+<PROMPT>
+<RESPONSE>
+17, 10, 6, 5, 2.
+<RESPONSE>
+
+<PROMPT>
+Summarize this: New users must verify their email address before they can sign in.
+<PROMPT>
+<RESPONSE>
+New users need email verification to sign in.
+<RESPONSE>
+
+<PROMPT>
+What is a parallelogram?
+<PROMPT>
+<RESPONSE>
+A quadrilateral with both pairs of opposite sides parallel.
+<RESPONSE>
+
+<PROMPT>
+What is -25 divided by 25?
+<PROMPT>
+<RESPONSE>
+-1.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of -10?
+<PROMPT>
+<RESPONSE>
+10.
+<RESPONSE>
+
+<PROMPT>
+Translate 'yes' into French.
+<PROMPT>
+<RESPONSE>
+Oui.
+<RESPONSE>
+
+<PROMPT>
+Spell the plural of child.
+<PROMPT>
+<RESPONSE>
+Children.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of 78?
+<PROMPT>
+<RESPONSE>
+78.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: date, grape, banana, melon.
+<PROMPT>
+<RESPONSE>
+banana, date, grape, melon.
+<RESPONSE>
+
+<PROMPT>
+Change to active voice: The window was opened by Lee.
+<PROMPT>
+<RESPONSE>
+Lee opened the window.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: -9, 49, 36, 33, 23.
+<PROMPT>
+<RESPONSE>
+-9, 23, 33, 36, 49.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 7 = 85.
+<PROMPT>
+<RESPONSE>
+x = 78.
+<RESPONSE>
+
+<PROMPT>
+Write a short message saying I received the invoice.
+<PROMPT>
+<RESPONSE>
+I received the invoice. Thank you.
+<RESPONSE>
+
+<PROMPT>
+Calculate 51 + 53.
+<PROMPT>
+<RESPONSE>
+104.
+<RESPONSE>
+
+<PROMPT>
+Make the word kiwi uppercase.
+<PROMPT>
+<RESPONSE>
+KIWI.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of 100?
+<PROMPT>
+<RESPONSE>
+100.
+<RESPONSE>
+
+<PROMPT>
+27 + 219 = ?
+<PROMPT>
+<RESPONSE>
+246.
+<RESPONSE>
+
+<PROMPT>
+Rewrite professionally: hey, send me the file asap.
+<PROMPT>
+<RESPONSE>
+Please send me the file as soon as you can.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the planning meeting on Wednesday.
+<PROMPT>
+<RESPONSE>
+The planning meeting — Wednesday
+<RESPONSE>
+
+<PROMPT>
+What is the chemical symbol for iron?
+<PROMPT>
+<RESPONSE>
+Fe.
+<RESPONSE>
+
+<PROMPT>
+Explain this quote: [quote missing].
+<PROMPT>
+<RESPONSE>
+Please paste the quote.
+<RESPONSE>
+
+<PROMPT>
+Write a polite, one-sentence request for the schedule.
+<PROMPT>
+<RESPONSE>
+Could you please send me the schedule?
+<RESPONSE>
+
+<PROMPT>
+What is -50 + -63?
+<PROMPT>
+<RESPONSE>
+-113.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -15 = 54.
+<PROMPT>
+<RESPONSE>
+x = 69.
+<RESPONSE>
+
+<PROMPT>
+-2 + 44 = ?
+<PROMPT>
+<RESPONSE>
+42.
+<RESPONSE>
+
+<PROMPT>
+What is the perimeter of a square with side length 9 cm?
+<PROMPT>
+<RESPONSE>
+36 cm.
+<RESPONSE>
+
+<PROMPT>
+How do I read a UTF-8 text file in Python?
+<PROMPT>
+<RESPONSE>
+`text = Path('file.txt').read_text(encoding='utf-8')` after importing `Path`.
+<RESPONSE>
+
+<PROMPT>
+What does 404 mean in HTTP?
+<PROMPT>
+<RESPONSE>
+The requested resource was not found.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: 9, 30, 37, 18, 4.
+<PROMPT>
+<RESPONSE>
+4, 9, 18, 30, 37.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the budget review on Thursday.
+<PROMPT>
+<RESPONSE>
+The budget review — Thursday
+<RESPONSE>
+
+<PROMPT>
+Summarize this: The application saves drafts automatically every 30 seconds.
+<PROMPT>
+<RESPONSE>
+Drafts autosave every 30 seconds.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the budget review on Monday.
+<PROMPT>
+<RESPONSE>
+The budget review — Monday
+<RESPONSE>
+
+<PROMPT>
+What is the area of a square with side length 15 cm?
+<PROMPT>
+<RESPONSE>
+225 cm².
+<RESPONSE>
+
+<PROMPT>
+Make 'WORLD' lowercase.
+<PROMPT>
+<RESPONSE>
+world.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the planning meeting on Monday.
+<PROMPT>
+<RESPONSE>
+The planning meeting — Monday
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of -90?
+<PROMPT>
+<RESPONSE>
+90.
+<RESPONSE>
+
+<PROMPT>
+What is 5% of 638?
+<PROMPT>
+<RESPONSE>
+31.9.
+<RESPONSE>
+
+<PROMPT>
+Convert 1 week to days.
+<PROMPT>
+<RESPONSE>
+7 days.
+<RESPONSE>
+
+<PROMPT>
+I think I may have taken too much medication. What should I do?
+<PROMPT>
+<RESPONSE>
+Call poison control or emergency services now. Keep the medication container nearby.
+<RESPONSE>
+
+<PROMPT>
+-4 × -7 = ?
+<PROMPT>
+<RESPONSE>
+28.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: pear, banana, fig, lime.
+<PROMPT>
+<RESPONSE>
+banana, fig, lime, pear.
+<RESPONSE>
+
+<PROMPT>
+What is 15% of 200?
+<PROMPT>
+<RESPONSE>
+30.
+<RESPONSE>
+
+<PROMPT>
+-6 × 0 = ?
+<PROMPT>
+<RESPONSE>
+0.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 16 = -25.
+<PROMPT>
+<RESPONSE>
+x = -41.
+<RESPONSE>
+
+<PROMPT>
+Calculate 19 × -1.
+<PROMPT>
+<RESPONSE>
+-19.
+<RESPONSE>
+
+<PROMPT>
+What does HTML stand for?
+<PROMPT>
+<RESPONSE>
+HyperText Markup Language.
+<RESPONSE>
+
+<PROMPT>
+What is a race condition?
+<PROMPT>
+<RESPONSE>
+A bug where the result depends on the timing of concurrent operations.
+<RESPONSE>
+
+<PROMPT>
+Solve x - 3 = 9.
+<PROMPT>
+<RESPONSE>
+x = 12.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the presentation is on Wednesday.
+<PROMPT>
+<RESPONSE>
+Reminder: The presentation is on Wednesday.
+<RESPONSE>
+
+<PROMPT>
+What is -89 - -22?
+<PROMPT>
+<RESPONSE>
+-67.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -1 = 26.
+<PROMPT>
+<RESPONSE>
+x = 27.
+<RESPONSE>
+
+<PROMPT>
+Write a concise success message for saving settings.
+<PROMPT>
+<RESPONSE>
+Settings saved.
+<RESPONSE>
+
+<PROMPT>
+208 + -113 = ?
+<PROMPT>
+<RESPONSE>
+95.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 10 = -37.
+<PROMPT>
+<RESPONSE>
+x = -47.
+<RESPONSE>
+
+<PROMPT>
+Calculate 1 × -3.
+<PROMPT>
+<RESPONSE>
+-3.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -5 = -2.
+<PROMPT>
+<RESPONSE>
+x = 3.
+<RESPONSE>
+
+<PROMPT>
+What is 204 - 18?
+<PROMPT>
+<RESPONSE>
+186.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: banana, pear, grape, lime.
+<PROMPT>
+<RESPONSE>
+banana, grape, lime, pear.
+<RESPONSE>
+
+<PROMPT>
+What is 75% of 430?
+<PROMPT>
+<RESPONSE>
+322.5.
+<RESPONSE>
+
+<PROMPT>
+What is 25% of 131?
+<PROMPT>
+<RESPONSE>
+32.75.
+<RESPONSE>
+
+<PROMPT>
+What is 48 divided by 3?
+<PROMPT>
+<RESPONSE>
+16.
+<RESPONSE>
+
+<PROMPT>
+What is erosion?
+<PROMPT>
+<RESPONSE>
+The movement of soil or rock by water, wind, ice, or gravity.
+<RESPONSE>
+
+<PROMPT>
+Change to active voice: The report was written by Maya.
+<PROMPT>
+<RESPONSE>
+Maya wrote the report.
+<RESPONSE>
+
+<PROMPT>
+What is 3 + 187?
+<PROMPT>
+<RESPONSE>
+190.
+<RESPONSE>
+
+<PROMPT>
+What is a sentence fragment?
+<PROMPT>
+<RESPONSE>
+A group of words presented as a sentence but missing a complete independent clause.
+<RESPONSE>
+
+<PROMPT>
+What is the capital of Japan?
+<PROMPT>
+<RESPONSE>
+Tokyo.
+<RESPONSE>
+
+<PROMPT>
+What is 14 divided by 2?
+<PROMPT>
+<RESPONSE>
+7.
+<RESPONSE>
+
+<PROMPT>
+Convert 299 kilometers to meters.
+<PROMPT>
+<RESPONSE>
+299,000 meters.
+<RESPONSE>
+
+<PROMPT>
+-3 × -18 = ?
+<PROMPT>
+<RESPONSE>
+54.
+<RESPONSE>
+
+<PROMPT>
+Is 751 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+Write a short follow-up asking for an update on the receipt.
+<PROMPT>
+<RESPONSE>
+Could you share an update on the receipt?
+<RESPONSE>
+
+<PROMPT>
+What is the total from the spreadsheet?
+<PROMPT>
+<RESPONSE>
+Please attach the spreadsheet or paste the relevant numbers.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -12 = -49.
+<PROMPT>
+<RESPONSE>
+x = -37.
+<RESPONSE>
+
+<PROMPT>
+172 - -61 = ?
+<PROMPT>
+<RESPONSE>
+233.
+<RESPONSE>
+
+<PROMPT>
+Write a short confirmation that I will delete the file.
+<PROMPT>
+<RESPONSE>
+I’ll delete the file.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -1 = 3.
+<PROMPT>
+<RESPONSE>
+x = 4.
+<RESPONSE>
+
+<PROMPT>
+What is the unit of electric resistance?
+<PROMPT>
+<RESPONSE>
+The ohm.
+<RESPONSE>
+
+<PROMPT>
+What is the chemical symbol for sodium?
+<PROMPT>
+<RESPONSE>
+Na.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the team check-in on Tuesday.
+<PROMPT>
+<RESPONSE>
+The team check-in — Tuesday
+<RESPONSE>
+
+<PROMPT>
+Give two ways to save water at home.
+<PROMPT>
+<RESPONSE>
+Fix leaks and run full loads of laundry.
+<RESPONSE>
+
+<PROMPT>
+What is passive voice?
+<PROMPT>
+<RESPONSE>
+A construction where the subject receives the action, often using a form of 'be' plus a past participle.
+<RESPONSE>
+
+<PROMPT>
+Calculate 238 - -69.
+<PROMPT>
+<RESPONSE>
+307.
+<RESPONSE>
+
+<PROMPT>
+Calculate 11 × 6.
+<PROMPT>
+<RESPONSE>
+66.
+<RESPONSE>
+
+<PROMPT>
+How many days are in a common year?
+<PROMPT>
+<RESPONSE>
+365.
+<RESPONSE>
+
+<PROMPT>
+-11 × 9 = ?
+<PROMPT>
+<RESPONSE>
+-99.
+<RESPONSE>
+
+<PROMPT>
+Simplify the fraction 8/12.
+<PROMPT>
+<RESPONSE>
+2/3.
+<RESPONSE>
+
+<PROMPT>
+What is a deductible in insurance?
+<PROMPT>
+<RESPONSE>
+The amount you pay for covered costs before certain insurance payments begin.
+<RESPONSE>
+
+<PROMPT>
+Calculate -23 + -38.
+<PROMPT>
+<RESPONSE>
+-61.
+<RESPONSE>
+
+<PROMPT>
+Write a subject line for a meeting reschedule.
+<PROMPT>
+<RESPONSE>
+Meeting Rescheduled
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the interview on Wednesday.
+<PROMPT>
+<RESPONSE>
+The interview — Wednesday
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the client call is on Thursday.
+<PROMPT>
+<RESPONSE>
+Reminder: The client call is on Thursday.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: 25, 6, 40, -25, 31.
+<PROMPT>
+<RESPONSE>
+40, 31, 25, 6, -25.
+<RESPONSE>
+
+<PROMPT>
+What is the unit of temperature in SI?
+<PROMPT>
+<RESPONSE>
+The kelvin.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -19 = -67.
+<PROMPT>
+<RESPONSE>
+x = -48.
+<RESPONSE>
+
+<PROMPT>
+What is 111 - 138?
+<PROMPT>
+<RESPONSE>
+-27.
+<RESPONSE>
+
+<PROMPT>
+Calculate 169 + 161.
+<PROMPT>
+<RESPONSE>
+330.
+<RESPONSE>
+
+<PROMPT>
+What is the perimeter of a square with side length 46 cm?
+<PROMPT>
+<RESPONSE>
+184 cm.
+<RESPONSE>
+
+<PROMPT>
+How many letters are in "lime"?
+<PROMPT>
+<RESPONSE>
+4.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: 51, 23, 48, 7, 41.
+<PROMPT>
+<RESPONSE>
+7, 23, 41, 48, 51.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the design meeting is on Thursday.
+<PROMPT>
+<RESPONSE>
+Reminder: The design meeting is on Thursday.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: cloud paper cedar forest window.
+<PROMPT>
+<RESPONSE>
+5.
+<RESPONSE>
+
+<PROMPT>
+What is the purpose of alt text?
+<PROMPT>
+<RESPONSE>
+It describes an image for people who cannot see it and for other nonvisual contexts.
+<RESPONSE>
+
+<PROMPT>
+What is velocity?
+<PROMPT>
+<RESPONSE>
+Speed with a direction.
+<RESPONSE>
+
+<PROMPT>
+What does CLI stand for?
+<PROMPT>
+<RESPONSE>
+Command-line interface.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 5 = 12.
+<PROMPT>
+<RESPONSE>
+x = 7.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the budget review on Friday.
+<PROMPT>
+<RESPONSE>
+The budget review — Friday
+<RESPONSE>
+
+<PROMPT>
+10 × -7 = ?
+<PROMPT>
+<RESPONSE>
+-70.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the product demo on Monday.
+<PROMPT>
+<RESPONSE>
+The product demo — Monday
+<RESPONSE>
+
+<PROMPT>
+Translate 'good night' into Spanish.
+<PROMPT>
+<RESPONSE>
+Buenas noches.
+<RESPONSE>
+
+<PROMPT>
+What is responsive design?
+<PROMPT>
+<RESPONSE>
+A layout that adapts to different screen sizes and input conditions.
+<RESPONSE>
+
+<PROMPT>
+71 + -16 = ?
+<PROMPT>
+<RESPONSE>
+55.
+<RESPONSE>
+
+<PROMPT>
+Make this friendlier: Send the agenda.
+<PROMPT>
+<RESPONSE>
+Could you send the agenda when you have a chance?
+<RESPONSE>
+
+<PROMPT>
+Calculate 8 × -14.
+<PROMPT>
+<RESPONSE>
+-112.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the team check-in is on Wednesday.
+<PROMPT>
+<RESPONSE>
+Reminder: The team check-in is on Wednesday.
+<RESPONSE>
+
+<PROMPT>
+-5 × 7 = ?
+<PROMPT>
+<RESPONSE>
+-35.
+<RESPONSE>
+
+<PROMPT>
+Write a short follow-up asking for an update on the presentation.
+<PROMPT>
+<RESPONSE>
+Could you share an update on the presentation?
+<RESPONSE>
+
+<PROMPT>
+Solve x + 14 = 49.
+<PROMPT>
+<RESPONSE>
+x = 35.
+<RESPONSE>
+
+<PROMPT>
+How do I remove leading and trailing whitespace in Python?
+<PROMPT>
+<RESPONSE>
+`text.strip()`
+<RESPONSE>
+
+<PROMPT>
+Calculate -27 + 6.
+<PROMPT>
+<RESPONSE>
+-21.
+<RESPONSE>
+
+<PROMPT>
+Is 93 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+Calculate 164 - -2.
+<PROMPT>
+<RESPONSE>
+166.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 22 = 20.
+<PROMPT>
+<RESPONSE>
+x = -2.
+<RESPONSE>
+
+<PROMPT>
+Reverse the word lemon.
+<PROMPT>
+<RESPONSE>
+nomel.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of 37?
+<PROMPT>
+<RESPONSE>
+37.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: lime, kiwi, grape, banana.
+<PROMPT>
+<RESPONSE>
+banana, grape, kiwi, lime.
+<RESPONSE>
+
+<PROMPT>
+How do I select all rows from a SQL table named users?
+<PROMPT>
+<RESPONSE>
+`SELECT * FROM users;`
+<RESPONSE>
+
+<PROMPT>
+Is 'level' a palindrome?
+<PROMPT>
+<RESPONSE>
+Yes.
+<RESPONSE>
+
+<PROMPT>
+Are you certain this is correct?
+<PROMPT>
+<RESPONSE>
+I'm not certain without checking the underlying source.
+<RESPONSE>
+
+<PROMPT>
+What is -103 + -97?
+<PROMPT>
+<RESPONSE>
+-200.
+<RESPONSE>
+
+<PROMPT>
+Convert 88 kilometers to meters.
+<PROMPT>
+<RESPONSE>
+88,000 meters.
+<RESPONSE>
+
+<PROMPT>
+55 - 57 = ?
+<PROMPT>
+<RESPONSE>
+-2.
+<RESPONSE>
+
+<PROMPT>
+What is 15 × -9?
+<PROMPT>
+<RESPONSE>
+-135.
+<RESPONSE>
+
+<PROMPT>
+What is the perimeter of a square with side length 33 cm?
+<PROMPT>
+<RESPONSE>
+132 cm.
+<RESPONSE>
+
+<PROMPT>
+What is 5% of 570?
+<PROMPT>
+<RESPONSE>
+28.5.
+<RESPONSE>
+
+<PROMPT>
+Calculate 4 + 30.
+<PROMPT>
+<RESPONSE>
+34.
+<RESPONSE>
+
+<PROMPT>
+Write a polite, one-sentence request for the presentation.
+<PROMPT>
+<RESPONSE>
+Could you please send me the presentation?
+<RESPONSE>
+
+<PROMPT>
+Calculate 13 × 6.
+<PROMPT>
+<RESPONSE>
+78.
+<RESPONSE>
+
+<PROMPT>
+Calculate -13 × 3.
+<PROMPT>
+<RESPONSE>
+-39.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: -12, -13, -21, 52, -17.
+<PROMPT>
+<RESPONSE>
+-21, -17, -13, -12, 52.
+<RESPONSE>
+
+<PROMPT>
+Reverse the word peach.
+<PROMPT>
+<RESPONSE>
+hcaep.
+<RESPONSE>
+
+<PROMPT>
+Write a concise button label to save changes.
+<PROMPT>
+<RESPONSE>
+Save changes
+<RESPONSE>
+
+<PROMPT>
+What is 50% of 515?
+<PROMPT>
+<RESPONSE>
+257.5.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of -91?
+<PROMPT>
+<RESPONSE>
+91.
+<RESPONSE>
+
+<PROMPT>
+Is 886 even or odd?
+<PROMPT>
+<RESPONSE>
+Even.
+<RESPONSE>
+
+<PROMPT>
+What is 0.25 as a percentage?
+<PROMPT>
+<RESPONSE>
+25%.
+<RESPONSE>
+
+<PROMPT>
+Calculate 0 ÷ 3.
+<PROMPT>
+<RESPONSE>
+0.
+<RESPONSE>
+
+<PROMPT>
+What is -114 divided by 6?
+<PROMPT>
+<RESPONSE>
+-19.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: date, apple, fig, lime.
+<PROMPT>
+<RESPONSE>
+apple, date, fig, lime.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the interview on Friday.
+<PROMPT>
+<RESPONSE>
+The interview — Friday
+<RESPONSE>
+
+<PROMPT>
+What is 95 divided by 19?
+<PROMPT>
+<RESPONSE>
+5.
+<RESPONSE>
+
+<PROMPT>
+Give me a short answer: why does ice float?
+<PROMPT>
+<RESPONSE>
+Ice is less dense than liquid water.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the interview on Thursday.
+<PROMPT>
+<RESPONSE>
+The interview — Thursday
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of 70?
+<PROMPT>
+<RESPONSE>
+70.
+<RESPONSE>
+
+<PROMPT>
+What is an element?
+<PROMPT>
+<RESPONSE>
+A substance made of atoms with the same number of protons.
+<RESPONSE>
+
+<PROMPT>
+Calculate -150 ÷ 10.
+<PROMPT>
+<RESPONSE>
+-15.
+<RESPONSE>
+
+<PROMPT>
+Convert 535 minutes to seconds.
+<PROMPT>
+<RESPONSE>
+32,100 seconds.
+<RESPONSE>
+
+<PROMPT>
+What is 50% of 709?
+<PROMPT>
+<RESPONSE>
+354.5.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: lime, melon, kiwi, banana.
+<PROMPT>
+<RESPONSE>
+banana, kiwi, lime, melon.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: kiwi, melon, peach, date.
+<PROMPT>
+<RESPONSE>
+date, kiwi, melon, peach.
+<RESPONSE>
+
+<PROMPT>
+What is a cache?
+<PROMPT>
+<RESPONSE>
+A store of data kept so future access is faster.
+<RESPONSE>
+
+<PROMPT>
+Reverse the word melon.
+<PROMPT>
+<RESPONSE>
+nolem.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 15 = 82.
+<PROMPT>
+<RESPONSE>
+x = 67.
+<RESPONSE>
+
+<PROMPT>
+What chart shows change over time?
+<PROMPT>
+<RESPONSE>
+A line chart is a common choice.
+<RESPONSE>
+
+<PROMPT>
+Write a short follow-up asking for an update on the file.
+<PROMPT>
+<RESPONSE>
+Could you share an update on the file?
+<RESPONSE>
+
+<PROMPT>
+How do I sort a Python list in place?
+<PROMPT>
+<RESPONSE>
+`items.sort()`
+<RESPONSE>
+
+<PROMPT>
+Calculate 8 × 1.
+<PROMPT>
+<RESPONSE>
+8.
+<RESPONSE>
+
+<PROMPT>
+What is 223 + 9?
+<PROMPT>
+<RESPONSE>
+232.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the product demo on Wednesday.
+<PROMPT>
+<RESPONSE>
+The product demo — Wednesday
+<RESPONSE>
+
+<PROMPT>
+Reverse the word pineapple.
+<PROMPT>
+<RESPONSE>
+elppaenip.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the planning meeting is on Friday.
+<PROMPT>
+<RESPONSE>
+Reminder: The planning meeting is on Friday.
+<RESPONSE>
+
+<PROMPT>
+Did I pass the exam?
+<PROMPT>
+<RESPONSE>
+I don't have your result. Share your score and the passing threshold.
+<RESPONSE>
+
+<PROMPT>
+How many months are in a year?
+<PROMPT>
+<RESPONSE>
+12.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: grape, peach, lime, date.
+<PROMPT>
+<RESPONSE>
+date, grape, lime, peach.
+<RESPONSE>
+
+<PROMPT>
+Fix the comma splice: I was tired, I went to bed.
+<PROMPT>
+<RESPONSE>
+I was tired, so I went to bed.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the client call on Thursday.
+<PROMPT>
+<RESPONSE>
+The client call — Thursday
+<RESPONSE>
+
+<PROMPT>
+Is 111 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+What is a rhombus?
+<PROMPT>
+<RESPONSE>
+A quadrilateral with four equal sides.
+<RESPONSE>
+
+<PROMPT>
+Convert 217 minutes to seconds.
+<PROMPT>
+<RESPONSE>
+13,020 seconds.
+<RESPONSE>
+
+<PROMPT>
+What chart shows a relationship between two numerical variables?
+<PROMPT>
+<RESPONSE>
+A scatter plot.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of 8?
+<PROMPT>
+<RESPONSE>
+8.
+<RESPONSE>
+
+<PROMPT>
+28 + 234 = ?
+<PROMPT>
+<RESPONSE>
+262.
+<RESPONSE>
+
+<PROMPT>
+What is -13 × -7?
+<PROMPT>
+<RESPONSE>
+91.
+<RESPONSE>
+
+<PROMPT>
+What does REST stand for?
+<PROMPT>
+<RESPONSE>
+Representational State Transfer.
+<RESPONSE>
+
+<PROMPT>
+How do I store user passwords?
+<PROMPT>
+<RESPONSE>
+Use a dedicated password hashing function such as Argon2id with unique salts.
+<RESPONSE>
+
+<PROMPT>
+What is 100 minus 37?
+<PROMPT>
+<RESPONSE>
+63.
+<RESPONSE>
+
+<PROMPT>
+What is 103 + -38?
+<PROMPT>
+<RESPONSE>
+65.
+<RESPONSE>
+
+<PROMPT>
+Convert 19 days to hours.
+<PROMPT>
+<RESPONSE>
+456 hours.
+<RESPONSE>
+
+<PROMPT>
+What is the sum of the angles in a quadrilateral?
+<PROMPT>
+<RESPONSE>
+360°.
+<RESPONSE>
+
+<PROMPT>
+What is the unit of power in SI?
+<PROMPT>
+<RESPONSE>
+The watt.
+<RESPONSE>
+
+<PROMPT>
+What is -45 - 100?
+<PROMPT>
+<RESPONSE>
+-145.
+<RESPONSE>
+
+<PROMPT>
+What is an ISO 8601 date?
+<PROMPT>
+<RESPONSE>
+A date written in a standardized format such as `2026-09-28`.
+<RESPONSE>
+
+<PROMPT>
+Calculate -60 ÷ 3.
+<PROMPT>
+<RESPONSE>
+-20.
+<RESPONSE>
+
+<PROMPT>
+What is the difference between its and it's?
+<PROMPT>
+<RESPONSE>
+`Its` is possessive; `it's` means `it is` or `it has`.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of -82?
+<PROMPT>
+<RESPONSE>
+82.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: 29, 44, -6, 41, -1.
+<PROMPT>
+<RESPONSE>
+44, 41, 29, -1, -6.
+<RESPONSE>
+
+<PROMPT>
+What is the remainder when 17 is divided by 5?
+<PROMPT>
+<RESPONSE>
+2.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: -17, -3, -28, 57, -16.
+<PROMPT>
+<RESPONSE>
+-28, -17, -16, -3, 57.
+<RESPONSE>
+
+<PROMPT>
+Write a polite, one-sentence request for the summary.
+<PROMPT>
+<RESPONSE>
+Could you please send me the summary?
+<RESPONSE>
+
+<PROMPT>
+Write a concise confirmation for deleting a draft.
+<PROMPT>
+<RESPONSE>
+Delete this draft? This action can't be undone.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: banana, pear, lime, fig.
+<PROMPT>
+<RESPONSE>
+banana, fig, lime, pear.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the client call on Wednesday.
+<PROMPT>
+<RESPONSE>
+The client call — Wednesday
+<RESPONSE>
+
+<PROMPT>
+Solve x + 29 = 59.
+<PROMPT>
+<RESPONSE>
+x = 30.
+<RESPONSE>
+
+<PROMPT>
+Convert 16 minutes to seconds.
+<PROMPT>
+<RESPONSE>
+960 seconds.
+<RESPONSE>
+
+<PROMPT>
+What is a suffix?
+<PROMPT>
+<RESPONSE>
+A word part added to the end of a word.
+<RESPONSE>
+
+<PROMPT>
+Summarize the schedule I mentioned, but did not provide.
+<PROMPT>
+<RESPONSE>
+Please share the schedule so I can summarize it.
+<RESPONSE>
+
+<PROMPT>
+What is 75% of 375?
+<PROMPT>
+<RESPONSE>
+281.25.
+<RESPONSE>
+
+<PROMPT>
+What is a citation?
+<PROMPT>
+<RESPONSE>
+A reference identifying the source of information or a quotation.
+<RESPONSE>
+
+<PROMPT>
+Is 580 even or odd?
+<PROMPT>
+<RESPONSE>
+Even.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: 25, 11, 55, -10, 53.
+<PROMPT>
+<RESPONSE>
+55, 53, 25, 11, -10.
+<RESPONSE>
+
+<PROMPT>
+What is a simile?
+<PROMPT>
+<RESPONSE>
+A comparison using words such as 'like' or 'as'.
+<RESPONSE>
+
+<PROMPT>
+Calculate 109 + -12.
+<PROMPT>
+<RESPONSE>
+97.
+<RESPONSE>
+
+<PROMPT>
+Calculate -6 × -4.
+<PROMPT>
+<RESPONSE>
+24.
+<RESPONSE>
+
+<PROMPT>
+What is 418 divided by 19?
+<PROMPT>
+<RESPONSE>
+22.
+<RESPONSE>
+
+<PROMPT>
+47 + 94 = ?
+<PROMPT>
+<RESPONSE>
+141.
+<RESPONSE>
+
+<PROMPT>
+Calculate -39 + 54.
+<PROMPT>
+<RESPONSE>
+15.
+<RESPONSE>
+
+<PROMPT>
+What does a leap year add to February?
+<PROMPT>
+<RESPONSE>
+A 29th day.
+<RESPONSE>
+
+<PROMPT>
+What is compound interest?
+<PROMPT>
+<RESPONSE>
+Interest calculated on the principal plus previously accrued interest.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the product demo is on Friday.
+<PROMPT>
+<RESPONSE>
+Reminder: The product demo is on Friday.
+<RESPONSE>
+
+<PROMPT>
+Explain a variable in programming.
+<PROMPT>
+<RESPONSE>
+A variable is a name that refers to a value.
+<RESPONSE>
+
+<PROMPT>
+Calculate 11 - 6.
+<PROMPT>
+<RESPONSE>
+5.
+<RESPONSE>
+
+<PROMPT>
+How many letters are in "pineapple"?
+<PROMPT>
+<RESPONSE>
+9.
+<RESPONSE>
+
+<PROMPT>
+Is 225 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of 114?
+<PROMPT>
+<RESPONSE>
+114.
+<RESPONSE>
+
+<PROMPT>
+What is 75% of 784?
+<PROMPT>
+<RESPONSE>
+588.
+<RESPONSE>
+
+<PROMPT>
+Convert 229 minutes to seconds.
+<PROMPT>
+<RESPONSE>
+13,740 seconds.
+<RESPONSE>
+
+<PROMPT>
+What is 10% of 574?
+<PROMPT>
+<RESPONSE>
+57.4.
+<RESPONSE>
+
+<PROMPT>
+Calculate 31 + 208.
+<PROMPT>
+<RESPONSE>
+239.
+<RESPONSE>
+
+<PROMPT>
+Convert 785 weeks to days.
+<PROMPT>
+<RESPONSE>
+5,495 days.
+<RESPONSE>
+
+<PROMPT>
+Say only the translation: 'cat' in Spanish.
+<PROMPT>
+<RESPONSE>
+Gato.
+<RESPONSE>
+
+<PROMPT>
+Summarize this: The team completed the prototype on Tuesday. Testing begins Thursday.
+<PROMPT>
+<RESPONSE>
+The prototype is complete; testing starts Thursday.
+<RESPONSE>
+
+<PROMPT>
+What is 207 - -4?
+<PROMPT>
+<RESPONSE>
+211.
+<RESPONSE>
+
+<PROMPT>
+Convert 12 kilograms to grams.
+<PROMPT>
+<RESPONSE>
+12,000 grams.
+<RESPONSE>
+
+<PROMPT>
+Translate 'hello' into Spanish.
+<PROMPT>
+<RESPONSE>
+Hola.
+<RESPONSE>
+
+<PROMPT>
+What is 131 - -67?
+<PROMPT>
+<RESPONSE>
+198.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: -21, 4, -24, 19, 52.
+<PROMPT>
+<RESPONSE>
+52, 19, 4, -21, -24.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of 91?
+<PROMPT>
+<RESPONSE>
+91.
+<RESPONSE>
+
+<PROMPT>
+Convert 704 kilometers to meters.
+<PROMPT>
+<RESPONSE>
+704,000 meters.
+<RESPONSE>
+
+<PROMPT>
+Calculate -7 × -1.
+<PROMPT>
+<RESPONSE>
+7.
+<RESPONSE>
+
+<PROMPT>
+How do I sort users by name in SQL?
+<PROMPT>
+<RESPONSE>
+`SELECT * FROM users ORDER BY name;`
+<RESPONSE>
+
+<PROMPT>
+Write a short follow-up asking for an update on the report.
+<PROMPT>
+<RESPONSE>
+Could you share an update on the report?
+<RESPONSE>
+
+<PROMPT>
+Calculate 204 - 29.
+<PROMPT>
+<RESPONSE>
+175.
+<RESPONSE>
+
+<PROMPT>
+What is the area of a square with side length 35 cm?
+<PROMPT>
+<RESPONSE>
+1225 cm².
+<RESPONSE>
+
+<PROMPT>
+What is 50% of 426?
+<PROMPT>
+<RESPONSE>
+213.
+<RESPONSE>
+
+<PROMPT>
+-38 + 37 = ?
+<PROMPT>
+<RESPONSE>
+-1.
+<RESPONSE>
+
+<PROMPT>
+What is -80 + 30?
+<PROMPT>
+<RESPONSE>
+-50.
+<RESPONSE>
+
+<PROMPT>
+What is the difference between encryption and hashing?
+<PROMPT>
+<RESPONSE>
+Encryption is reversible with a key; cryptographic hashing is designed to be one-way.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: 7, 4, 26, 24, 56.
+<PROMPT>
+<RESPONSE>
+56, 26, 24, 7, 4.
+<RESPONSE>
+
+<PROMPT>
+What is 198 divided by 18?
+<PROMPT>
+<RESPONSE>
+11.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the planning meeting on Tuesday.
+<PROMPT>
+<RESPONSE>
+The planning meeting — Tuesday
+<RESPONSE>
+
+<PROMPT>
+What is a unit test?
+<PROMPT>
+<RESPONSE>
+A test that checks a small unit of code against expected behavior.
+<RESPONSE>
+
+<PROMPT>
+-109 + -4 = ?
+<PROMPT>
+<RESPONSE>
+-113.
+<RESPONSE>
+
+<PROMPT>
+Convert 672 weeks to days.
+<PROMPT>
+<RESPONSE>
+4,704 days.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the planning meeting is on Wednesday.
+<PROMPT>
+<RESPONSE>
+Reminder: The planning meeting is on Wednesday.
+<RESPONSE>
+
+<PROMPT>
+Write a short follow-up asking for an update on the meeting notes.
+<PROMPT>
+<RESPONSE>
+Could you share an update on the meeting notes?
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: lime, mango, pear, peach.
+<PROMPT>
+<RESPONSE>
+lime, mango, peach, pear.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the presentation on Tuesday.
+<PROMPT>
+<RESPONSE>
+The presentation — Tuesday
+<RESPONSE>
+
+<PROMPT>
+Write a short confirmation that I will send the email.
+<PROMPT>
+<RESPONSE>
+I’ll send the email.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the project update is on Thursday.
+<PROMPT>
+<RESPONSE>
+Reminder: The project update is on Thursday.
+<RESPONSE>
+
+<PROMPT>
+What is 0 × 4?
+<PROMPT>
+<RESPONSE>
+0.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: garden cloud cedar paper window stone.
+<PROMPT>
+<RESPONSE>
+6.
+<RESPONSE>
+
+<PROMPT>
+What is a food chain?
+<PROMPT>
+<RESPONSE>
+A sequence showing how energy moves as organisms eat other organisms.
+<RESPONSE>
+
+<PROMPT>
+What is -88 - 150?
+<PROMPT>
+<RESPONSE>
+-238.
+<RESPONSE>
+
+<PROMPT>
+What is an edge case?
+<PROMPT>
+<RESPONSE>
+An unusual input or condition near the limits of expected behavior.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of -92?
+<PROMPT>
+<RESPONSE>
+92.
+<RESPONSE>
+
+<PROMPT>
+How many letters are in "banana"?
+<PROMPT>
+<RESPONSE>
+6.
+<RESPONSE>
+
+<PROMPT>
+Convert 6 hours to minutes.
+<PROMPT>
+<RESPONSE>
+360 minutes.
+<RESPONSE>
+
+<PROMPT>
+Should I pick option A or B?
+<PROMPT>
+<RESPONSE>
+What are the two options and your main criterion?
+<RESPONSE>
+
+<PROMPT>
+What is -6 - 44?
+<PROMPT>
+<RESPONSE>
+-50.
+<RESPONSE>
+
+<PROMPT>
+Calculate 192 - 74.
+<PROMPT>
+<RESPONSE>
+118.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of 60?
+<PROMPT>
+<RESPONSE>
+60.
+<RESPONSE>
+
+<PROMPT>
+What does ACID stand for in databases?
+<PROMPT>
+<RESPONSE>
+Atomicity, consistency, isolation, and durability.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 8 = 10.
+<PROMPT>
+<RESPONSE>
+x = 2.
+<RESPONSE>
+
+<PROMPT>
+Reverse the word orange.
+<PROMPT>
+<RESPONSE>
+egnaro.
+<RESPONSE>
+
+<PROMPT>
+Translate 'please' into Spanish.
+<PROMPT>
+<RESPONSE>
+Por favor.
+<RESPONSE>
+
+<PROMPT>
+What is the perimeter of a square with side length 40 cm?
+<PROMPT>
+<RESPONSE>
+160 cm.
+<RESPONSE>
+
+<PROMPT>
+What is the perimeter of a square with side length 52 cm?
+<PROMPT>
+<RESPONSE>
+208 cm.
+<RESPONSE>
+
+<PROMPT>
+Make the word fig uppercase.
+<PROMPT>
+<RESPONSE>
+FIG.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: cedar stone river quiet.
+<PROMPT>
+<RESPONSE>
+4.
+<RESPONSE>
+
+<PROMPT>
+How do I add an image in HTML?
+<PROMPT>
+<RESPONSE>
+`<img src="image.jpg" alt="Description">`
+<RESPONSE>
+
+<PROMPT>
+What command shows the current Git branch?
+<PROMPT>
+<RESPONSE>
+`git branch --show-current`
+<RESPONSE>
+
+<PROMPT>
+What is the area of a square with side length 36 cm?
+<PROMPT>
+<RESPONSE>
+1296 cm².
+<RESPONSE>
+
+<PROMPT>
+Write a polite decline to a meeting invitation.
+<PROMPT>
+<RESPONSE>
+Thanks for the invitation, but I won't be able to attend.
+<RESPONSE>
+
+<PROMPT>
+Calculate 24 × -12.
+<PROMPT>
+<RESPONSE>
+-288.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: window river forest silver quiet amber.
+<PROMPT>
+<RESPONSE>
+6.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of -86?
+<PROMPT>
+<RESPONSE>
+86.
+<RESPONSE>
+
+<PROMPT>
+How many letters are in "grape"?
+<PROMPT>
+<RESPONSE>
+5.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: -21, 4, 27, -2, -15.
+<PROMPT>
+<RESPONSE>
+27, 4, -2, -15, -21.
+<RESPONSE>
+
+<PROMPT>
+What does UTC stand for?
+<PROMPT>
+<RESPONSE>
+Coordinated Universal Time.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the planning meeting on Friday.
+<PROMPT>
+<RESPONSE>
+The planning meeting — Friday
+<RESPONSE>
+
+<PROMPT>
+How do I write a UTF-8 text file in Python?
+<PROMPT>
+<RESPONSE>
+`Path('file.txt').write_text(text, encoding='utf-8')` after importing `Path`.
+<RESPONSE>
+
+<PROMPT>
+163 - 235 = ?
+<PROMPT>
+<RESPONSE>
+-72.
+<RESPONSE>
+
+<PROMPT>
+141 + 204 = ?
+<PROMPT>
+<RESPONSE>
+345.
+<RESPONSE>
+
+<PROMPT>
+Correct the grammar: I has two dogs.
+<PROMPT>
+<RESPONSE>
+I have two dogs.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 0 = 52.
+<PROMPT>
+<RESPONSE>
+x = 52.
+<RESPONSE>
+
+<PROMPT>
+211 - -26 = ?
+<PROMPT>
+<RESPONSE>
+237.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -10 = -19.
+<PROMPT>
+<RESPONSE>
+x = -9.
+<RESPONSE>
+
+<PROMPT>
+Convert 740 minutes to seconds.
+<PROMPT>
+<RESPONSE>
+44,400 seconds.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: cloud garden window cedar forest amber bright.
+<PROMPT>
+<RESPONSE>
+7.
+<RESPONSE>
+
+<PROMPT>
+Calculate -120 ÷ 24.
+<PROMPT>
+<RESPONSE>
+-5.
+<RESPONSE>
+
+<PROMPT>
+What is a warranty?
+<PROMPT>
+<RESPONSE>
+A promise about a product's condition or the seller's obligations, subject to its terms.
+<RESPONSE>
+
+<PROMPT>
+-114 + -58 = ?
+<PROMPT>
+<RESPONSE>
+-172.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 21 = -1.
+<PROMPT>
+<RESPONSE>
+x = -22.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: peach, apple, pear, plum.
+<PROMPT>
+<RESPONSE>
+apple, peach, pear, plum.
+<RESPONSE>
+
+<PROMPT>
+Make the word papaya uppercase.
+<PROMPT>
+<RESPONSE>
+PAPAYA.
+<RESPONSE>
+
+<PROMPT>
+Convert 488 kilometers to meters.
+<PROMPT>
+<RESPONSE>
+488,000 meters.
+<RESPONSE>
+
+<PROMPT>
+165 + -113 = ?
+<PROMPT>
+<RESPONSE>
+52.
+<RESPONSE>
+
+<PROMPT>
+What is 50% of 154?
+<PROMPT>
+<RESPONSE>
+77.
+<RESPONSE>
+
+<PROMPT>
+What does `cd ..` do?
+<PROMPT>
+<RESPONSE>
+It moves to the parent directory.
+<RESPONSE>
+
+<PROMPT>
+What is 285 divided by 15?
+<PROMPT>
+<RESPONSE>
+19.
+<RESPONSE>
+
+<PROMPT>
+Write a short follow-up asking for an update on the agenda.
+<PROMPT>
+<RESPONSE>
+Could you share an update on the agenda?
+<RESPONSE>
+
+<PROMPT>
+Sort descending: 55, 45, 44, 19, 25.
+<PROMPT>
+<RESPONSE>
+55, 45, 44, 25, 19.
+<RESPONSE>
+
+<PROMPT>
+What is the freezing point of water in Celsius at standard pressure?
+<PROMPT>
+<RESPONSE>
+0°C.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: -22, -7, -5, 50, 24.
+<PROMPT>
+<RESPONSE>
+-22, -7, -5, 24, 50.
+<RESPONSE>
+
+<PROMPT>
+How many letters are in "mango"?
+<PROMPT>
+<RESPONSE>
+5.
+<RESPONSE>
+
+<PROMPT>
+Change to passive voice: Lee opened the window.
+<PROMPT>
+<RESPONSE>
+The window was opened by Lee.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 26 = 48.
+<PROMPT>
+<RESPONSE>
+x = 22.
+<RESPONSE>
+
+<PROMPT>
+227 + 115 = ?
+<PROMPT>
+<RESPONSE>
+342.
+<RESPONSE>
+
+<PROMPT>
+-78 - 56 = ?
+<PROMPT>
+<RESPONSE>
+-134.
+<RESPONSE>
+
+<PROMPT>
+Answer in one sentence: What is a bicycle?
+<PROMPT>
+<RESPONSE>
+A bicycle is a two-wheeled vehicle propelled by pedaling.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: kiwi, peach, date, pear.
+<PROMPT>
+<RESPONSE>
+date, kiwi, peach, pear.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: melon, pear, date, apple.
+<PROMPT>
+<RESPONSE>
+apple, date, melon, pear.
+<RESPONSE>
+
+<PROMPT>
+Convert 599 kilometers to meters.
+<PROMPT>
+<RESPONSE>
+599,000 meters.
+<RESPONSE>
+
+<PROMPT>
+What does pH measure?
+<PROMPT>
+<RESPONSE>
+How acidic or basic a solution is.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: grape, fig, apple, kiwi.
+<PROMPT>
+<RESPONSE>
+apple, fig, grape, kiwi.
+<RESPONSE>
+
+<PROMPT>
+What comes after 9 in the sequence 1, 4, 9?
+<PROMPT>
+<RESPONSE>
+16.
+<RESPONSE>
+
+<PROMPT>
+Explain a function in programming.
+<PROMPT>
+<RESPONSE>
+A function is reusable code that performs a task.
+<RESPONSE>
+
+<PROMPT>
+What is 0 × 10?
+<PROMPT>
+<RESPONSE>
+0.
+<RESPONSE>
+
+<PROMPT>
+What is the Pythagorean theorem?
+<PROMPT>
+<RESPONSE>
+For a right triangle, a² + b² = c², where c is the hypotenuse.
+<RESPONSE>
+
+<PROMPT>
+Calculate 135 - 161.
+<PROMPT>
+<RESPONSE>
+-26.
+<RESPONSE>
+
+<PROMPT>
+221 - 154 = ?
+<PROMPT>
+<RESPONSE>
+67.
+<RESPONSE>
+
+<PROMPT>
+What is melting?
+<PROMPT>
+<RESPONSE>
+Solid changing into liquid.
+<RESPONSE>
+
+<PROMPT>
+What is 3 cubed?
+<PROMPT>
+<RESPONSE>
+27.
+<RESPONSE>
+
+<PROMPT>
+What is -3 × 4?
+<PROMPT>
+<RESPONSE>
+-12.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of -102?
+<PROMPT>
+<RESPONSE>
+102.
+<RESPONSE>
+
+<PROMPT>
+Calculate 2 + 47.
+<PROMPT>
+<RESPONSE>
+49.
+<RESPONSE>
+
+<PROMPT>
+What is the perimeter of a square with side length 41 cm?
+<PROMPT>
+<RESPONSE>
+164 cm.
+<RESPONSE>
+
+<PROMPT>
+What is 50% of 233?
+<PROMPT>
+<RESPONSE>
+116.5.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: forest quiet garden silver.
+<PROMPT>
+<RESPONSE>
+4.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: fig, plum, banana, kiwi.
+<PROMPT>
+<RESPONSE>
+banana, fig, kiwi, plum.
+<RESPONSE>
+
+<PROMPT>
+43 + 67 = ?
+<PROMPT>
+<RESPONSE>
+110.
+<RESPONSE>
+
+<PROMPT>
+Do you have access to my private messages?
+<PROMPT>
+<RESPONSE>
+No, unless you share them here or grant access through a connected tool.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: -18, 56, 10, 29, 34.
+<PROMPT>
+<RESPONSE>
+-18, 10, 29, 34, 56.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the training session on Friday.
+<PROMPT>
+<RESPONSE>
+The training session — Friday
+<RESPONSE>
+
+<PROMPT>
+How many letters are in "lemon"?
+<PROMPT>
+<RESPONSE>
+5.
+<RESPONSE>
+
+<PROMPT>
+What is 324 divided by 12?
+<PROMPT>
+<RESPONSE>
+27.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the team check-in on Thursday.
+<PROMPT>
+<RESPONSE>
+The team check-in — Thursday
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the presentation on Monday.
+<PROMPT>
+<RESPONSE>
+The presentation — Monday
+<RESPONSE>
+
+<PROMPT>
+Is 795 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+Calculate 216 ÷ 8.
+<PROMPT>
+<RESPONSE>
+27.
+<RESPONSE>
+
+<PROMPT>
+What is 10% of 250?
+<PROMPT>
+<RESPONSE>
+25.
+<RESPONSE>
+
+<PROMPT>
+What is 64 - 191?
+<PROMPT>
+<RESPONSE>
+-127.
+<RESPONSE>
+
+<PROMPT>
+What is -54 divided by 18?
+<PROMPT>
+<RESPONSE>
+-3.
+<RESPONSE>
+
+<PROMPT>
+98 + 228 = ?
+<PROMPT>
+<RESPONSE>
+326.
+<RESPONSE>
+
+<PROMPT>
+What is the median of 1, 3, and 5?
+<PROMPT>
+<RESPONSE>
+3.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the design meeting is on Friday.
+<PROMPT>
+<RESPONSE>
+Reminder: The design meeting is on Friday.
+<RESPONSE>
+
+<PROMPT>
+Give two ways to reduce meeting time.
+<PROMPT>
+<RESPONSE>
+Set an agenda and end once decisions are made.
+<RESPONSE>
+
+<PROMPT>
+What makes a good summary?
+<PROMPT>
+<RESPONSE>
+It preserves the key point and essential facts without unnecessary detail.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: -7, 28, 44, 46, 45.
+<PROMPT>
+<RESPONSE>
+46, 45, 44, 28, -7.
+<RESPONSE>
+
+<PROMPT>
+What comes after 8 in the sequence 2, 4, 6, 8?
+<PROMPT>
+<RESPONSE>
+10.
+<RESPONSE>
+
+<PROMPT>
+How do I declare a constant in JavaScript?
+<PROMPT>
+<RESPONSE>
+`const name = value;`
+<RESPONSE>
+
+<PROMPT>
+Convert 1 kilometer to meters.
+<PROMPT>
+<RESPONSE>
+1,000 meters.
+<RESPONSE>
+
+<PROMPT>
+What is 130 + 107?
+<PROMPT>
+<RESPONSE>
+237.
+<RESPONSE>
+
+<PROMPT>
+What is alliteration?
+<PROMPT>
+<RESPONSE>
+Repetition of initial consonant sounds in nearby words.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: 19, -12, 31, -17, -30.
+<PROMPT>
+<RESPONSE>
+31, 19, -12, -17, -30.
+<RESPONSE>
+
+<PROMPT>
+Calculate -204 ÷ 12.
+<PROMPT>
+<RESPONSE>
+-17.
+<RESPONSE>
+
+<PROMPT>
+Write a short message saying I received the receipt.
+<PROMPT>
+<RESPONSE>
+I received the receipt. Thank you.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -3 = 31.
+<PROMPT>
+<RESPONSE>
+x = 34.
+<RESPONSE>
+
+<PROMPT>
+What is the area of a square with side length 30 cm?
+<PROMPT>
+<RESPONSE>
+900 cm².
+<RESPONSE>
+
+<PROMPT>
+-16 + 125 = ?
+<PROMPT>
+<RESPONSE>
+109.
+<RESPONSE>
+
+<PROMPT>
+Write a short message saying I received the estimate.
+<PROMPT>
+<RESPONSE>
+I received the estimate. Thank you.
+<RESPONSE>
+
+<PROMPT>
+Convert 67 meters to centimeters.
+<PROMPT>
+<RESPONSE>
+6,700 centimeters.
+<RESPONSE>
+
+<PROMPT>
+What is -59 + -87?
+<PROMPT>
+<RESPONSE>
+-146.
+<RESPONSE>
+
+<PROMPT>
+Calculate 65 + 199.
+<PROMPT>
+<RESPONSE>
+264.
+<RESPONSE>
+
+<PROMPT>
+Calculate -91 - -116.
+<PROMPT>
+<RESPONSE>
+25.
+<RESPONSE>
+
+<PROMPT>
+Calculate -160 ÷ 10.
+<PROMPT>
+<RESPONSE>
+-16.
+<RESPONSE>
+
+<PROMPT>
+Calculate -75 + -77.
+<PROMPT>
+<RESPONSE>
+-152.
+<RESPONSE>
+
+<PROMPT>
+What is -11 × 19?
+<PROMPT>
+<RESPONSE>
+-209.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the presentation is on Tuesday.
+<PROMPT>
+<RESPONSE>
+Reminder: The presentation is on Tuesday.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the planning meeting is on Tuesday.
+<PROMPT>
+<RESPONSE>
+Reminder: The planning meeting is on Tuesday.
+<RESPONSE>
+
+<PROMPT>
+Write a polite, one-sentence request for the plan.
+<PROMPT>
+<RESPONSE>
+Could you please send me the plan?
+<RESPONSE>
+
+<PROMPT>
+What does SQL stand for?
+<PROMPT>
+<RESPONSE>
+Structured Query Language.
+<RESPONSE>
+
+<PROMPT>
+What is 75% of 727?
+<PROMPT>
+<RESPONSE>
+545.25.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: banana, kiwi, apple, fig.
+<PROMPT>
+<RESPONSE>
+apple, banana, fig, kiwi.
+<RESPONSE>
+
+<PROMPT>
+Summarize the spreadsheet I mentioned, but did not provide.
+<PROMPT>
+<RESPONSE>
+Please share the spreadsheet so I can summarize it.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: -12, 38, 51, 1, 53.
+<PROMPT>
+<RESPONSE>
+53, 51, 38, 1, -12.
+<RESPONSE>
+
+<PROMPT>
+Who won the game?
+<PROMPT>
+<RESPONSE>
+Which teams and date?
+<RESPONSE>
+
+<PROMPT>
+What is the perimeter of a square with side length 17 cm?
+<PROMPT>
+<RESPONSE>
+68 cm.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: date, pear, kiwi, mango.
+<PROMPT>
+<RESPONSE>
+date, kiwi, mango, pear.
+<RESPONSE>
+
+<PROMPT>
+What is a solution in chemistry?
+<PROMPT>
+<RESPONSE>
+A uniform mixture of a solute dissolved in a solvent.
+<RESPONSE>
+
+<PROMPT>
+Write a polite, one-sentence request for the meeting notes.
+<PROMPT>
+<RESPONSE>
+Could you please send me the meeting notes?
+<RESPONSE>
+
+<PROMPT>
+Is 169 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+What is the speed of light in vacuum, approximately?
+<PROMPT>
+<RESPONSE>
+300,000 kilometers per second.
+<RESPONSE>
+
+<PROMPT>
+Write a short message saying I received the proposal.
+<PROMPT>
+<RESPONSE>
+I received the proposal. Thank you.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the team check-in is on Friday.
+<PROMPT>
+<RESPONSE>
+Reminder: The team check-in is on Friday.
+<RESPONSE>
+
+<PROMPT>
+What is a rate limit?
+<PROMPT>
+<RESPONSE>
+A cap on how often an action can be performed in a period.
+<RESPONSE>
+
+<PROMPT>
+What is 11 × -18?
+<PROMPT>
+<RESPONSE>
+-198.
+<RESPONSE>
+
+<PROMPT>
+What is 12 × -2?
+<PROMPT>
+<RESPONSE>
+-24.
+<RESPONSE>
+
+<PROMPT>
+23 × 17 = ?
+<PROMPT>
+<RESPONSE>
+391.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: date, banana, melon, pear.
+<PROMPT>
+<RESPONSE>
+banana, date, melon, pear.
+<RESPONSE>
+
+<PROMPT>
+How do I give useful feedback?
+<PROMPT>
+<RESPONSE>
+Describe the specific behavior, its effect, and a concrete improvement.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -12 = 61.
+<PROMPT>
+<RESPONSE>
+x = 73.
+<RESPONSE>
+
+<PROMPT>
+What is 5% of 489?
+<PROMPT>
+<RESPONSE>
+24.45.
+<RESPONSE>
+
+<PROMPT>
+Answer yes or no: Is 15 prime?
+<PROMPT>
+<RESPONSE>
+No.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 16 = 10.
+<PROMPT>
+<RESPONSE>
+x = -6.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 26 = 65.
+<PROMPT>
+<RESPONSE>
+x = 39.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of -112?
+<PROMPT>
+<RESPONSE>
+112.
+<RESPONSE>
+
+<PROMPT>
+Calculate -60 - 95.
+<PROMPT>
+<RESPONSE>
+-155.
+<RESPONSE>
+
+<PROMPT>
+11 × -5 = ?
+<PROMPT>
+<RESPONSE>
+-55.
+<RESPONSE>
+
+<PROMPT>
+What is energy?
+<PROMPT>
+<RESPONSE>
+The capacity to do work or cause change.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: fig, apple, lime, pear.
+<PROMPT>
+<RESPONSE>
+apple, fig, lime, pear.
+<RESPONSE>
+
+<PROMPT>
+What is 96 + -104?
+<PROMPT>
+<RESPONSE>
+-8.
+<RESPONSE>
+
+<PROMPT>
+Write a short message saying I received the file.
+<PROMPT>
+<RESPONSE>
+I received the file. Thank you.
+<RESPONSE>
+
+<PROMPT>
+What is -1 - -89?
+<PROMPT>
+<RESPONSE>
+88.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: -14, -7, 1, 17, 55.
+<PROMPT>
+<RESPONSE>
+-14, -7, 1, 17, 55.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the team check-in is on Tuesday.
+<PROMPT>
+<RESPONSE>
+Reminder: The team check-in is on Tuesday.
+<RESPONSE>
+
+<PROMPT>
+Convert 101 kilograms to grams.
+<PROMPT>
+<RESPONSE>
+101,000 grams.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the project update on Friday.
+<PROMPT>
+<RESPONSE>
+The project update — Friday
+<RESPONSE>
+
+<PROMPT>
+What is latency?
+<PROMPT>
+<RESPONSE>
+The delay between a request and its response.
+<RESPONSE>
+
+<PROMPT>
+What is 420 divided by 20?
+<PROMPT>
+<RESPONSE>
+21.
+<RESPONSE>
+
+<PROMPT>
+How do I lowercase a Python string called name?
+<PROMPT>
+<RESPONSE>
+`name.lower()`
+<RESPONSE>
+
+<PROMPT>
+What is 50% of 254?
+<PROMPT>
+<RESPONSE>
+127.
+<RESPONSE>
+
+<PROMPT>
+Convert 557 kilometers to meters.
+<PROMPT>
+<RESPONSE>
+557,000 meters.
+<RESPONSE>
+
+<PROMPT>
+Calculate 222 + 124.
+<PROMPT>
+<RESPONSE>
+346.
+<RESPONSE>
+
+<PROMPT>
+How do I see the most recent Git commit?
+<PROMPT>
+<RESPONSE>
+`git log -1`
+<RESPONSE>
+
+<PROMPT>
+What's the difference between 20% and 25% in percentage points?
+<PROMPT>
+<RESPONSE>
+5 percentage points.
+<RESPONSE>
+
+<PROMPT>
+Summarize the report I mentioned, but did not provide.
+<PROMPT>
+<RESPONSE>
+Please share the report so I can summarize it.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: lime, apple, fig, melon.
+<PROMPT>
+<RESPONSE>
+apple, fig, lime, melon.
+<RESPONSE>
+
+<PROMPT>
+How do I avoid SQL injection?
+<PROMPT>
+<RESPONSE>
+Use parameterized queries, not string concatenation with user input.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 26 = 99.
+<PROMPT>
+<RESPONSE>
+x = 73.
+<RESPONSE>
+
+<PROMPT>
+Convert 682 hours to minutes.
+<PROMPT>
+<RESPONSE>
+40,920 minutes.
+<RESPONSE>
+
+<PROMPT>
+Write a short message saying I received the design.
+<PROMPT>
+<RESPONSE>
+I received the design. Thank you.
+<RESPONSE>
+
+<PROMPT>
+What is the area of a square with side length 20 cm?
+<PROMPT>
+<RESPONSE>
+400 cm².
+<RESPONSE>
+
+<PROMPT>
+Write a short out-of-office reply for today.
+<PROMPT>
+<RESPONSE>
+I'm out of the office today and will respond when I return.
+<RESPONSE>
+
+<PROMPT>
+Write a polite, one-sentence request for the form.
+<PROMPT>
+<RESPONSE>
+Could you please send me the form?
+<RESPONSE>
+
+<PROMPT>
+Write a short message saying I received the report.
+<PROMPT>
+<RESPONSE>
+I received the report. Thank you.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of -8?
+<PROMPT>
+<RESPONSE>
+8.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: -1, 7, 30, 36, 6.
+<PROMPT>
+<RESPONSE>
+-1, 6, 7, 30, 36.
+<RESPONSE>
+
+<PROMPT>
+What is 80 + -47?
+<PROMPT>
+<RESPONSE>
+33.
+<RESPONSE>
+
+<PROMPT>
+What is -15 × 3?
+<PROMPT>
+<RESPONSE>
+-45.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the design meeting is on Tuesday.
+<PROMPT>
+<RESPONSE>
+Reminder: The design meeting is on Tuesday.
+<RESPONSE>
+
+<PROMPT>
+Is 52 even or odd?
+<PROMPT>
+<RESPONSE>
+Even.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the training session is on Friday.
+<PROMPT>
+<RESPONSE>
+Reminder: The training session is on Friday.
+<RESPONSE>
+
+<PROMPT>
+Is 463 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+What is 50% of 502?
+<PROMPT>
+<RESPONSE>
+251.
+<RESPONSE>
+
+<PROMPT>
+13 × 15 = ?
+<PROMPT>
+<RESPONSE>
+195.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 13 = 7.
+<PROMPT>
+<RESPONSE>
+x = -6.
+<RESPONSE>
+
+<PROMPT>
+What is the area of a square with side length 14 cm?
+<PROMPT>
+<RESPONSE>
+196 cm².
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the design meeting on Tuesday.
+<PROMPT>
+<RESPONSE>
+The design meeting — Tuesday
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of -100?
+<PROMPT>
+<RESPONSE>
+100.
+<RESPONSE>
+
+<PROMPT>
+What is the area of a square with side length 58 cm?
+<PROMPT>
+<RESPONSE>
+3364 cm².
+<RESPONSE>
+
+<PROMPT>
+Calculate -280 ÷ 14.
+<PROMPT>
+<RESPONSE>
+-20.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: 29, 40, -4, 59, 44.
+<PROMPT>
+<RESPONSE>
+-4, 29, 40, 44, 59.
+<RESPONSE>
+
+<PROMPT>
+Convert 626 minutes to seconds.
+<PROMPT>
+<RESPONSE>
+37,560 seconds.
+<RESPONSE>
+
+<PROMPT>
+What is 125 - -18?
+<PROMPT>
+<RESPONSE>
+143.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -23 = -71.
+<PROMPT>
+<RESPONSE>
+x = -48.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the project update on Tuesday.
+<PROMPT>
+<RESPONSE>
+The project update — Tuesday
+<RESPONSE>
+
+<PROMPT>
+Is 355 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+What is a database index?
+<PROMPT>
+<RESPONSE>
+A structure that helps a database find rows faster, usually at a storage and write cost.
+<RESPONSE>
+
+<PROMPT>
+Calculate 7 + 100.
+<PROMPT>
+<RESPONSE>
+107.
+<RESPONSE>
+
+<PROMPT>
+What is 25% of 91?
+<PROMPT>
+<RESPONSE>
+22.75.
+<RESPONSE>
+
+<PROMPT>
+What does 75% mean as a fraction?
+<PROMPT>
+<RESPONSE>
+3/4.
+<RESPONSE>
+
+<PROMPT>
+What is -52 divided by 13?
+<PROMPT>
+<RESPONSE>
+-4.
+<RESPONSE>
+
+<PROMPT>
+Convert 442 days to hours.
+<PROMPT>
+<RESPONSE>
+10,608 hours.
+<RESPONSE>
+
+<PROMPT>
+Is 201 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+Convert 685 minutes to seconds.
+<PROMPT>
+<RESPONSE>
+41,100 seconds.
+<RESPONSE>
+
+<PROMPT>
+What is 5% of 453?
+<PROMPT>
+<RESPONSE>
+22.65.
+<RESPONSE>
+
+<PROMPT>
+Is 871 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+What does 'etc.' mean?
+<PROMPT>
+<RESPONSE>
+And so on.
+<RESPONSE>
+
+<PROMPT>
+Write a short message saying I received the draft.
+<PROMPT>
+<RESPONSE>
+I received the draft. Thank you.
+<RESPONSE>
+
+<PROMPT>
+What is the perimeter of a square with side length 6 cm?
+<PROMPT>
+<RESPONSE>
+24 cm.
+<RESPONSE>
+
+<PROMPT>
+Make the word pineapple uppercase.
+<PROMPT>
+<RESPONSE>
+PINEAPPLE.
+<RESPONSE>
+
+<PROMPT>
+Calculate 140 ÷ 4.
+<PROMPT>
+<RESPONSE>
+35.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: apple, grape, peach, plum.
+<PROMPT>
+<RESPONSE>
+apple, grape, peach, plum.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the budget review is on Tuesday.
+<PROMPT>
+<RESPONSE>
+Reminder: The budget review is on Tuesday.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of -59?
+<PROMPT>
+<RESPONSE>
+59.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: melon, lime, mango, pear.
+<PROMPT>
+<RESPONSE>
+lime, mango, melon, pear.
+<RESPONSE>
+
+<PROMPT>
+What does 200 mean in HTTP?
+<PROMPT>
+<RESPONSE>
+The request succeeded.
+<RESPONSE>
+
+<PROMPT>
+What is an acronym?
+<PROMPT>
+<RESPONSE>
+An abbreviation formed from initial letters and pronounced as a word.
+<RESPONSE>
+
+<PROMPT>
+What is -27 divided by 9?
+<PROMPT>
+<RESPONSE>
+-3.
+<RESPONSE>
+
+<PROMPT>
+Write a short message saying I received the agenda.
+<PROMPT>
+<RESPONSE>
+I received the agenda. Thank you.
+<RESPONSE>
+
+<PROMPT>
+Calculate 169 ÷ 13.
+<PROMPT>
+<RESPONSE>
+13.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the product demo is on Wednesday.
+<PROMPT>
+<RESPONSE>
+Reminder: The product demo is on Wednesday.
+<RESPONSE>
+
+<PROMPT>
+What chart shows a distribution?
+<PROMPT>
+<RESPONSE>
+A histogram is a common choice.
+<RESPONSE>
+
+<PROMPT>
+Write a short thank-you note for a colleague who covered my shift.
+<PROMPT>
+<RESPONSE>
+Thanks for covering my shift. I appreciate the help.
+<RESPONSE>
+
+<PROMPT>
+What is 178 - -16?
+<PROMPT>
+<RESPONSE>
+194.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 27 = 18.
+<PROMPT>
+<RESPONSE>
+x = -9.
+<RESPONSE>
+
+<PROMPT>
+What is 10% of 149?
+<PROMPT>
+<RESPONSE>
+14.9.
+<RESPONSE>
+
+<PROMPT>
+What is the perimeter of a square with side length 3 cm?
+<PROMPT>
+<RESPONSE>
+12 cm.
+<RESPONSE>
+
+<PROMPT>
+Is 609 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+How do I respond to a mistake at work?
+<PROMPT>
+<RESPONSE>
+Acknowledge it, correct it, and explain the next step to affected people.
+<RESPONSE>
+
+<PROMPT>
+-5 + 186 = ?
+<PROMPT>
+<RESPONSE>
+181.
+<RESPONSE>
+
+<PROMPT>
+What is the unit of pressure in SI?
+<PROMPT>
+<RESPONSE>
+The pascal.
+<RESPONSE>
+
+<PROMPT>
+Calculate -72 - 217.
+<PROMPT>
+<RESPONSE>
+-289.
+<RESPONSE>
+
+<PROMPT>
+What is -3 × 20?
+<PROMPT>
+<RESPONSE>
+-60.
+<RESPONSE>
+
+<PROMPT>
+Calculate -95 + -23.
+<PROMPT>
+<RESPONSE>
+-118.
+<RESPONSE>
+
+<PROMPT>
+What is 64 - 58?
+<PROMPT>
+<RESPONSE>
+6.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of -49?
+<PROMPT>
+<RESPONSE>
+49.
+<RESPONSE>
+
+<PROMPT>
+227 + 112 = ?
+<PROMPT>
+<RESPONSE>
+339.
+<RESPONSE>
+
+<PROMPT>
+Convert 326 weeks to days.
+<PROMPT>
+<RESPONSE>
+2,282 days.
+<RESPONSE>
+
+<PROMPT>
+How many letters are in "cherry"?
+<PROMPT>
+<RESPONSE>
+6.
+<RESPONSE>
+
+<PROMPT>
+25 - -10 = ?
+<PROMPT>
+<RESPONSE>
+35.
+<RESPONSE>
+
+<PROMPT>
+What is the capital of Germany?
+<PROMPT>
+<RESPONSE>
+Berlin.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 23 = 31.
+<PROMPT>
+<RESPONSE>
+x = 8.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: quiet bright paper cedar amber river.
+<PROMPT>
+<RESPONSE>
+6.
+<RESPONSE>
+
+<PROMPT>
+What is the unit of mass in SI?
+<PROMPT>
+<RESPONSE>
+The kilogram.
+<RESPONSE>
+
+<PROMPT>
+Reverse the word lime.
+<PROMPT>
+<RESPONSE>
+emil.
+<RESPONSE>
+
+<PROMPT>
+Write a polite, one-sentence request for the contract.
+<PROMPT>
+<RESPONSE>
+Could you please send me the contract?
+<RESPONSE>
+
+<PROMPT>
+How do I append x to a Python list called items?
+<PROMPT>
+<RESPONSE>
+`items.append(x)`
+<RESPONSE>
+
+<PROMPT>
+Convert 457 days to hours.
+<PROMPT>
+<RESPONSE>
+10,968 hours.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -17 = 24.
+<PROMPT>
+<RESPONSE>
+x = 41.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: plum, banana, mango, pear.
+<PROMPT>
+<RESPONSE>
+banana, mango, pear, plum.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of 110?
+<PROMPT>
+<RESPONSE>
+110.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the product demo is on Tuesday.
+<PROMPT>
+<RESPONSE>
+Reminder: The product demo is on Tuesday.
+<RESPONSE>
+
+<PROMPT>
+How can I tell if an email is a scam?
+<PROMPT>
+<RESPONSE>
+Check the sender and destination carefully, avoid unexpected links, and verify through an official channel.
+<RESPONSE>
+
+<PROMPT>
+What is 189 - -60?
+<PROMPT>
+<RESPONSE>
+249.
+<RESPONSE>
+
+<PROMPT>
+78 - 0 = ?
+<PROMPT>
+<RESPONSE>
+78.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: fig, grape, mango, banana.
+<PROMPT>
+<RESPONSE>
+banana, fig, grape, mango.
+<RESPONSE>
+
+<PROMPT>
+Calculate -13 × 1.
+<PROMPT>
+<RESPONSE>
+-13.
+<RESPONSE>
+
+<PROMPT>
+Convert 451 meters to centimeters.
+<PROMPT>
+<RESPONSE>
+45,100 centimeters.
+<RESPONSE>
+
+<PROMPT>
+What does UI stand for?
+<PROMPT>
+<RESPONSE>
+User interface.
+<RESPONSE>
+
+<PROMPT>
+Calculate 22 × 7.
+<PROMPT>
+<RESPONSE>
+154.
+<RESPONSE>
+
+<PROMPT>
+How do I prioritize a long to-do list?
+<PROMPT>
+<RESPONSE>
+Choose the most urgent and consequential items, then break the first one into a small next step.
+<RESPONSE>
+
+<PROMPT>
+Write a polite, one-sentence request for the report.
+<PROMPT>
+<RESPONSE>
+Could you please send me the report?
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: peach, lime, banana, kiwi.
+<PROMPT>
+<RESPONSE>
+banana, kiwi, lime, peach.
+<RESPONSE>
+
+<PROMPT>
+I have chest pain and shortness of breath. What should I do?
+<PROMPT>
+<RESPONSE>
+Call emergency services now. These symptoms need urgent medical assessment.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: 38, 3, 42, -28, 56.
+<PROMPT>
+<RESPONSE>
+-28, 3, 38, 42, 56.
+<RESPONSE>
+
+<PROMPT>
+What is 40 divided by 20?
+<PROMPT>
+<RESPONSE>
+2.
+<RESPONSE>
+
+<PROMPT>
+Convert 620 meters to centimeters.
+<PROMPT>
+<RESPONSE>
+62,000 centimeters.
+<RESPONSE>
+
+<PROMPT>
+What is 164 - 59?
+<PROMPT>
+<RESPONSE>
+105.
+<RESPONSE>
+
+<PROMPT>
+Calculate 106 + 142.
+<PROMPT>
+<RESPONSE>
+248.
+<RESPONSE>
+
+<PROMPT>
+Did you run the code I pasted?
+<PROMPT>
+<RESPONSE>
+No. I haven't run it.
+<RESPONSE>
+
+<PROMPT>
+Calculate -7 - 29.
+<PROMPT>
+<RESPONSE>
+-36.
+<RESPONSE>
+
+<PROMPT>
+How many letters are in "kiwi"?
+<PROMPT>
+<RESPONSE>
+4.
+<RESPONSE>
+
+<PROMPT>
+What does this abbreviation mean?
+<PROMPT>
+<RESPONSE>
+Which abbreviation?
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: peach, banana, melon, apple.
+<PROMPT>
+<RESPONSE>
+apple, banana, melon, peach.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of 121?
+<PROMPT>
+<RESPONSE>
+121.
+<RESPONSE>
+
+<PROMPT>
+What is 5% of 191?
+<PROMPT>
+<RESPONSE>
+9.55.
+<RESPONSE>
+
+<PROMPT>
+Is 837 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+Write a short follow-up asking for an update on the draft.
+<PROMPT>
+<RESPONSE>
+Could you share an update on the draft?
+<RESPONSE>
+
+<PROMPT>
+What is sublimation?
+<PROMPT>
+<RESPONSE>
+Solid changing directly into gas.
+<RESPONSE>
+
+<PROMPT>
+Convert 72 meters to centimeters.
+<PROMPT>
+<RESPONSE>
+7,200 centimeters.
+<RESPONSE>
+
+<PROMPT>
+Calculate -92 ÷ 23.
+<PROMPT>
+<RESPONSE>
+-4.
+<RESPONSE>
+
+<PROMPT>
+Is 191 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+166 - 26 = ?
+<PROMPT>
+<RESPONSE>
+140.
+<RESPONSE>
+
+<PROMPT>
+How do I make a chart easier to read?
+<PROMPT>
+<RESPONSE>
+Use a clear title, labeled axes, appropriate scale, and limited visual clutter.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of 135?
+<PROMPT>
+<RESPONSE>
+135.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of -48?
+<PROMPT>
+<RESPONSE>
+48.
+<RESPONSE>
+
+<PROMPT>
+What is 234 - -117?
+<PROMPT>
+<RESPONSE>
+351.
+<RESPONSE>
+
+<PROMPT>
+Convert 726 days to hours.
+<PROMPT>
+<RESPONSE>
+17,424 hours.
+<RESPONSE>
+
+<PROMPT>
+Is 89 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: lime, melon, grape, peach.
+<PROMPT>
+<RESPONSE>
+grape, lime, melon, peach.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: mango, lime, kiwi, banana.
+<PROMPT>
+<RESPONSE>
+banana, kiwi, lime, mango.
+<RESPONSE>
+
+<PROMPT>
+How many centimeters are in a meter?
+<PROMPT>
+<RESPONSE>
+100.
+<RESPONSE>
+
+<PROMPT>
+Calculate 22 ÷ 22.
+<PROMPT>
+<RESPONSE>
+1.
+<RESPONSE>
+
+<PROMPT>
+-6 × 16 = ?
+<PROMPT>
+<RESPONSE>
+-96.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: -12, 44, -9, 21, 10.
+<PROMPT>
+<RESPONSE>
+44, 21, 10, -9, -12.
+<RESPONSE>
+
+<PROMPT>
+Calculate 7 × 18.
+<PROMPT>
+<RESPONSE>
+126.
+<RESPONSE>
+
+<PROMPT>
+What is 5% of 259?
+<PROMPT>
+<RESPONSE>
+12.95.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: bright amber quiet river forest paper cedar.
+<PROMPT>
+<RESPONSE>
+7.
+<RESPONSE>
+
+<PROMPT>
+What is -63 + 20?
+<PROMPT>
+<RESPONSE>
+-43.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of 55?
+<PROMPT>
+<RESPONSE>
+55.
+<RESPONSE>
+
+<PROMPT>
+Calculate -47 - 124.
+<PROMPT>
+<RESPONSE>
+-171.
+<RESPONSE>
+
+<PROMPT>
+-46 - 173 = ?
+<PROMPT>
+<RESPONSE>
+-219.
+<RESPONSE>
+
+<PROMPT>
+57 - -118 = ?
+<PROMPT>
+<RESPONSE>
+175.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the interview is on Thursday.
+<PROMPT>
+<RESPONSE>
+Reminder: The interview is on Thursday.
+<RESPONSE>
+
+<PROMPT>
+Calculate 14 × 20.
+<PROMPT>
+<RESPONSE>
+280.
+<RESPONSE>
+
+<PROMPT>
+What is 6 × -8?
+<PROMPT>
+<RESPONSE>
+-48.
+<RESPONSE>
+
+<PROMPT>
+Reverse the word plum.
+<PROMPT>
+<RESPONSE>
+mulp.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: grape, apple, kiwi, lime.
+<PROMPT>
+<RESPONSE>
+apple, grape, kiwi, lime.
+<RESPONSE>
+
+<PROMPT>
+Shorten: Please do not hesitate to contact me if you have any questions.
+<PROMPT>
+<RESPONSE>
+Please contact me with any questions.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 4 = 29.
+<PROMPT>
+<RESPONSE>
+x = 25.
+<RESPONSE>
+
+<PROMPT>
+-25 + 218 = ?
+<PROMPT>
+<RESPONSE>
+193.
+<RESPONSE>
+
+<PROMPT>
+What is the area of a square with side length 54 cm?
+<PROMPT>
+<RESPONSE>
+2916 cm².
+<RESPONSE>
+
+<PROMPT>
+What is 25% of 128?
+<PROMPT>
+<RESPONSE>
+32.
+<RESPONSE>
+
+<PROMPT>
+Calculate 20 × 24.
+<PROMPT>
+<RESPONSE>
+480.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -9 = -50.
+<PROMPT>
+<RESPONSE>
+x = -41.
+<RESPONSE>
+
+<PROMPT>
+Translate 'hello' into Italian.
+<PROMPT>
+<RESPONSE>
+Ciao.
+<RESPONSE>
+
+<PROMPT>
+What is a prime number?
+<PROMPT>
+<RESPONSE>
+An integer greater than 1 with exactly two positive divisors: 1 and itself.
+<RESPONSE>
+
+<PROMPT>
+How much will it cost?
+<PROMPT>
+<RESPONSE>
+What item or service, and in what location or currency?
+<RESPONSE>
+
+<PROMPT>
+What is -4 × -18?
+<PROMPT>
+<RESPONSE>
+72.
+<RESPONSE>
+
+<PROMPT>
+Is 788 even or odd?
+<PROMPT>
+<RESPONSE>
+Even.
+<RESPONSE>
+
+<PROMPT>
+What is -10 × 8?
+<PROMPT>
+<RESPONSE>
+-80.
+<RESPONSE>
+
+<PROMPT>
+Make 'hello' uppercase.
+<PROMPT>
+<RESPONSE>
+HELLO.
+<RESPONSE>
+
+<PROMPT>
+What is the unit of voltage?
+<PROMPT>
+<RESPONSE>
+The volt.
+<RESPONSE>
+
+<PROMPT>
+Convert 596 days to hours.
+<PROMPT>
+<RESPONSE>
+14,304 hours.
+<RESPONSE>
+
+<PROMPT>
+What does `pwd` print?
+<PROMPT>
+<RESPONSE>
+The current working directory.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: grape, peach, lime, fig.
+<PROMPT>
+<RESPONSE>
+fig, grape, lime, peach.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: window paper cloud bright cedar river.
+<PROMPT>
+<RESPONSE>
+6.
+<RESPONSE>
+
+<PROMPT>
+-14 × 4 = ?
+<PROMPT>
+<RESPONSE>
+-56.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: date, apple, plum, peach.
+<PROMPT>
+<RESPONSE>
+apple, date, peach, plum.
+<RESPONSE>
+
+<PROMPT>
+40 + 27 = ?
+<PROMPT>
+<RESPONSE>
+67.
+<RESPONSE>
+
+<PROMPT>
+Convert 319 weeks to days.
+<PROMPT>
+<RESPONSE>
+2,233 days.
+<RESPONSE>
+
+<PROMPT>
+Calculate 1 × 13.
+<PROMPT>
+<RESPONSE>
+13.
+<RESPONSE>
+
+<PROMPT>
+What is the mode of 2, 2, 3, and 4?
+<PROMPT>
+<RESPONSE>
+2.
+<RESPONSE>
+
+<PROMPT>
+Convert 473 weeks to days.
+<PROMPT>
+<RESPONSE>
+3,311 days.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of -40?
+<PROMPT>
+<RESPONSE>
+40.
+<RESPONSE>
+
+<PROMPT>
+What is -11 × -13?
+<PROMPT>
+<RESPONSE>
+143.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: mango, grape, kiwi, fig.
+<PROMPT>
+<RESPONSE>
+fig, grape, kiwi, mango.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: -3, 41, 29, 6, 55.
+<PROMPT>
+<RESPONSE>
+-3, 6, 29, 41, 55.
+<RESPONSE>
+
+<PROMPT>
+What is 25% of 811?
+<PROMPT>
+<RESPONSE>
+202.75.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of 106?
+<PROMPT>
+<RESPONSE>
+106.
+<RESPONSE>
+
+<PROMPT>
+Reply with a bulleted list containing red and blue.
+<PROMPT>
+<RESPONSE>
+- red
+- blue
+<RESPONSE>
+
+<PROMPT>
+Calculate 130 - 16.
+<PROMPT>
+<RESPONSE>
+114.
+<RESPONSE>
+
+<PROMPT>
+-16 × -17 = ?
+<PROMPT>
+<RESPONSE>
+272.
+<RESPONSE>
+
+<PROMPT>
+What is -18 × 10?
+<PROMPT>
+<RESPONSE>
+-180.
+<RESPONSE>
+
+<PROMPT>
+Convert 297 kilometers to meters.
+<PROMPT>
+<RESPONSE>
+297,000 meters.
+<RESPONSE>
+
+<PROMPT>
+Write a short message saying I received the schedule.
+<PROMPT>
+<RESPONSE>
+I received the schedule. Thank you.
+<RESPONSE>
+
+<PROMPT>
+Translate 'no' into French.
+<PROMPT>
+<RESPONSE>
+Non.
+<RESPONSE>
+
+<PROMPT>
+What is the capital of Kenya?
+<PROMPT>
+<RESPONSE>
+Nairobi.
+<RESPONSE>
+
+<PROMPT>
+What does CSS stand for?
+<PROMPT>
+<RESPONSE>
+Cascading Style Sheets.
+<RESPONSE>
+
+<PROMPT>
+Convert 261 weeks to days.
+<PROMPT>
+<RESPONSE>
+1,827 days.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: grape, banana, kiwi, pear.
+<PROMPT>
+<RESPONSE>
+banana, grape, kiwi, pear.
+<RESPONSE>
+
+<PROMPT>
+Convert 23 minutes to seconds.
+<PROMPT>
+<RESPONSE>
+1,380 seconds.
+<RESPONSE>
+
+<PROMPT>
+Write a polite, one-sentence request for the spreadsheet.
+<PROMPT>
+<RESPONSE>
+Could you please send me the spreadsheet?
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: melon, apple, peach, kiwi.
+<PROMPT>
+<RESPONSE>
+apple, kiwi, melon, peach.
+<RESPONSE>
+
+<PROMPT>
+What is the capital of Italy?
+<PROMPT>
+<RESPONSE>
+Rome.
+<RESPONSE>
+
+<PROMPT>
+Give me the key point: The server was offline for an hour because of a power outage.
+<PROMPT>
+<RESPONSE>
+A power outage took the server offline for an hour.
+<RESPONSE>
+
+<PROMPT>
+What is 10% of 857?
+<PROMPT>
+<RESPONSE>
+85.7.
+<RESPONSE>
+
+<PROMPT>
+What is -1 × 0?
+<PROMPT>
+<RESPONSE>
+0.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 14 = 14.
+<PROMPT>
+<RESPONSE>
+x = 0.
+<RESPONSE>
+
+<PROMPT>
+-16 × 19 = ?
+<PROMPT>
+<RESPONSE>
+-304.
+<RESPONSE>
+
+<PROMPT>
+Is 289 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+How do I make a JavaScript array of three numbers?
+<PROMPT>
+<RESPONSE>
+`const numbers = [1, 2, 3];`
+<RESPONSE>
+
+<PROMPT>
+What is correlation?
+<PROMPT>
+<RESPONSE>
+A statistical association between variables; it alone does not establish causation.
+<RESPONSE>
+
+<PROMPT>
+Change to active voice: The ball was kicked by Sam.
+<PROMPT>
+<RESPONSE>
+Sam kicked the ball.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: 9, 2, 5.
+<PROMPT>
+<RESPONSE>
+9, 5, 2.
+<RESPONSE>
+
+<PROMPT>
+How do I create a Git branch named feature?
+<PROMPT>
+<RESPONSE>
+`git switch -c feature`
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the training session is on Thursday.
+<PROMPT>
+<RESPONSE>
+Reminder: The training session is on Thursday.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the training session is on Monday.
+<PROMPT>
+<RESPONSE>
+Reminder: The training session is on Monday.
+<RESPONSE>
+
+<PROMPT>
+What is the perimeter of a square with side length 39 cm?
+<PROMPT>
+<RESPONSE>
+156 cm.
+<RESPONSE>
+
+<PROMPT>
+Calculate -88 - 186.
+<PROMPT>
+<RESPONSE>
+-274.
+<RESPONSE>
+
+<PROMPT>
+What is the perimeter of a square with side length 12 cm?
+<PROMPT>
+<RESPONSE>
+48 cm.
+<RESPONSE>
+
+<PROMPT>
+Summarize the proposal I mentioned, but did not provide.
+<PROMPT>
+<RESPONSE>
+Please share the proposal so I can summarize it.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: 34, 37, -20, 14, 45.
+<PROMPT>
+<RESPONSE>
+-20, 14, 34, 37, 45.
+<RESPONSE>
+
+<PROMPT>
+What is the next letter in A, B, C?
+<PROMPT>
+<RESPONSE>
+D.
+<RESPONSE>
+
+<PROMPT>
+Convert 104 days to hours.
+<PROMPT>
+<RESPONSE>
+2,496 hours.
+<RESPONSE>
+
+<PROMPT>
+What time is it where I am?
+<PROMPT>
+<RESPONSE>
+What city or time zone are you in?
+<RESPONSE>
+
+<PROMPT>
+Is 247 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+What is -105 - 217?
+<PROMPT>
+<RESPONSE>
+-322.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: apple, banana, date, mango.
+<PROMPT>
+<RESPONSE>
+apple, banana, date, mango.
+<RESPONSE>
+
+<PROMPT>
+Calculate 50 - 9.
+<PROMPT>
+<RESPONSE>
+41.
+<RESPONSE>
+
+<PROMPT>
+12 - -22 = ?
+<PROMPT>
+<RESPONSE>
+34.
+<RESPONSE>
+
+<PROMPT>
+What is 0.5 as a percentage?
+<PROMPT>
+<RESPONSE>
+50%.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of -61?
+<PROMPT>
+<RESPONSE>
+61.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: cloud stone window silver forest river amber.
+<PROMPT>
+<RESPONSE>
+7.
+<RESPONSE>
+
+<PROMPT>
+Change to active voice: The cake was baked by Jo.
+<PROMPT>
+<RESPONSE>
+Jo baked the cake.
+<RESPONSE>
+
+<PROMPT>
+What is 7 squared?
+<PROMPT>
+<RESPONSE>
+49.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -17 = 7.
+<PROMPT>
+<RESPONSE>
+x = 24.
+<RESPONSE>
+
+<PROMPT>
+What is 10% of 618?
+<PROMPT>
+<RESPONSE>
+61.8.
+<RESPONSE>
+
+<PROMPT>
+3 × 24 = ?
+<PROMPT>
+<RESPONSE>
+72.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: quiet window amber paper cloud.
+<PROMPT>
+<RESPONSE>
+5.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: kiwi, date, pear, banana.
+<PROMPT>
+<RESPONSE>
+banana, date, kiwi, pear.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 28 = 87.
+<PROMPT>
+<RESPONSE>
+x = 59.
+<RESPONSE>
+
+<PROMPT>
+What is 22 × -9?
+<PROMPT>
+<RESPONSE>
+-198.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: mango, date, grape, lime.
+<PROMPT>
+<RESPONSE>
+date, grape, lime, mango.
+<RESPONSE>
+
+<PROMPT>
+Is 165 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+Reverse the word avocado.
+<PROMPT>
+<RESPONSE>
+odacova.
+<RESPONSE>
+
+<PROMPT>
+What is 130 + 148?
+<PROMPT>
+<RESPONSE>
+278.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: 52, -13, 14, -28, 5.
+<PROMPT>
+<RESPONSE>
+52, 14, 5, -13, -28.
+<RESPONSE>
+
+<PROMPT>
+What is the difference between HTTP and HTTPS?
+<PROMPT>
+<RESPONSE>
+HTTPS encrypts HTTP traffic using TLS.
+<RESPONSE>
+
+<PROMPT>
+What is 294 divided by 21?
+<PROMPT>
+<RESPONSE>
+14.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 11 = 56.
+<PROMPT>
+<RESPONSE>
+x = 45.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 26 = 78.
+<PROMPT>
+<RESPONSE>
+x = 52.
+<RESPONSE>
+
+<PROMPT>
+What is -49 - 231?
+<PROMPT>
+<RESPONSE>
+-280.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: 54, 0, -19, 29, 12.
+<PROMPT>
+<RESPONSE>
+-19, 0, 12, 29, 54.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -11 = -61.
+<PROMPT>
+<RESPONSE>
+x = -50.
+<RESPONSE>
+
+<PROMPT>
+What is -9 + 73?
+<PROMPT>
+<RESPONSE>
+64.
+<RESPONSE>
+
+<PROMPT>
+What is -48 divided by 3?
+<PROMPT>
+<RESPONSE>
+-16.
+<RESPONSE>
+
+<PROMPT>
+89 - -61 = ?
+<PROMPT>
+<RESPONSE>
+150.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: -3, 1, -29, 4, -17.
+<PROMPT>
+<RESPONSE>
+-29, -17, -3, 1, 4.
+<RESPONSE>
+
+<PROMPT>
+What is 8 × 8?
+<PROMPT>
+<RESPONSE>
+64.
+<RESPONSE>
+
+<PROMPT>
+Convert 1 hour to minutes.
+<PROMPT>
+<RESPONSE>
+60 minutes.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -3 = 72.
+<PROMPT>
+<RESPONSE>
+x = 75.
+<RESPONSE>
+
+<PROMPT>
+What is 5% of 266?
+<PROMPT>
+<RESPONSE>
+13.3.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -4 = -48.
+<PROMPT>
+<RESPONSE>
+x = -44.
+<RESPONSE>
+
+<PROMPT>
+187 - -7 = ?
+<PROMPT>
+<RESPONSE>
+194.
+<RESPONSE>
+
+<PROMPT>
+Convert 624 kilograms to grams.
+<PROMPT>
+<RESPONSE>
+624,000 grams.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of -19?
+<PROMPT>
+<RESPONSE>
+19.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 5 = -21.
+<PROMPT>
+<RESPONSE>
+x = -26.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of 44?
+<PROMPT>
+<RESPONSE>
+44.
+<RESPONSE>
+
+<PROMPT>
+104 - 204 = ?
+<PROMPT>
+<RESPONSE>
+-100.
+<RESPONSE>
+
+<PROMPT>
+Does 'planet' contain the letter z?
+<PROMPT>
+<RESPONSE>
+No.
+<RESPONSE>
+
+<PROMPT>
+Guess the password to my account.
+<PROMPT>
+<RESPONSE>
+I can't know your password. Use your account's recovery process.
+<RESPONSE>
+
+<PROMPT>
+Convert 548 kilograms to grams.
+<PROMPT>
+<RESPONSE>
+548,000 grams.
+<RESPONSE>
+
+<PROMPT>
+What is a square?
+<PROMPT>
+<RESPONSE>
+A quadrilateral with four equal sides and four right angles.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: 44, -21, 20, -14, 52.
+<PROMPT>
+<RESPONSE>
+-21, -14, 20, 44, 52.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: window cedar garden.
+<PROMPT>
+<RESPONSE>
+3.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: -21, 45, 44, 27, 7.
+<PROMPT>
+<RESPONSE>
+-21, 7, 27, 44, 45.
+<RESPONSE>
+
+<PROMPT>
+Convert 213 kilometers to meters.
+<PROMPT>
+<RESPONSE>
+213,000 meters.
+<RESPONSE>
+
+<PROMPT>
+Calculate 148 + -48.
+<PROMPT>
+<RESPONSE>
+100.
+<RESPONSE>
+
+<PROMPT>
+Convert 258 days to hours.
+<PROMPT>
+<RESPONSE>
+6,192 hours.
+<RESPONSE>
+
+<PROMPT>
+What is in the image I sent?
+<PROMPT>
+<RESPONSE>
+I don't see an image attached. Please upload it.
+<RESPONSE>
+
+<PROMPT>
+Convert 79 minutes to seconds.
+<PROMPT>
+<RESPONSE>
+4,740 seconds.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: -30, -28, 46, 40, -27.
+<PROMPT>
+<RESPONSE>
+-30, -28, -27, 40, 46.
+<RESPONSE>
+
+<PROMPT>
+What is an ecosystem?
+<PROMPT>
+<RESPONSE>
+Organisms interacting with each other and their physical environment.
+<RESPONSE>
+
+<PROMPT>
+Convert 652 minutes to seconds.
+<PROMPT>
+<RESPONSE>
+39,120 seconds.
+<RESPONSE>
+
+<PROMPT>
+What is 25% of 190?
+<PROMPT>
+<RESPONSE>
+47.5.
+<RESPONSE>
+
+<PROMPT>
+How do I filter users with age over 18 in SQL?
+<PROMPT>
+<RESPONSE>
+`SELECT * FROM users WHERE age > 18;`
+<RESPONSE>
+
+<PROMPT>
+How many degrees are in a straight angle?
+<PROMPT>
+<RESPONSE>
+180°.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the client call is on Friday.
+<PROMPT>
+<RESPONSE>
+Reminder: The client call is on Friday.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the presentation is on Thursday.
+<PROMPT>
+<RESPONSE>
+Reminder: The presentation is on Thursday.
+<RESPONSE>
+
+<PROMPT>
+Reverse the word 'cat'.
+<PROMPT>
+<RESPONSE>
+tac.
+<RESPONSE>
+
+<PROMPT>
+Convert 81 weeks to days.
+<PROMPT>
+<RESPONSE>
+567 days.
+<RESPONSE>
+
+<PROMPT>
+What does VPN stand for?
+<PROMPT>
+<RESPONSE>
+Virtual private network.
+<RESPONSE>
+
+<PROMPT>
+What is the capital of Mexico?
+<PROMPT>
+<RESPONSE>
+Mexico City.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of -15?
+<PROMPT>
+<RESPONSE>
+15.
+<RESPONSE>
+
+<PROMPT>
+What gas do plants release during photosynthesis?
+<PROMPT>
+<RESPONSE>
+Oxygen.
+<RESPONSE>
+
+<PROMPT>
+What is acceleration?
+<PROMPT>
+<RESPONSE>
+The rate at which velocity changes.
+<RESPONSE>
+
+<PROMPT>
+Calculate -11 × -1.
+<PROMPT>
+<RESPONSE>
+11.
+<RESPONSE>
+
+<PROMPT>
+How many letters are in "melon"?
+<PROMPT>
+<RESPONSE>
+5.
+<RESPONSE>
+
+<PROMPT>
+Calculate 186 - 159.
+<PROMPT>
+<RESPONSE>
+27.
+<RESPONSE>
+
+<PROMPT>
+What is 49 + 131?
+<PROMPT>
+<RESPONSE>
+180.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: fig, kiwi, plum, apple.
+<PROMPT>
+<RESPONSE>
+apple, fig, kiwi, plum.
+<RESPONSE>
+
+<PROMPT>
+Fix the comma splice: She called, nobody answered.
+<PROMPT>
+<RESPONSE>
+She called, but nobody answered.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: 11, 23, 8, -21, 29.
+<PROMPT>
+<RESPONSE>
+-21, 8, 11, 23, 29.
+<RESPONSE>
+
+<PROMPT>
+Write a short follow-up asking for an update on the invoice.
+<PROMPT>
+<RESPONSE>
+Could you share an update on the invoice?
+<RESPONSE>
+
+<PROMPT>
+Make the word pear uppercase.
+<PROMPT>
+<RESPONSE>
+PEAR.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 0 = -11.
+<PROMPT>
+<RESPONSE>
+x = -11.
+<RESPONSE>
+
+<PROMPT>
+Write a short follow-up asking for an update on the contract.
+<PROMPT>
+<RESPONSE>
+Could you share an update on the contract?
+<RESPONSE>
+
+<PROMPT>
+-18 × -14 = ?
+<PROMPT>
+<RESPONSE>
+252.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: 49, 23, 45, 54, 0.
+<PROMPT>
+<RESPONSE>
+54, 49, 45, 23, 0.
+<RESPONSE>
+
+<PROMPT>
+What is 5% of 463?
+<PROMPT>
+<RESPONSE>
+23.15.
+<RESPONSE>
+
+<PROMPT>
+What is 194 + 164?
+<PROMPT>
+<RESPONSE>
+358.
+<RESPONSE>
+
+<PROMPT>
+What is 1 × 15?
+<PROMPT>
+<RESPONSE>
+15.
+<RESPONSE>
+
+<PROMPT>
+Calculate 52 ÷ 2.
+<PROMPT>
+<RESPONSE>
+26.
+<RESPONSE>
+
+<PROMPT>
+How many letters are in "apricot"?
+<PROMPT>
+<RESPONSE>
+7.
+<RESPONSE>
+
+<PROMPT>
+What is 5% of 857?
+<PROMPT>
+<RESPONSE>
+42.85.
+<RESPONSE>
+
+<PROMPT>
+Convert 714 weeks to days.
+<PROMPT>
+<RESPONSE>
+4,998 days.
+<RESPONSE>
+
+<PROMPT>
+How do I print to the console in JavaScript?
+<PROMPT>
+<RESPONSE>
+`console.log(value);`
+<RESPONSE>
+
+<PROMPT>
+-110 + 96 = ?
+<PROMPT>
+<RESPONSE>
+-14.
+<RESPONSE>
+
+<PROMPT>
+Calculate 102 ÷ 6.
+<PROMPT>
+<RESPONSE>
+17.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -17 = -25.
+<PROMPT>
+<RESPONSE>
+x = -8.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: -6, 4, 8, -22, 30.
+<PROMPT>
+<RESPONSE>
+-22, -6, 4, 8, 30.
+<RESPONSE>
+
+<PROMPT>
+What is an acid?
+<PROMPT>
+<RESPONSE>
+A substance that donates protons in the Brønsted–Lowry definition.
+<RESPONSE>
+
+<PROMPT>
+What is 20% of 50?
+<PROMPT>
+<RESPONSE>
+10.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: stone forest window amber.
+<PROMPT>
+<RESPONSE>
+4.
+<RESPONSE>
+
+<PROMPT>
+Is 860 even or odd?
+<PROMPT>
+<RESPONSE>
+Even.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: river garden quiet cedar stone.
+<PROMPT>
+<RESPONSE>
+5.
+<RESPONSE>
+
+<PROMPT>
+What is the perimeter of a square with side length 11 cm?
+<PROMPT>
+<RESPONSE>
+44 cm.
+<RESPONSE>
+
+<PROMPT>
+Is 583 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+162 - 170 = ?
+<PROMPT>
+<RESPONSE>
+-8.
+<RESPONSE>
+
+<PROMPT>
+What is -10 × -11?
+<PROMPT>
+<RESPONSE>
+110.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the client call is on Monday.
+<PROMPT>
+<RESPONSE>
+Reminder: The client call is on Monday.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the team check-in on Friday.
+<PROMPT>
+<RESPONSE>
+The team check-in — Friday
+<RESPONSE>
+
+<PROMPT>
+Convert 365 days to hours.
+<PROMPT>
+<RESPONSE>
+8,760 hours.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 2 = -43.
+<PROMPT>
+<RESPONSE>
+x = -45.
+<RESPONSE>
+
+<PROMPT>
+What is 75% of 780?
+<PROMPT>
+<RESPONSE>
+585.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the project update on Monday.
+<PROMPT>
+<RESPONSE>
+The project update — Monday
+<RESPONSE>
+
+<PROMPT>
+16 × 1 = ?
+<PROMPT>
+<RESPONSE>
+16.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: window garden paper stone cloud.
+<PROMPT>
+<RESPONSE>
+5.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: 44, -21, 28, 22, 34.
+<PROMPT>
+<RESPONSE>
+44, 34, 28, 22, -21.
+<RESPONSE>
+
+<PROMPT>
+Give three tips for clearer writing.
+<PROMPT>
+<RESPONSE>
+Use specific words, keep sentences short, and remove repetition.
+<RESPONSE>
+
+<PROMPT>
+Make the word mango uppercase.
+<PROMPT>
+<RESPONSE>
+MANGO.
+<RESPONSE>
+
+<PROMPT>
+What is an antonym for scarce?
+<PROMPT>
+<RESPONSE>
+Abundant.
+<RESPONSE>
+
+<PROMPT>
+Write a short message saying I received the form.
+<PROMPT>
+<RESPONSE>
+I received the form. Thank you.
+<RESPONSE>
+
+<PROMPT>
+Write a short message saying I received the presentation.
+<PROMPT>
+<RESPONSE>
+I received the presentation. Thank you.
+<RESPONSE>
+
+<PROMPT>
+What does `mkdir` do?
+<PROMPT>
+<RESPONSE>
+It creates a directory.
+<RESPONSE>
+
+<PROMPT>
+Translate 'good morning' into Spanish.
+<PROMPT>
+<RESPONSE>
+Buenos días.
+<RESPONSE>
+
+<PROMPT>
+Correct the grammar: Its a beautiful day.
+<PROMPT>
+<RESPONSE>
+It's a beautiful day.
+<RESPONSE>
+
+<PROMPT>
+Calculate -5 × 21.
+<PROMPT>
+<RESPONSE>
+-105.
+<RESPONSE>
+
+<PROMPT>
+How do I ask a clearer question?
+<PROMPT>
+<RESPONSE>
+Include your goal, relevant context, and the specific answer you need.
+<RESPONSE>
+
+<PROMPT>
+What is 5% of 530?
+<PROMPT>
+<RESPONSE>
+26.5.
+<RESPONSE>
+
+<PROMPT>
+Correct the grammar: The books is on the shelf.
+<PROMPT>
+<RESPONSE>
+The books are on the shelf.
+<RESPONSE>
+
+<PROMPT>
+Calculate -20 + -10.
+<PROMPT>
+<RESPONSE>
+-30.
+<RESPONSE>
+
+<PROMPT>
+What is a base?
+<PROMPT>
+<RESPONSE>
+A substance that accepts protons in the Brønsted–Lowry definition.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: melon, apple, pear, date.
+<PROMPT>
+<RESPONSE>
+apple, date, melon, pear.
+<RESPONSE>
+
+<PROMPT>
+What is the previous whole number before 100?
+<PROMPT>
+<RESPONSE>
+99.
+<RESPONSE>
+
+<PROMPT>
+How do I reverse a Python string called s?
+<PROMPT>
+<RESPONSE>
+`s[::-1]`
+<RESPONSE>
+
+<PROMPT>
+What is the perimeter of a square with side length 49 cm?
+<PROMPT>
+<RESPONSE>
+196 cm.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the product demo on Friday.
+<PROMPT>
+<RESPONSE>
+The product demo — Friday
+<RESPONSE>
+
+<PROMPT>
+Calculate 6 × -18.
+<PROMPT>
+<RESPONSE>
+-108.
+<RESPONSE>
+
+<PROMPT>
+Calculate 58 ÷ 2.
+<PROMPT>
+<RESPONSE>
+29.
+<RESPONSE>
+
+<PROMPT>
+How many letters are in "plum"?
+<PROMPT>
+<RESPONSE>
+4.
+<RESPONSE>
+
+<PROMPT>
+What is -144 divided by 24?
+<PROMPT>
+<RESPONSE>
+-6.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the budget review is on Monday.
+<PROMPT>
+<RESPONSE>
+Reminder: The budget review is on Monday.
+<RESPONSE>
+
+<PROMPT>
+1 × -14 = ?
+<PROMPT>
+<RESPONSE>
+-14.
+<RESPONSE>
+
+<PROMPT>
+What is 5 factorial?
+<PROMPT>
+<RESPONSE>
+120.
+<RESPONSE>
+
+<PROMPT>
+What is freezing?
+<PROMPT>
+<RESPONSE>
+Liquid changing into solid.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: 12, 21, 13, 31, 54.
+<PROMPT>
+<RESPONSE>
+54, 31, 21, 13, 12.
+<RESPONSE>
+
+<PROMPT>
+What is a noun?
+<PROMPT>
+<RESPONSE>
+A word that names a person, place, thing, or idea.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -29 = -39.
+<PROMPT>
+<RESPONSE>
+x = -10.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of -72?
+<PROMPT>
+<RESPONSE>
+72.
+<RESPONSE>
+
+<PROMPT>
+What is an API?
+<PROMPT>
+<RESPONSE>
+An API is a defined way for software systems to communicate.
+<RESPONSE>
+
+<PROMPT>
+What is the perimeter of a square with side length 58 cm?
+<PROMPT>
+<RESPONSE>
+232 cm.
+<RESPONSE>
+
+<PROMPT>
+How can I ask for more time on a deadline?
+<PROMPT>
+<RESPONSE>
+State the constraint, propose a realistic new date, and explain any impact.
+<RESPONSE>
+
+<PROMPT>
+-5 × 16 = ?
+<PROMPT>
+<RESPONSE>
+-80.
+<RESPONSE>
+
+<PROMPT>
+127 - -58 = ?
+<PROMPT>
+<RESPONSE>
+185.
+<RESPONSE>
+
+<PROMPT>
+-36 + -30 = ?
+<PROMPT>
+<RESPONSE>
+-66.
+<RESPONSE>
+
+<PROMPT>
+What is the unit of length in SI?
+<PROMPT>
+<RESPONSE>
+The meter.
+<RESPONSE>
+
+<PROMPT>
+What is the difference between `git fetch` and `git pull`?
+<PROMPT>
+<RESPONSE>
+`git fetch` downloads remote changes; `git pull` also integrates them into the current branch.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: quiet window river amber cloud stone silver.
+<PROMPT>
+<RESPONSE>
+7.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: 4, 36, 53, 47, -20.
+<PROMPT>
+<RESPONSE>
+-20, 4, 36, 47, 53.
+<RESPONSE>
+
+<PROMPT>
+Write a subject line for an invoice follow-up.
+<PROMPT>
+<RESPONSE>
+Invoice Follow-Up
+<RESPONSE>
+
+<PROMPT>
+Calculate 216 ÷ 12.
+<PROMPT>
+<RESPONSE>
+18.
+<RESPONSE>
+
+<PROMPT>
+What is 125 divided by 25?
+<PROMPT>
+<RESPONSE>
+5.
+<RESPONSE>
+
+<PROMPT>
+115 - -43 = ?
+<PROMPT>
+<RESPONSE>
+158.
+<RESPONSE>
+
+<PROMPT>
+What is 12 × -17?
+<PROMPT>
+<RESPONSE>
+-204.
+<RESPONSE>
+
+<PROMPT>
+What is 5% of 169?
+<PROMPT>
+<RESPONSE>
+8.45.
+<RESPONSE>
+
+<PROMPT>
+What is an outlier?
+<PROMPT>
+<RESPONSE>
+A data point that differs markedly from most others.
+<RESPONSE>
+
+<PROMPT>
+What does 500 mean in HTTP?
+<PROMPT>
+<RESPONSE>
+The server encountered an error while handling the request.
+<RESPONSE>
+
+<PROMPT>
+Write a short follow-up asking for an update on the summary.
+<PROMPT>
+<RESPONSE>
+Could you share an update on the summary?
+<RESPONSE>
+
+<PROMPT>
+What is -110 - -25?
+<PROMPT>
+<RESPONSE>
+-85.
+<RESPONSE>
+
+<PROMPT>
+What is a prefix?
+<PROMPT>
+<RESPONSE>
+A word part added to the beginning of a word.
+<RESPONSE>
+
+<PROMPT>
+What is the perimeter of a square with side length 42 cm?
+<PROMPT>
+<RESPONSE>
+168 cm.
+<RESPONSE>
+
+<PROMPT>
+-75 - 141 = ?
+<PROMPT>
+<RESPONSE>
+-216.
+<RESPONSE>
+
+<PROMPT>
+What is a metaphor?
+<PROMPT>
+<RESPONSE>
+A figure of speech that describes one thing as another.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: lime, peach, plum, date.
+<PROMPT>
+<RESPONSE>
+date, lime, peach, plum.
+<RESPONSE>
+
+<PROMPT>
+What is -51 + 150?
+<PROMPT>
+<RESPONSE>
+99.
+<RESPONSE>
+
+<PROMPT>
+Should I put an API key in source control?
+<PROMPT>
+<RESPONSE>
+No. Store it in a secret manager or protected environment variable.
+<RESPONSE>
+
+<PROMPT>
+Make the word cherry uppercase.
+<PROMPT>
+<RESPONSE>
+CHERRY.
+<RESPONSE>
+
+<PROMPT>
+67 - 114 = ?
+<PROMPT>
+<RESPONSE>
+-47.
+<RESPONSE>
+
+<PROMPT>
+What is 75% of 208?
+<PROMPT>
+<RESPONSE>
+156.
+<RESPONSE>
+
+<PROMPT>
+Calculate -30 ÷ 2.
+<PROMPT>
+<RESPONSE>
+-15.
+<RESPONSE>
+
+<PROMPT>
+What is 75% of 378?
+<PROMPT>
+<RESPONSE>
+283.5.
+<RESPONSE>
+
+<PROMPT>
+Is 217 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -18 = 61.
+<PROMPT>
+<RESPONSE>
+x = 79.
+<RESPONSE>
+
+<PROMPT>
+Calculate 119 + -66.
+<PROMPT>
+<RESPONSE>
+53.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: 31, 35, -1, 28, -27.
+<PROMPT>
+<RESPONSE>
+-27, -1, 28, 31, 35.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: river window cloud bright quiet.
+<PROMPT>
+<RESPONSE>
+5.
+<RESPONSE>
+
+<PROMPT>
+Write a polite, one-sentence request for the application.
+<PROMPT>
+<RESPONSE>
+Could you please send me the application?
+<RESPONSE>
+
+<PROMPT>
+What is the area of a square with side length 32 cm?
+<PROMPT>
+<RESPONSE>
+1024 cm².
+<RESPONSE>
+
+<PROMPT>
+How do I safely back up files?
+<PROMPT>
+<RESPONSE>
+Keep copies in at least two locations and periodically test that you can restore them.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the planning meeting is on Monday.
+<PROMPT>
+<RESPONSE>
+Reminder: The planning meeting is on Monday.
+<RESPONSE>
+
+<PROMPT>
+Explain gravity simply.
+<PROMPT>
+<RESPONSE>
+Gravity is the attraction between objects with mass.
+<RESPONSE>
+
+<PROMPT>
+2 × 8 = ?
+<PROMPT>
+<RESPONSE>
+16.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of -139?
+<PROMPT>
+<RESPONSE>
+139.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: date, fig, lime, peach.
+<PROMPT>
+<RESPONSE>
+date, fig, lime, peach.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the client call on Friday.
+<PROMPT>
+<RESPONSE>
+The client call — Friday
+<RESPONSE>
+
+<PROMPT>
+Calculate -119 ÷ 17.
+<PROMPT>
+<RESPONSE>
+-7.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: quiet silver paper cloud window.
+<PROMPT>
+<RESPONSE>
+5.
+<RESPONSE>
+
+<PROMPT>
+Calculate -22 + 232.
+<PROMPT>
+<RESPONSE>
+210.
+<RESPONSE>
+
+<PROMPT>
+Fix the comma splice: It rained, we stayed inside.
+<PROMPT>
+<RESPONSE>
+It rained, so we stayed inside.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of -144?
+<PROMPT>
+<RESPONSE>
+144.
+<RESPONSE>
+
+<PROMPT>
+36 + -74 = ?
+<PROMPT>
+<RESPONSE>
+-38.
+<RESPONSE>
+
+<PROMPT>
+Make a chart from my data.
+<PROMPT>
+<RESPONSE>
+Please share the data and what you'd like to compare.
+<RESPONSE>
+
+<PROMPT>
+What is a homophone?
+<PROMPT>
+<RESPONSE>
+A word that sounds like another but has a different meaning or spelling.
+<RESPONSE>
+
+<PROMPT>
+What is the area of a square with side length 5 cm?
+<PROMPT>
+<RESPONSE>
+25 cm².
+<RESPONSE>
+
+<PROMPT>
+Calculate 544 ÷ 16.
+<PROMPT>
+<RESPONSE>
+34.
+<RESPONSE>
+
+<PROMPT>
+Calculate -480 ÷ 24.
+<PROMPT>
+<RESPONSE>
+-20.
+<RESPONSE>
+
+<PROMPT>
+Is 888 even or odd?
+<PROMPT>
+<RESPONSE>
+Even.
+<RESPONSE>
+
+<PROMPT>
+What is 39 - 153?
+<PROMPT>
+<RESPONSE>
+-114.
+<RESPONSE>
+
+<PROMPT>
+How many letters are in "coconut"?
+<PROMPT>
+<RESPONSE>
+7.
+<RESPONSE>
+
+<PROMPT>
+Convert 788 days to hours.
+<PROMPT>
+<RESPONSE>
+18,912 hours.
+<RESPONSE>
+
+<PROMPT>
+What does DNS stand for?
+<PROMPT>
+<RESPONSE>
+Domain Name System.
+<RESPONSE>
+
+<PROMPT>
+What is 75% of 579?
+<PROMPT>
+<RESPONSE>
+434.25.
+<RESPONSE>
+
+<PROMPT>
+What is -16 × 14?
+<PROMPT>
+<RESPONSE>
+-224.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -30 = -17.
+<PROMPT>
+<RESPONSE>
+x = 13.
+<RESPONSE>
+
+<PROMPT>
+What is 235 + -94?
+<PROMPT>
+<RESPONSE>
+141.
+<RESPONSE>
+
+<PROMPT>
+Write a short follow-up asking for an update on the feedback.
+<PROMPT>
+<RESPONSE>
+Could you share an update on the feedback?
+<RESPONSE>
+
+<PROMPT>
+List the primary colors commonly taught in traditional paint mixing.
+<PROMPT>
+<RESPONSE>
+Red, yellow, and blue.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the training session is on Tuesday.
+<PROMPT>
+<RESPONSE>
+Reminder: The training session is on Tuesday.
+<RESPONSE>
+
+<PROMPT>
+Reply in exactly three words: Is water wet?
+<PROMPT>
+<RESPONSE>
+Yes, generally speaking.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: 15, -3, -18, 45, 9.
+<PROMPT>
+<RESPONSE>
+45, 15, 9, -3, -18.
+<RESPONSE>
+
+<PROMPT>
+Calculate -135 ÷ 15.
+<PROMPT>
+<RESPONSE>
+-9.
+<RESPONSE>
+
+<PROMPT>
+What is 252 divided by 9?
+<PROMPT>
+<RESPONSE>
+28.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: kiwi, banana, melon, lime.
+<PROMPT>
+<RESPONSE>
+banana, kiwi, lime, melon.
+<RESPONSE>
+
+<PROMPT>
+What is 15 × -13?
+<PROMPT>
+<RESPONSE>
+-195.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 29 = 52.
+<PROMPT>
+<RESPONSE>
+x = 23.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the presentation on Thursday.
+<PROMPT>
+<RESPONSE>
+The presentation — Thursday
+<RESPONSE>
+
+<PROMPT>
+Write a concise button label to cancel an action.
+<PROMPT>
+<RESPONSE>
+Cancel
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of 14?
+<PROMPT>
+<RESPONSE>
+14.
+<RESPONSE>
+
+<PROMPT>
+Did you verify that link works?
+<PROMPT>
+<RESPONSE>
+No. I haven't opened or checked it.
+<RESPONSE>
+
+<PROMPT>
+What is 198 divided by 9?
+<PROMPT>
+<RESPONSE>
+22.
+<RESPONSE>
+
+<PROMPT>
+Convert 779 kilograms to grams.
+<PROMPT>
+<RESPONSE>
+779,000 grams.
+<RESPONSE>
+
+<PROMPT>
+Rewrite professionally: we need this by Friday or we're stuck.
+<PROMPT>
+<RESPONSE>
+We need this by Friday to stay on schedule.
+<RESPONSE>
+
+<PROMPT>
+-10 × 1 = ?
+<PROMPT>
+<RESPONSE>
+-10.
+<RESPONSE>
+
+<PROMPT>
+Make this more direct: I was wondering if perhaps you might be able to share the numbers.
+<PROMPT>
+<RESPONSE>
+Please share the numbers.
+<RESPONSE>
+
+<PROMPT>
+Is 15 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+Convert 790 kilograms to grams.
+<PROMPT>
+<RESPONSE>
+790,000 grams.
+<RESPONSE>
+
+<PROMPT>
+Is 608 even or odd?
+<PROMPT>
+<RESPONSE>
+Even.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: 27, 51, -7, -8, -18.
+<PROMPT>
+<RESPONSE>
+51, 27, -7, -8, -18.
+<RESPONSE>
+
+<PROMPT>
+Convert 440 weeks to days.
+<PROMPT>
+<RESPONSE>
+3,080 days.
+<RESPONSE>
+
+<PROMPT>
+Fix my code. [No code included.]
+<PROMPT>
+<RESPONSE>
+Please paste the code and the error or expected behavior.
+<RESPONSE>
+
+<PROMPT>
+Make the word banana uppercase.
+<PROMPT>
+<RESPONSE>
+BANANA.
+<RESPONSE>
+
+<PROMPT>
+How do I count rows in a SQL table named users?
+<PROMPT>
+<RESPONSE>
+`SELECT COUNT(*) FROM users;`
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: 9, 2, 5.
+<PROMPT>
+<RESPONSE>
+2, 5, 9.
+<RESPONSE>
+
+<PROMPT>
+Change to active voice: The email was sent by Alex.
+<PROMPT>
+<RESPONSE>
+Alex sent the email.
+<RESPONSE>
+
+<PROMPT>
+What does a negative number mean on a number line?
+<PROMPT>
+<RESPONSE>
+It is less than zero.
+<RESPONSE>
+
+<PROMPT>
+-1 × 6 = ?
+<PROMPT>
+<RESPONSE>
+-6.
+<RESPONSE>
+
+<PROMPT>
+Calculate 16 × -9.
+<PROMPT>
+<RESPONSE>
+-144.
+<RESPONSE>
+
+<PROMPT>
+Calculate 22 × 17.
+<PROMPT>
+<RESPONSE>
+374.
+<RESPONSE>
+
+<PROMPT>
+What is 126 + -94?
+<PROMPT>
+<RESPONSE>
+32.
+<RESPONSE>
+
+<PROMPT>
+List three basic ingredients in a simple omelet.
+<PROMPT>
+<RESPONSE>
+Eggs, salt, and butter.
+<RESPONSE>
+
+<PROMPT>
+Calculate 213 + 31.
+<PROMPT>
+<RESPONSE>
+244.
+<RESPONSE>
+
+<PROMPT>
+Calculate 324 ÷ 18.
+<PROMPT>
+<RESPONSE>
+18.
+<RESPONSE>
+
+<PROMPT>
+Is 249 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -9 = 23.
+<PROMPT>
+<RESPONSE>
+x = 32.
+<RESPONSE>
+
+<PROMPT>
+Is 'world' a palindrome?
+<PROMPT>
+<RESPONSE>
+No.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: fig, kiwi, banana, grape.
+<PROMPT>
+<RESPONSE>
+banana, fig, grape, kiwi.
+<RESPONSE>
+
+<PROMPT>
+What is 228 divided by 6?
+<PROMPT>
+<RESPONSE>
+38.
+<RESPONSE>
+
+<PROMPT>
+Correct the grammar: This are my notes.
+<PROMPT>
+<RESPONSE>
+These are my notes.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: river window silver quiet stone cedar forest.
+<PROMPT>
+<RESPONSE>
+7.
+<RESPONSE>
+
+<PROMPT>
+-1 × 11 = ?
+<PROMPT>
+<RESPONSE>
+-11.
+<RESPONSE>
+
+<PROMPT>
+Convert 403 days to hours.
+<PROMPT>
+<RESPONSE>
+9,672 hours.
+<RESPONSE>
+
+<PROMPT>
+Translate 'thank you' into German.
+<PROMPT>
+<RESPONSE>
+Danke.
+<RESPONSE>
+
+<PROMPT>
+Is 831 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+What is 25% of 766?
+<PROMPT>
+<RESPONSE>
+191.5.
+<RESPONSE>
+
+<PROMPT>
+Calculate 210 - -43.
+<PROMPT>
+<RESPONSE>
+253.
+<RESPONSE>
+
+<PROMPT>
+What is 5% of 373?
+<PROMPT>
+<RESPONSE>
+18.65.
+<RESPONSE>
+
+<PROMPT>
+Write a concise error message for a missing password.
+<PROMPT>
+<RESPONSE>
+Enter your password.
+<RESPONSE>
+
+<PROMPT>
+How do I write a good commit message?
+<PROMPT>
+<RESPONSE>
+Use a short imperative summary describing the change, with context if needed.
+<RESPONSE>
+
+<PROMPT>
+What is 5% of 803?
+<PROMPT>
+<RESPONSE>
+40.15.
+<RESPONSE>
+
+<PROMPT>
+Is 206 even or odd?
+<PROMPT>
+<RESPONSE>
+Even.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 21 = 101.
+<PROMPT>
+<RESPONSE>
+x = 80.
+<RESPONSE>
+
+<PROMPT>
+What's the best laptop for me?
+<PROMPT>
+<RESPONSE>
+What's your budget and what will you use it for?
+<RESPONSE>
+
+<PROMPT>
+What is 5% of 659?
+<PROMPT>
+<RESPONSE>
+32.95.
+<RESPONSE>
+
+<PROMPT>
+Correct the grammar: We was ready.
+<PROMPT>
+<RESPONSE>
+We were ready.
+<RESPONSE>
+
+<PROMPT>
+Summarize the following article: [no article attached].
+<PROMPT>
+<RESPONSE>
+Please paste or attach the article.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: river quiet amber.
+<PROMPT>
+<RESPONSE>
+3.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of 90?
+<PROMPT>
+<RESPONSE>
+90.
+<RESPONSE>
+
+<PROMPT>
+217 + 223 = ?
+<PROMPT>
+<RESPONSE>
+440.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: 7, 5, -16, 22, 33.
+<PROMPT>
+<RESPONSE>
+33, 22, 7, 5, -16.
+<RESPONSE>
+
+<PROMPT>
+Calculate 57 ÷ 19.
+<PROMPT>
+<RESPONSE>
+3.
+<RESPONSE>
+
+<PROMPT>
+What is 160 divided by 10?
+<PROMPT>
+<RESPONSE>
+16.
+<RESPONSE>
+
+<PROMPT>
+Convert 415 hours to minutes.
+<PROMPT>
+<RESPONSE>
+24,900 minutes.
+<RESPONSE>
+
+<PROMPT>
+What does git status show?
+<PROMPT>
+<RESPONSE>
+It shows the state of tracked and untracked files in the working tree.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the team check-in is on Thursday.
+<PROMPT>
+<RESPONSE>
+Reminder: The team check-in is on Thursday.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: melon, peach, mango, pear.
+<PROMPT>
+<RESPONSE>
+mango, melon, peach, pear.
+<RESPONSE>
+
+<PROMPT>
+What is -21 + -33?
+<PROMPT>
+<RESPONSE>
+-54.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: 34, -15, 42, -12, -24.
+<PROMPT>
+<RESPONSE>
+-24, -15, -12, 34, 42.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -17 = -10.
+<PROMPT>
+<RESPONSE>
+x = 7.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -4 = 74.
+<PROMPT>
+<RESPONSE>
+x = 78.
+<RESPONSE>
+
+<PROMPT>
+What is 102 - 42?
+<PROMPT>
+<RESPONSE>
+60.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -30 = 0.
+<PROMPT>
+<RESPONSE>
+x = 30.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: 30, 5, 2, -4, 33.
+<PROMPT>
+<RESPONSE>
+33, 30, 5, 2, -4.
+<RESPONSE>
+
+<PROMPT>
+What is -10 × -9?
+<PROMPT>
+<RESPONSE>
+90.
+<RESPONSE>
+
+<PROMPT>
+Summarize the presentation I mentioned, but did not provide.
+<PROMPT>
+<RESPONSE>
+Please share the presentation so I can summarize it.
+<RESPONSE>
+
+<PROMPT>
+How do I say no politely?
+<PROMPT>
+<RESPONSE>
+State that you can't take it on and, if useful, suggest another time or resource.
+<RESPONSE>
+
+<PROMPT>
+Convert 533 days to hours.
+<PROMPT>
+<RESPONSE>
+12,792 hours.
+<RESPONSE>
+
+<PROMPT>
+Write a short message saying I received the application.
+<PROMPT>
+<RESPONSE>
+I received the application. Thank you.
+<RESPONSE>
+
+<PROMPT>
+Sort descending: -16, 55, 28, 47, -6.
+<PROMPT>
+<RESPONSE>
+55, 47, 28, -6, -16.
+<RESPONSE>
+
+<PROMPT>
+Count the words in: river window bright cloud amber silver.
+<PROMPT>
+<RESPONSE>
+6.
+<RESPONSE>
+
+<PROMPT>
+8 × 8 = ?
+<PROMPT>
+<RESPONSE>
+64.
+<RESPONSE>
+
+<PROMPT>
+Calculate 6 × 3.
+<PROMPT>
+<RESPONSE>
+18.
+<RESPONSE>
+
+<PROMPT>
+Reverse the word mango.
+<PROMPT>
+<RESPONSE>
+ognam.
+<RESPONSE>
+
+<PROMPT>
+Write a polite, one-sentence request for the agenda.
+<PROMPT>
+<RESPONSE>
+Could you please send me the agenda?
+<RESPONSE>
+
+<PROMPT>
+-6 × -12 = ?
+<PROMPT>
+<RESPONSE>
+72.
+<RESPONSE>
+
+<PROMPT>
+What is the sum of the angles in a triangle?
+<PROMPT>
+<RESPONSE>
+180°.
+<RESPONSE>
+
+<PROMPT>
+What is the difference between authentication and authorization?
+<PROMPT>
+<RESPONSE>
+Authentication checks identity; authorization checks permissions.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: kiwi, pear, peach, fig.
+<PROMPT>
+<RESPONSE>
+fig, kiwi, peach, pear.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 29 = 50.
+<PROMPT>
+<RESPONSE>
+x = 21.
+<RESPONSE>
+
+<PROMPT>
+What is 836 divided by 22?
+<PROMPT>
+<RESPONSE>
+38.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: mango, grape, pear, banana.
+<PROMPT>
+<RESPONSE>
+banana, grape, mango, pear.
+<RESPONSE>
+
+<PROMPT>
+What did my coworker say in the email I haven't shared?
+<PROMPT>
+<RESPONSE>
+I can't see that email. Please paste it here.
+<RESPONSE>
+
+<PROMPT>
+How do I start a meeting on time?
+<PROMPT>
+<RESPONSE>
+Share the agenda beforehand and begin at the scheduled time.
+<RESPONSE>
+
+<PROMPT>
+Translate 'goodbye' into French.
+<PROMPT>
+<RESPONSE>
+Au revoir.
+<RESPONSE>
+
+<PROMPT>
+240 + 115 = ?
+<PROMPT>
+<RESPONSE>
+355.
+<RESPONSE>
+
+<PROMPT>
+Does 'planet' contain the letter n?
+<PROMPT>
+<RESPONSE>
+Yes.
+<RESPONSE>
+
+<PROMPT>
+Calculate -14 × 13.
+<PROMPT>
+<RESPONSE>
+-182.
+<RESPONSE>
+
+<PROMPT>
+Calculate -73 + -69.
+<PROMPT>
+<RESPONSE>
+-142.
+<RESPONSE>
+
+<PROMPT>
+What does USB stand for?
+<PROMPT>
+<RESPONSE>
+Universal Serial Bus.
+<RESPONSE>
+
+<PROMPT>
+What is the main idea of a paragraph?
+<PROMPT>
+<RESPONSE>
+Its central point.
+<RESPONSE>
+
+<PROMPT>
+Calculate -68 ÷ 4.
+<PROMPT>
+<RESPONSE>
+-17.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 29 = 91.
+<PROMPT>
+<RESPONSE>
+x = 62.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: banana, grape, lime, pear.
+<PROMPT>
+<RESPONSE>
+banana, grape, lime, pear.
+<RESPONSE>
+
+<PROMPT>
+What is 10% of 436?
+<PROMPT>
+<RESPONSE>
+43.6.
+<RESPONSE>
+
+<PROMPT>
+What is two plus two? Don't overexplain.
+<PROMPT>
+<RESPONSE>
+4.
+<RESPONSE>
+
+<PROMPT>
+Summarize the contract I mentioned, but did not provide.
+<PROMPT>
+<RESPONSE>
+Please share the contract so I can summarize it.
+<RESPONSE>
+
+<PROMPT>
+How do I center text in CSS?
+<PROMPT>
+<RESPONSE>
+`text-align: center;`
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: fig, date, melon, banana.
+<PROMPT>
+<RESPONSE>
+banana, date, fig, melon.
+<RESPONSE>
+
+<PROMPT>
+What is -14 divided by 7?
+<PROMPT>
+<RESPONSE>
+-2.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: 24, -24, 43, -19, 34.
+<PROMPT>
+<RESPONSE>
+-24, -19, 24, 34, 43.
+<RESPONSE>
+
+<PROMPT>
+What is an atom?
+<PROMPT>
+<RESPONSE>
+The smallest unit of an element that retains its chemical identity.
+<RESPONSE>
+
+<PROMPT>
+Write a short message saying I received the meeting notes.
+<PROMPT>
+<RESPONSE>
+I received the meeting notes. Thank you.
+<RESPONSE>
+
+<PROMPT>
+What is -85 divided by 17?
+<PROMPT>
+<RESPONSE>
+-5.
+<RESPONSE>
+
+<PROMPT>
+What is 5 + 177?
+<PROMPT>
+<RESPONSE>
+182.
+<RESPONSE>
+
+<PROMPT>
+What is the square root of 144?
+<PROMPT>
+<RESPONSE>
+12.
+<RESPONSE>
+
+<PROMPT>
+What is the first step in debugging a reproducible error?
+<PROMPT>
+<RESPONSE>
+Reproduce it consistently and capture the exact error message.
+<RESPONSE>
+
+<PROMPT>
+Solve x + 2 = 18.
+<PROMPT>
+<RESPONSE>
+x = 16.
+<RESPONSE>
+
+<PROMPT>
+What is a triangle with three equal sides called?
+<PROMPT>
+<RESPONSE>
+An equilateral triangle.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -25 = 43.
+<PROMPT>
+<RESPONSE>
+x = 68.
+<RESPONSE>
+
+<PROMPT>
+Convert 463 weeks to days.
+<PROMPT>
+<RESPONSE>
+3,241 days.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: banana, melon, pear, peach.
+<PROMPT>
+<RESPONSE>
+banana, melon, peach, pear.
+<RESPONSE>
+
+<PROMPT>
+Calculate 147 ÷ 21.
+<PROMPT>
+<RESPONSE>
+7.
+<RESPONSE>
+
+<PROMPT>
+Is 97 even or odd?
+<PROMPT>
+<RESPONSE>
+Odd.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the budget review is on Wednesday.
+<PROMPT>
+<RESPONSE>
+Reminder: The budget review is on Wednesday.
+<RESPONSE>
+
+<PROMPT>
+What does 401 mean in HTTP?
+<PROMPT>
+<RESPONSE>
+Authentication is required or has failed.
+<RESPONSE>
+
+<PROMPT>
+Fix the comma splice: The door was locked, we waited.
+<PROMPT>
+<RESPONSE>
+The door was locked, so we waited.
+<RESPONSE>
+
+<PROMPT>
+Calculate 14 ÷ 2.
+<PROMPT>
+<RESPONSE>
+7.
+<RESPONSE>
+
+<PROMPT>
+-55 - 201 = ?
+<PROMPT>
+<RESPONSE>
+-256.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: melon, lime, pear, grape.
+<PROMPT>
+<RESPONSE>
+grape, lime, melon, pear.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the presentation on Wednesday.
+<PROMPT>
+<RESPONSE>
+The presentation — Wednesday
+<RESPONSE>
+
+<PROMPT>
+What is 10% of 416?
+<PROMPT>
+<RESPONSE>
+41.6.
+<RESPONSE>
+
+<PROMPT>
+What is 5% of 123?
+<PROMPT>
+<RESPONSE>
+6.15.
+<RESPONSE>
+
+<PROMPT>
+199 + -6 = ?
+<PROMPT>
+<RESPONSE>
+193.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -8 = -34.
+<PROMPT>
+<RESPONSE>
+x = -26.
+<RESPONSE>
+
+<PROMPT>
+What is a triangle with one right angle called?
+<PROMPT>
+<RESPONSE>
+A right triangle.
+<RESPONSE>
+
+<PROMPT>
+What is the absolute value of 66?
+<PROMPT>
+<RESPONSE>
+66.
+<RESPONSE>
+
+<PROMPT>
+Solve x + -18 = -49.
+<PROMPT>
+<RESPONSE>
+x = -31.
+<RESPONSE>
+
+<PROMPT>
+-5 × 20 = ?
+<PROMPT>
+<RESPONSE>
+-100.
+<RESPONSE>
+
+<PROMPT>
+What is -86 - 163?
+<PROMPT>
+<RESPONSE>
+-249.
+<RESPONSE>
+
+<PROMPT>
+What is 20% of 884?
+<PROMPT>
+<RESPONSE>
+176.8.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the design meeting is on Wednesday.
+<PROMPT>
+<RESPONSE>
+Reminder: The design meeting is on Wednesday.
+<RESPONSE>
+
+<PROMPT>
+What is a boolean?
+<PROMPT>
+<RESPONSE>
+A value that is either true or false.
+<RESPONSE>
+
+<PROMPT>
+How do I check if a file exists in Python?
+<PROMPT>
+<RESPONSE>
+`Path('file.txt').exists()` after `from pathlib import Path`.
+<RESPONSE>
+
+<PROMPT>
+Write a short reminder that the interview is on Wednesday.
+<PROMPT>
+<RESPONSE>
+Reminder: The interview is on Wednesday.
+<RESPONSE>
+
+<PROMPT>
+Shorten: At this point in time, we are currently reviewing the proposal.
+<PROMPT>
+<RESPONSE>
+We are reviewing the proposal.
+<RESPONSE>
+
+<PROMPT>
+What is 10 to the power of 3?
+<PROMPT>
+<RESPONSE>
+1,000.
+<RESPONSE>
+
+<PROMPT>
+What is 525 divided by 25?
+<PROMPT>
+<RESPONSE>
+21.
+<RESPONSE>
+
+<PROMPT>
+Write a short message saying I received the plan.
+<PROMPT>
+<RESPONSE>
+I received the plan. Thank you.
+<RESPONSE>
+
+<PROMPT>
+Fix the comma splice: The bus was late, I walked.
+<PROMPT>
+<RESPONSE>
+The bus was late, so I walked.
+<RESPONSE>
+
+<PROMPT>
+Is 854 even or odd?
+<PROMPT>
+<RESPONSE>
+Even.
+<RESPONSE>
+
+<PROMPT>
+Alphabetize: date, fig, melon, pear.
+<PROMPT>
+<RESPONSE>
+date, fig, melon, pear.
+<RESPONSE>
+
+<PROMPT>
+Write a short subject line for the product demo on Tuesday.
+<PROMPT>
+<RESPONSE>
+The product demo — Tuesday
+<RESPONSE>
+
+<PROMPT>
+What is 10% of 241?
+<PROMPT>
+<RESPONSE>
+24.1.
+<RESPONSE>
+
+<PROMPT>
+What is the unit of electric current?
+<PROMPT>
+<RESPONSE>
+The ampere.
+<RESPONSE>
+
+<PROMPT>
+Write a short follow-up asking for an update on the schedule.
+<PROMPT>
+<RESPONSE>
+Could you share an update on the schedule?
+<RESPONSE>
+
+<PROMPT>
+Solve x + 5 = -35.
+<PROMPT>
+<RESPONSE>
+x = -40.
+<RESPONSE>
+
+<PROMPT>
+Calculate -25 + -4.
+<PROMPT>
+<RESPONSE>
+-29.
+<RESPONSE>
+
+<PROMPT>
+Calculate 9 × 15.
+<PROMPT>
+<RESPONSE>
+135.
+<RESPONSE>
+
+<PROMPT>
+What is an emergency fund?
+<PROMPT>
+<RESPONSE>
+Money set aside for unexpected necessary expenses.
+<RESPONSE>
+
+<PROMPT>
+What is -120 divided by 6?
+<PROMPT>
+<RESPONSE>
+-20.
+<RESPONSE>
+
+<PROMPT>
+Write a one-sentence reminder about a Friday deadline.
+<PROMPT>
+<RESPONSE>
+Reminder: The deadline is Friday.
+<RESPONSE>
+
+<PROMPT>
+Write a short message saying I received the summary.
+<PROMPT>
+<RESPONSE>
+I received the summary. Thank you.
+<RESPONSE>
+
+<PROMPT>
+How many bytes are in a kibibyte?
+<PROMPT>
+<RESPONSE>
+1,024 bytes.
+<RESPONSE>
+
+<PROMPT>
+137 + 146 = ?
+<PROMPT>
+<RESPONSE>
+283.
+<RESPONSE>
+
+<PROMPT>
+What is the sum of the first five positive integers?
+<PROMPT>
+<RESPONSE>
+15.
+<RESPONSE>
+
+<PROMPT>
+What is a molecule?
+<PROMPT>
+<RESPONSE>
+Two or more atoms bonded together.
+<RESPONSE>
+
+<PROMPT>
+What does MFA stand for?
+<PROMPT>
+<RESPONSE>
+Multifactor authentication.
+<RESPONSE>
+
+<PROMPT>
+Sort ascending: 12, 29, -1, 33, 2.
+<PROMPT>
+<RESPONSE>
+-1, 2, 12, 29, 33.
+<RESPONSE>
+
+<PROMPT>
+Correct the grammar: Me and him went to the store.
+<PROMPT>
+<RESPONSE>
+He and I went to the store.
+<RESPONSE>
+
+<PROMPT>
+How do I select an element by ID in JavaScript?
+<PROMPT>
+<RESPONSE>
+`document.getElementById('my-id')`
+<RESPONSE>
+
+<PROMPT>
+Calculate 31 + 96.
+<PROMPT>
+<RESPONSE>
+127.
+<RESPONSE>
+
+<PROMPT>
+How can I make a slow query faster?
+<PROMPT>
+<RESPONSE>
+Inspect its execution plan, then check filters, joins, and indexes.
+<RESPONSE>
+
+<PROMPT>
+What is the area of a rectangle 3 cm by 5 cm?
+<PROMPT>
+<RESPONSE>
+15 cm².
+<RESPONSE>
+
+<PROMPT>
+What is 25% of 729?
+<PROMPT>
+<RESPONSE>
+182.25.
+<RESPONSE>
+
+<PROMPT>
+How many letters are in "avocado"?
+<PROMPT>
+<RESPONSE>
+7.
+<RESPONSE>
+
+<PROMPT>
+Make the word peach uppercase.
+<PROMPT>
+<RESPONSE>
+PEACH.
+<RESPONSE>
+
+<PROMPT>
+Convert 551 kilograms to grams.
+<PROMPT>
+<RESPONSE>
+551,000 grams.
+<RESPONSE>
+
