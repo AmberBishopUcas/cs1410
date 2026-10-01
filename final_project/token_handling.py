@@ -66,3 +66,9 @@ def token_to_chunk(tokens):
 def chunk_to_sentence(chunks):
     """Join chunk strings back into a single sentence string."""
     return "".join(chunks)
+
+def sentence_to_tokens(sentence):
+    """Convert a sentence string directly into a list of numeric token IDs."""
+    chunks = sentence_to_chunks(sentence)
+    tokens = chunk_to_tokens(chunks)
+    return tokens

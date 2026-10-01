@@ -5,6 +5,8 @@
 # The formula below reflects the general idea behind the gradient calculation:
 # (W^T_next × Error_next) ⊙ g'(z)
 # This is a core concept for training large language models and other neural nets.
+from ast import If
+
 from matrix_handling import matrix_transpose as transpose, matrix_multiplication as multiply, hadamard_product as hadamard, create_matrix
 from nural_net_handling import softmax
 
@@ -43,3 +45,23 @@ def find_layers_errors(network, weights, expected_token):
         )
         
     return error
+
+def nudge_layer(network, weights, learning_rate, error):
+    network_n = {}
+    weights_n = {}
+    for i in range(len(network)):
+        network_n[i] = create_matrix(len(network[i]), 2)
+        weights_n[i] = create_matrix(len(weights[i]), len(weights[i][0]))
+        for j in range(len(network[i])):
+            # Update the bias
+            if network[i][j][0] != 0:
+                network_n[i][j][1] = network[i][j][1] - (learning_rate * error[i][j][0])
+            else:
+                network_n[i][j][1] = network[i][j][1]
+            for k in range(len(weights[i][j])):
+                # Update the weight
+                if network[i][j][0] != 0:
+                    weights_n[i][j][k] = weights[i][j][k] - (learning_rate * error[i][j][0] * network[i-1][k][0])
+                else:
+                    weights_n[i][j][k] = weights[i][j][k]
+    return network_n, weights_n
